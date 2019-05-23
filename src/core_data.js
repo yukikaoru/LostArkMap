@@ -4,7 +4,7 @@ const Constants = Object.freeze({
     "ErrorImagePath": 'maps/areas/blank.png',
     'AchievementMarkerColor': '#ff9900',
     'FPS': 30,
-    'SettingsVersion': 8,
+    'SettingsVersion': 9,
     'SettingsKey': 'LAM_SETTINGS',
     'MaxSearchResults': 50,
     'SeoulMomentTZName': 'Asia/Seoul',

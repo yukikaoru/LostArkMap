@@ -12,6 +12,11 @@
             preview: "LostArkDB.jpg"
         },
         {
+            title: "Lost Ark English Resource",
+            url: "https://infolao.tistory.com/",
+            preview: "laenres.jpg"
+        },
+        {
             title: "FCBT Cheat Sheet",
             url: "https://docs.google.com/spreadsheets/d/1ckHLn9PFlCp9UTMo_B8fGCFs93r9V-k4IDRKtAcyhpU/htmlview#",
             preview: 'FCBTCheatSheet.jpg'

@@ -112,6 +112,21 @@
         },
         8: {
             n: "1.7",
+            d: "2019-05-22",
+            e: [
+                'Added Rohendel Maps',
+                'Added 1 Guide',
+                'Added 15 Bosses',
+                'Added 14 Food Ingredients',
+                'Added 8 Hidden Quests',
+                'Added 22 Hidden Stories',
+                'Added 68 Mokoko Seeds',
+                'Added 9 Vista Points',
+                'Added 1 World Boss'
+            ]
+        },
+        9: {
+            n: "1.8",
             d: "TBD",
             e: [
 

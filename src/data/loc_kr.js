@@ -186,7 +186,16 @@
         "Rimlake North": "림레이크 북섬",
         "Kurzan": "쿠르잔",
         "Peirun": "페이른",
-        "Bern South": "베른 남부"
+        "Bern South": "베른 남부",
+        "Rohendel": "로헨델",
+        "Silver Lake": "은빛물결 호수",
+        "Roarun": "로아룬",
+        "Glass Lotus Lake": "유리연꽃 호수",
+        "Wind Scent Hill": "바람향기 언덕",
+        "Devastated Jenna": "파괴된 제나일",
+        "Elzowin's Shadow": "엘조윈의 그늘",
+        "Land of the Spirits": "정령의 땅",
+        "Palace of Dreams": "몽환의 궁전"
     };
 
     console.log("Registered Localization: " + LocalizationLanguage.Korean);
