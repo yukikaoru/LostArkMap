@@ -283,7 +283,7 @@
         {
             "x": -474.5,
             "y": 121.26,
-            "popupText": "코룸바의 고양이",
+            "popupText": "Cat in Corumba",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/LeonhardHiddenStory2.jpg",
             "id": 24
@@ -291,16 +291,16 @@
         {
             "x": -452.75,
             "y": 133.02,
-            "popupText": "해바라기 같은 사랑 #1",
+            "popupText": "Love like Sunflower #1",
             "type": MarkerTypeEnum.HiddenStory,
-            "hintText": "시간제한 20분 있습니다.",
+            "hintText": "Time limit is 20 minutes.",
             "hintImage": "artemis/LeonhardHiddenStory3.jpg",
             "id": 25
         },
         {
             "x": -454.5,
             "y": 134.13,
-            "popupText": "해바라기 같은 사랑 #3",
+            "popupText": "Love like Sunflower #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/LeonhardHiddenStory3.jpg",
             "id": 26
@@ -310,7 +310,7 @@
             "y": 93.89,
             "popupText": "Neria",
             "type": MarkerTypeEnum.NPCFavor,
-            "hintText": "고대의 금화x5 (5000실링)<br>고대의 금화x25 (25000실링)<br>레온하트 네리아 (카드)<br>굳은 의지 각인서 I / 위대한 미술품 #1 (호감도아이템) / 시작되는 감정의 투구(머리 아바타)",
+            "hintText": "Ancient Gold Coins x5 (5000 Shillings) <br> Ancient Gold Coins x25 (25,000 Shillings) <br> Leon Heart Nelia (Card) <br> Strong Will Engraving I / Great Art # 1 (Favorable Item) Helm (head avatar)",
             "hintImage": "artemis/LeonhardFavorNPCHint1.jpg",
             "id": 27
         },
@@ -319,34 +319,34 @@
             "y": 75.01,
             "popupText": "Shira",
             "type": MarkerTypeEnum.NPCFavor,
-            "hintText": "고대의 금화x5 (5000실링)<br>부활의 깃털x2<br>특별한 감자 (모험의 서)",
+            "hintText": "Ancient gold coins x5 (5000 shillings) <br> Feather of resurrection x2 <br> Special potatoes (adventure book)",
             "hintImage": "artemis/LeonhardFavorNPCHint2.jpg",
             "id": 28
         },
         {
             "x": -388.25,
             "y": 83.39,
-            "popupText": "베다의 레온하트 가정식",
+            "popupText": "Veda's Homemade Dish",
             "type": MarkerTypeEnum.CookingIngredient,
-            "hintText": "레온하트 요리상인 NPC - 베다<br>3000실링에 구매 가능",
+            "hintText": "Leonhard Cooking Trader NPC - Veda - available for 3000 shillings",
             "hintImage": "artemis/LeonhardCookingIngredientHint1.jpg",
             "id": 29
         },
         {
             "x": -456.62,
             "y": 78.76,
-            "popupText": "성흔과 자국이 새겨진 감자",
+            "popupText": "Marked Potatoes",
             "type": MarkerTypeEnum.CookingIngredient,
-            "hintText": "레온하트 NPC - 시이라<br>호감도 신뢰 달성 시 식재료 획득 가능",
+            "hintText": "Leonhard Chef NPC - Shira<br>Food can be obtained after reaching certain reputation",
             "hintImage": "artemis/LeonhardCookingIngredientHint2.jpg",
             "id": 30
         },
         {
             "x": -481.25,
             "y": 135.76,
-            "popupText": "거대한 밀 자루",
+            "popupText": "Giant Sack of Wheat",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "레온하트 요리사NPC - 헬리<br>레그리아 밀 빵 식재료",
+            "hintText": "Leonhard Cooking NPC - Heli <br> ingredients for Reggie Wheat bread",
             "hintImage": "artemis/LeonhardFoodIngredientHint1.jpg",
             "id": 31
         },
@@ -358,7 +358,8 @@
                 -496.25,
                 230.13
             ],
-            "id": 32
+            "id": 32,
+            "title": "##To Loghills"
         },
         {
             "x": -356.12,
@@ -368,7 +369,8 @@
                 -314.25,
                 249.03
             ],
-            "id": 34
+            "id": 34,
+            "title": "##To Angemos Mountains"
         },
         {
             "x": -404.87,
@@ -378,7 +380,8 @@
                 -356.12,
                 444.63
             ],
-            "id": 35
+            "id": 35,
+            "title": "##To Poisonclaw Robber Cave"
         },
         {
             "x": -472.25,
@@ -448,7 +451,7 @@
         {
             "x": -470.62,
             "y": 223.77,
-            "popupText": "오래된 낚시터",
+            "popupText": "Old fishing Spot",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/LoghillsVistaHint1.jpg",
             "id": 45
@@ -456,7 +459,7 @@
         {
             "x": -443,
             "y": 262.51,
-            "popupText": "예배당 폐허",
+            "popupText": "Ruined Chapel",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/LoghillsVistaHint2.jpg",
             "id": 46
@@ -464,7 +467,7 @@
         {
             "x": -422.75,
             "y": 258.07,
-            "popupText": "폭포 다리",
+            "popupText": "Waterfall Bridge",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/LoghillsVistaHint3.jpg",
             "id": 47
@@ -472,7 +475,7 @@
         {
             "x": -420.31,
             "y": 271.07,
-            "popupText": "무너진 다리",
+            "popupText": "Broken Bridge",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/LoghillsVistaHint4.jpg",
             "id": 48
@@ -480,34 +483,34 @@
         {
             "x": -460.75,
             "y": 217.63,
-            "popupText": "해바라기 같은 사랑 #2",
+            "popupText": "Love like Sunflower #2",
             "type": MarkerTypeEnum.HiddenStory,
-            "hintText": "시간제한 20분",
+            "hintText": "Time limit is 20 minutes.",
             "hintImage": "artemis/LoghillsHiddenStoryHint1.jpg",
             "id": 49
         },
         {
             "x": -388.69,
             "y": 268.31,
-            "popupText": "백마를 탄 왕자님 #1",
+            "popupText": "Prince with the white Horse #1",
             "type": MarkerTypeEnum.HiddenStory,
-            "hintText": "시간제한 20분",
+            "hintText": "Time limit is 20 minutes.",
             "hintImage": "artemis/LoghillsHiddenStoryHint2.jpg",
             "id": 50
         },
         {
             "x": -462.62,
             "y": 230.38,
-            "popupText": "상자(랜덤)",
+            "popupText": "Box (Random)",
             "type": MarkerTypeEnum.TreasureBox,
-            "hintText": "낡은 금열쇠 필요",
+            "hintText": "Old Gold Key required",
             "hintImage": "artemis/LoghillsTreasureHint1.jpg",
             "id": 51
         },
         {
             "x": -454.75,
             "y": 237.13,
-            "popupText": "독발톱 도굴단 탐색가",
+            "popupText": "Poison Claw Scout",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/LoghillsBossHint1.jpg",
             "id": 52
@@ -515,7 +518,7 @@
         {
             "x": -460.12,
             "y": 244.64,
-            "popupText": "우두머리 붉은 부리 백새 #1",
+            "popupText": "Read Beak Bird #1",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/LoghillsBossHint2.jpg",
             "id": 53
@@ -523,7 +526,7 @@
         {
             "x": -439.25,
             "y": 256.89,
-            "popupText": "우두머리 붉은 부리 백새 #2",
+            "popupText": "Read Beak Bird #2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/LoghillsBossHint3.jpg",
             "id": 54
@@ -531,7 +534,7 @@
         {
             "x": -384.94,
             "y": 290.62,
-            "popupText": "우두머리 크리클로우",
+            "popupText": "Chief Cry Claw",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/LoghillsBossHint4.jpg",
             "id": 55
@@ -539,16 +542,16 @@
         {
             "x": -455.25,
             "y": 239.26,
-            "popupText": "공명의 노래",
+            "popupText": "Song of Resonance",
             "type": MarkerTypeEnum.PlayInstrument,
             "hintImage": "artemis/LoghillsPlayMusicHint1.jpg",
-            "hintText": "초반 시작구간에서는 없고, 해당 지역 시나리오 퀘스트를 깨면 그때부터 조작가능해요.",
+            "hintText": "It is not possible to start from the beginning, and if you wake up the local scenario quest, you can operate it from then on.",
             "id": 56
         },
         {
             "x": -381.06,
             "y": 217.25,
-            "popupText": "숲의 미뉴에트",
+            "popupText": "Minuet of the forest",
             "type": MarkerTypeEnum.PlayInstrument,
             "hintText": "Play 'Minuet of the forest' (숲의 미뉴에트)<br>grants access to the Mokoko Seeds here",
             "hintImage": "artemis/LoghillsPlayMusicHint2.jpg",
@@ -559,7 +562,7 @@
             "y": 258.76,
             "popupText": "토악질 덩어리",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "레온하트 요리사NPC - 헬리<br>고단백 백새 스튜 식재료",
+            "hintText": "Leonhard Chef NPC - Heli - High Protein White Horse Stew Food ingredients",
             "hintImage": "artemis/LoghillsFoodIngredientHint1.jpg",
             "id": 58
         },
@@ -638,7 +641,8 @@
                 -148.75,
                 251.78
             ],
-            "id": 68
+            "id": 68,
+            "title": "##To Borderlands"
         },
         {
             "x": -206.25,
@@ -648,7 +652,8 @@
                 -249,
                 494.98
             ],
-            "id": 69
+            "id": 69,
+            "title": "##To Agiloth's head"
         },
         {
             "x": -279.5,
@@ -810,7 +815,8 @@
                 -154.5,
                 81.03
             ],
-            "id": 90
+            "id": 90,
+            "title": "##To Agiloth's Tail"
         },
         {
             "x": -16.94,
@@ -821,7 +827,8 @@
                 416.88
             ],
             "teleportArea": "Yudia",
-            "id": 91
+            "id": 91,
+            "title": "##To Saland Hills"
         },
         {
             "x": -139.37,
@@ -1464,7 +1471,7 @@
         {
             "x": -380.6,
             "y": 264.6,
-            "popupText": "우두머리 크리클로우 #2",
+            "popupText": "Chief Cry Claw # 2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/LoghillsBossHint4.jpg",
             "id": 180

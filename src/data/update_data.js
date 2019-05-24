@@ -129,7 +129,9 @@
             n: "1.8",
             d: "TBD",
             e: [
-
+                'Added Discord Link',
+                'Added Lots of Translations for hints and descriptions',
+                'Added Privacy Policy'
             ]
         }
     };

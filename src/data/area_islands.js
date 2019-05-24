@@ -514,8 +514,7 @@
     area.registerMap("Ribeheim", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Become 'Trustworthy' with Henry (헨리)",
-            "heartKR": "헨리 호감도 '신뢰'",
+            "heart": "Become 'Trustworthy' with Henry",
             "ilvl": 250
         },
         "bounds": [
@@ -534,7 +533,6 @@
         "type": MapTypeEnum.Island,
         "meta": {
             "heart": "Treasure Chest in the Field",
-            "heartKR": "필드 보물상자",
             "ilvl": 250
         },
         "bounds": [
@@ -572,7 +570,6 @@
         "type": MapTypeEnum.Island,
         "meta": {
             "heart": "Treasure Chest in the Field",
-            "heartKR": "필드 보물상자",
             "ilvl": 250
         },
         "bounds": [
@@ -1081,7 +1078,7 @@
     area.registerMap("Panda Pupu Island", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Become \'Trustworthy\' with Pupu (푸푸)",
+            "heart": "Become \'Trustworthy\' with Pupu",
             "heartKR": "푸푸 호감도 '신뢰'",
             "ilvl": 250
         },
@@ -1157,7 +1154,7 @@
     area.registerMap("Estella", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "필드 별똥별",
+            "heart": "Field Diver",
             "ilvl": 200
         },
         "bounds": [

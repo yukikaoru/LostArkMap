@@ -517,7 +517,7 @@
         {
             "x": -289.81,
             "y": 232.95,
-            "popupText": "공명의 노래",
+            "popupText": "Song of Resonance",
             "type": MarkerTypeEnum.PlayInstrument,
             "hintImage": "lutheran/MedlinicPlayInstrumentHint1.jpg",
             "id": 69

@@ -687,7 +687,7 @@
             "y": 406.01,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 116,
-            "popupText": "Pupu (푸푸)"
+            "popupText": "Pupu"
         },
         {
             "x": -222.99,
@@ -796,7 +796,7 @@
             "y": 290.63,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 134,
-            "popupText": "Henry (헨리)"
+            "popupText": "Henry"
         },
         {
             "x": -338.73,

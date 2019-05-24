@@ -312,7 +312,7 @@
             "y": 320.76,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 41,
-            "popupText": "공명의 노래",
+            "popupText": "Song of Resonance",
             "hintImage": "bern/RaniaPlayInstrumentHint1.jpg"
         },
         {

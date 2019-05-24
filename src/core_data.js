@@ -22,7 +22,8 @@ const ContentTypeEnum = Object.freeze({
     "Events": "content_events",
     "FAQ": "content_faq",
     "Statistics": "content_statistics",
-    "Changelog": "content_changelog"
+    "Changelog": "content_changelog",
+    "Privacy Policy": "content_privacy_policy"
 });
 
 const MapTypeEnum = Object.freeze({
@@ -316,27 +317,27 @@ MarkerTypeDefaultTitle = function(markerType) {
         }
 
         case MarkerTypeEnum.SeaAreaAquatic: {
-            return "Aquatic Area (수초 해역)";
+            return "Aquatic Area";
         }
 
         case MarkerTypeEnum.SeaAreaDeath: {
-            return "Death Area (망자 해역)";
+            return "Death Area";
         }
 
         case MarkerTypeEnum.SeaAreaIce: {
-            return "Ice Area (한파 해역)";
+            return "Ice Area";
         }
 
         case MarkerTypeEnum.SeaAreaSandstorm: {
-            return "Sandstorm Area (모래폭풍 해역)";
+            return "Sandstorm Area";
         }
 
         case MarkerTypeEnum.SeaAreaSiren: {
-            return "Siren Area (세이렌 해역)";
+            return "Siren Area";
         }
 
         case MarkerTypeEnum.SeaAreaStorm: {
-            return "Stormy Area (폭풍우 해역)";
+            return "Stormy Area";
         }
 
         case MarkerTypeEnum.Note: {
