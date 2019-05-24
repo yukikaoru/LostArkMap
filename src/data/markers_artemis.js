@@ -693,7 +693,7 @@
         {
             "x": -309.37,
             "y": 245.13,
-            "popupText": "백마를 탄 왕자님 #2",
+            "popupText": "Prince with the white Horse #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/AngemosHiddenStoryHint1.jpg",
             "id": 75
@@ -701,7 +701,7 @@
         {
             "x": -277,
             "y": 228.89,
-            "popupText": "주정뱅이의 진실",
+            "popupText": "The truth of the drunkard",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/AngemosHiddenStoryHint2.jpg",
             "id": 76
@@ -709,7 +709,7 @@
         {
             "x": -284.12,
             "y": 243.26,
-            "popupText": "우두머리 이끼늑대 #1",
+            "popupText": "Head Moss Wolf #1",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint1.jpg",
             "id": 77
@@ -717,7 +717,7 @@
         {
             "x": -264.5,
             "y": 293.75,
-            "popupText": "악취나는 뼈다귀 점액 괴물",
+            "popupText": "Odorless Bone Mucus Monster",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint2.jpg",
             "id": 78
@@ -725,7 +725,7 @@
         {
             "x": -259.5,
             "y": 283.25,
-            "popupText": "우두머리 이끼늑대 #2",
+            "popupText": "Head Moss Wolf #2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint3.jpg",
             "id": 79
@@ -733,7 +733,7 @@
         {
             "x": -268.25,
             "y": 203.39,
-            "popupText": "알수없이 뒤엉킨 변이체",
+            "popupText": "Unknown mutant",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint4.jpg",
             "id": 80
@@ -741,7 +741,7 @@
         {
             "x": -224.12,
             "y": 286.37,
-            "popupText": "우두머리 신비뱀",
+            "popupText": "Head Mystery Snake",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint5.jpg",
             "id": 81
@@ -749,7 +749,7 @@
         {
             "x": -233.37,
             "y": 262.75,
-            "popupText": "폭포가 떨어지는 계곡",
+            "popupText": "Valley where the falls fall",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/AngemosVistaHint1.jpg",
             "id": 82
@@ -855,7 +855,7 @@
             "x": -82.25,
             "y": 257.32,
             "type": MarkerTypeEnum.Mokoko,
-            "hintText": "2 Seeds at this location",
+            "hintText": "2 seeds at this location",
             "hintImage": "artemis/BorderlandsMokokoHint4.jpg",
             "id": 95
         },
@@ -863,7 +863,7 @@
             "x": -82.62,
             "y": 255.94,
             "type": MarkerTypeEnum.Mokoko,
-            "hintText": "2 Seeds at this location",
+            "hintText": "2 seeds at this location",
             "hintImage": "artemis/BorderlandsMokokoHint4.jpg",
             "id": 96
         },
@@ -916,7 +916,7 @@
         {
             "x": -118,
             "y": 228.01,
-            "popupText": "불타버린 사랑",
+            "popupText": "Burned Love",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/BorderlandsHiddenStoryHint1.jpg",
             "id": 103
@@ -924,7 +924,7 @@
         {
             "x": -111.12,
             "y": 276.37,
-            "popupText": "백마를 탄 왕자님 #3",
+            "popupText": "Prince with the white Horse #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/BorderlandsHiddenStoryHint2.jpg",
             "id": 104
@@ -932,7 +932,7 @@
         {
             "x": -72.5,
             "y": 245.75,
-            "popupText": "저주받은 묘지기",
+            "popupText": "Cursed Grave",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/BorderlandsHiddenStoryHint3.jpg",
             "id": 105
@@ -940,7 +940,7 @@
         {
             "x": -88.5,
             "y": 247.25,
-            "popupText": "레그리아 꽃 기름",
+            "popupText": "Regulus flower oil",
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "artemis/BorderlandsCookingIngredientHint1.jpg",
             "id": 106
@@ -948,16 +948,16 @@
         {
             "x": -52.25,
             "y": 262,
-            "popupText": "적아목 새순",
+            "popupText": "Fermented Evergreen Crab",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "레온하트 요리사NPC - 헬리<br>적아목 새순 발효주 식재료",
+            "hintText": "Leonhard cook NPC - Heli <br> Fermented Evergreen Crab, food ingredients",
             "hintImage": "artemis/BorderlandsFoodIngredientHint1.jpg",
             "id": 107
         },
         {
             "x": -78.25,
             "y": 259.38,
-            "popupText": "국경지대 수도원",
+            "popupText": "Borderland Monastery",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/BorderlandsVistaHint1.jpg",
             "id": 108
@@ -965,7 +965,7 @@
         {
             "x": -57.5,
             "y": 222.13,
-            "popupText": "여신상",
+            "popupText": "Statue of God",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "artemis/BorderlandsVistaHint2.jpg",
             "id": 109
@@ -973,7 +973,7 @@
         {
             "x": -79.75,
             "y": 235.82,
-            "popupText": "루드릭",
+            "popupText": "Rudrick",
             "type": MarkerTypeEnum.WorldBoss,
             "hintText": "활동범위가 매우 넓으니 공동묘지 주변을 잘 찾아보자",
             "id": 110

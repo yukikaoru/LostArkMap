@@ -2497,7 +2497,7 @@
             ],
             "img": "02.jpg",
             "grade": 3,
-            "name": "루드릭",
+            "name": "Rudrick",
             "attr": 6,
             "line": 1,
             "cost": 3,
