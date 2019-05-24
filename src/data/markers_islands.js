@@ -62,8 +62,8 @@
             "id": 9
         },
         {
-            "x": -85.24,
-            "y": 336.33,
+            "x": -85.421875,
+            "y": 336.375029875717,
             "type": MarkerTypeEnum.Mokoko,
             "id": 10
         },
@@ -202,8 +202,9 @@
         {
             "x": -167.81,
             "y": 346.84,
-            "type": MarkerTypeEnum.Mokoko,
-            "id": 33
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 33,
+            "title": "Mokoko Seed"
         },
         {
             "x": -167.89,
@@ -266,13 +267,6 @@
             "id": 43
         },
         {
-            "x": -104.05,
-            "y": 393.55,
-            "type": MarkerTypeEnum.SecretPassage,
-            "id": 44,
-            "hintText": "you have to play \"Song of Resonance\" in front of the Statue<br>\nProvides access to the 3 seeds at the right"
-        },
-        {
             "x": -104.85,
             "y": 390.76,
             "type": MarkerTypeEnum.Mokoko,
@@ -309,14 +303,14 @@
             "id": 51
         },
         {
-            "x": -188.93,
-            "y": 319.32,
+            "x": -188.9609375,
+            "y": 319.3124950207138,
             "type": MarkerTypeEnum.Mokoko,
             "id": 52
         },
         {
-            "x": -189.01,
-            "y": 319.46,
+            "x": -189.1328125,
+            "y": 319.42185010356917,
             "type": MarkerTypeEnum.Mokoko,
             "id": 53
         },
@@ -333,14 +327,14 @@
             "id": 55
         },
         {
-            "x": -185.53,
-            "y": 316.62,
+            "x": -185.546875,
+            "y": 316.6406399378585,
             "type": MarkerTypeEnum.Mokoko,
             "id": 56
         },
         {
-            "x": -185.65,
-            "y": 316.75,
+            "x": -185.640625,
+            "y": 316.60146789356276,
             "type": MarkerTypeEnum.Mokoko,
             "id": 57
         },
@@ -652,8 +646,8 @@
             "popupText": "Elder Toto (토토장로)"
         },
         {
-            "x": -229.89,
-            "y": 405.62,
+            "x": -229.703125,
+            "y": 405.664092375717,
             "type": MarkerTypeEnum.Mokoko,
             "id": 111,
             "hintText": "Use Song of Resonance<br>2 Seeds at this location"
@@ -665,8 +659,8 @@
             "id": 112
         },
         {
-            "x": -228.29,
-            "y": 405.27,
+            "x": -228.2265625,
+            "y": 405.3437948135755,
             "type": MarkerTypeEnum.Mokoko,
             "id": 113
         },
@@ -901,8 +895,8 @@
             "id": 151
         },
         {
-            "x": -357.14,
-            "y": 371.11,
+            "x": -357.0703125,
+            "y": 371.109375,
             "type": MarkerTypeEnum.Mokoko,
             "id": 152
         },
@@ -991,12 +985,6 @@
             "id": 166
         },
         {
-            "x": -337.89,
-            "y": 380.92,
-            "type": MarkerTypeEnum.SecretPassage,
-            "id": 167
-        },
-        {
             "x": -352.57,
             "y": 359.4,
             "type": MarkerTypeEnum.Mokoko,
@@ -1027,20 +1015,20 @@
             "id": 172
         },
         {
-            "x": -346.47,
-            "y": 404.15,
+            "x": -345.828125,
+            "y": 404.05462774856596,
             "type": MarkerTypeEnum.Mokoko,
             "id": 173
         },
         {
-            "x": -346.51,
-            "y": 404.27,
+            "x": -345.8359375,
+            "y": 404.1718102692798,
             "type": MarkerTypeEnum.Mokoko,
             "id": 174
         },
         {
-            "x": -357.85,
-            "y": 310.33,
+            "x": -357.8984375,
+            "y": 310.41411727214785,
             "type": MarkerTypeEnum.Mokoko,
             "id": 175
         },
@@ -1057,8 +1045,8 @@
             "id": 177
         },
         {
-            "x": -358.97,
-            "y": 311.93,
+            "x": -358.9609375,
+            "y": 311.8984175828553,
             "type": MarkerTypeEnum.Mokoko,
             "id": 178
         },
@@ -1385,14 +1373,14 @@
             "id": 226
         },
         {
-            "x": -168.49,
-            "y": 342.58,
+            "x": -168.3515625,
+            "y": 342.3123307042702,
             "type": MarkerTypeEnum.Mokoko,
             "id": 227
         },
         {
-            "x": -168.63,
-            "y": 342.43,
+            "x": -168.4609375,
+            "y": 342.1795281628426,
             "type": MarkerTypeEnum.Mokoko,
             "id": 228
         },
@@ -1409,8 +1397,8 @@
             "id": 230
         },
         {
-            "x": -229.9453125,
-            "y": 405.758,
+            "x": -229.7890625,
+            "y": 405.7812649378585,
             "type": MarkerTypeEnum.Mokoko,
             "id": 231,
             "hintText": "Use Song of Resonance<br>2 Seeds at this location"
@@ -1503,8 +1491,8 @@
             "id": 245
         },
         {
-            "x": -133.73,
-            "y": 168.26,
+            "x": -133.984375,
+            "y": 168.0232881214149,
             "type": MarkerTypeEnum.Mokoko,
             "id": 246
         },
@@ -1597,14 +1585,14 @@
             "id": 260
         },
         {
-            "x": -202.13,
-            "y": 145.26,
+            "x": -202.0859375,
+            "y": 145.27344745857235,
             "type": MarkerTypeEnum.Mokoko,
             "id": 261
         },
         {
-            "x": -202.18,
-            "y": 145.4,
+            "x": -202.1640625,
+            "y": 145.35935010356914,
             "type": MarkerTypeEnum.Mokoko,
             "id": 262
         },
@@ -1641,8 +1629,8 @@
             "hintText": "Play Song of Resonance in front of the Statue to gain access to the 2 seeds"
         },
         {
-            "x": -146.96,
-            "y": 192.91,
+            "x": -146.7734375,
+            "y": 193.45347355003187,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 268,
             "popupText": "Minuet of The Forest",
@@ -1661,28 +1649,28 @@
             "id": 270
         },
         {
-            "x": -205.32,
-            "y": 85.38,
+            "x": -205.2578125,
+            "y": 85.37499502071383,
             "type": MarkerTypeEnum.Mokoko,
             "id": 271
         },
         {
-            "x": -205.19,
-            "y": 85.48,
+            "x": -205.171875,
+            "y": 85.55473729286169,
             "type": MarkerTypeEnum.Mokoko,
             "id": 272
         },
         {
-            "x": -205.26,
-            "y": 85.63,
+            "x": -205.453125,
+            "y": 85.6328125,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 273,
             "popupText": "Song of Resonance",
             "hintText": "Play Song of Resonance in front of the Statue to gain access to 2 Seeds, the third is just after the Statue"
         },
         {
-            "x": -242.3,
-            "y": 160.91,
+            "x": -242.4453125,
+            "y": 160.93751991714467,
             "type": MarkerTypeEnum.Mokoko,
             "id": 274
         },
@@ -1693,14 +1681,14 @@
             "id": 275
         },
         {
-            "x": -243.61,
-            "y": 160.56,
+            "x": -243.546875,
+            "y": 160.55468252071384,
             "type": MarkerTypeEnum.Mokoko,
             "id": 276
         },
         {
-            "x": -241.64,
-            "y": 161.89,
+            "x": -241.703125,
+            "y": 161.90625995857235,
             "type": MarkerTypeEnum.Mokoko,
             "id": 277
         },
@@ -1778,8 +1766,8 @@
             "id": 289
         },
         {
-            "x": -295.11,
-            "y": 166.66,
+            "x": -295.078125,
+            "y": 166.65625,
             "type": MarkerTypeEnum.Mokoko,
             "id": 290
         },
@@ -1968,8 +1956,8 @@
             "id": 320
         },
         {
-            "x": -311.45,
-            "y": 152.46,
+            "x": -311.265625,
+            "y": 152.4609375,
             "type": MarkerTypeEnum.Mokoko,
             "id": 321
         },
@@ -2072,6 +2060,389 @@
             "id": 337,
             "popupText": "Minuet of the Forest",
             "hintText": "Play Minuet in the forest to gain access to the 2 seeds"
+        },
+        {
+            "x": -104.05,
+            "y": 393.55,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 44,
+            "hintText": "you have to play \"Song of Resonance\" in front of the Statue<br>\nProvides access to the 3 seeds at the right",
+            "title": "Secret Passage"
+        },
+        {
+            "x": -338.2265625,
+            "y": 380.9531449171447,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 167,
+            "title": "Secret Passage"
+        },
+        {
+            "x": -168.66,
+            "y": 342.49,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 338,
+            "popupText": "공명의 노래",
+            "hintImage": "islands/SlimeInstrumentHint1.jpg"
+        },
+        {
+            "x": -216.34,
+            "y": 166.44,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 339
+        },
+        {
+            "x": -243.79,
+            "y": 160.57,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 340
+        },
+        {
+            "x": -242.27,
+            "y": 160.89,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 341
+        },
+        {
+            "x": -241.52,
+            "y": 161.87,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 342
+        },
+        {
+            "x": -290.2,
+            "y": 358.68,
+            "type": MarkerTypeEnum.GroupQuest,
+            "id": 343,
+            "popupText": "친절 증가 물약"
+        },
+        {
+            "x": -215.52,
+            "y": 380.68,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 344
+        },
+        {
+            "x": -215.62,
+            "y": 380.51,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 345
+        },
+        {
+            "x": -229.23,
+            "y": 404.18,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 346
+        },
+        {
+            "x": -228.37,
+            "y": 405.21,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 347
+        },
+        {
+            "x": -229.98,
+            "y": 405.61,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 348
+        },
+        {
+            "x": -346.51,
+            "y": 404.18,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 349
+        },
+        {
+            "x": -357.91,
+            "y": 404.2,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 350,
+            "title": "Group Quest",
+            "popupText": "생활 포인트 물약"
+        },
+        {
+            "x": -385.53,
+            "y": 351.68,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 351
+        },
+        {
+            "x": -316.2,
+            "y": 337.89,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 352
+        },
+        {
+            "x": -434.03,
+            "y": 379.07,
+            "type": MarkerTypeEnum.GroupQuest,
+            "id": 353,
+            "popupText": "생활 포인트 물약"
+        },
+        {
+            "x": -357.79,
+            "y": 310.29,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 354
+        },
+        {
+            "x": -358.71,
+            "y": 311.72,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 355
+        },
+        {
+            "x": -319.16,
+            "y": 180.48,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 356
+        },
+        {
+            "x": -316.48,
+            "y": 182.33,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 357
+        },
+        {
+            "x": -316.28,
+            "y": 180.58,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 358
+        },
+        {
+            "x": -319.91,
+            "y": 215.99,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 360
+        },
+        {
+            "x": -319.21,
+            "y": 216.93,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 361
+        },
+        {
+            "x": -318.34,
+            "y": 218.03,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 362
+        },
+        {
+            "x": -357.34,
+            "y": 371.12,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 363
+        },
+        {
+            "x": -345.02,
+            "y": 194.71,
+            "type": MarkerTypeEnum.WorldBoss,
+            "id": 364,
+            "popupText": "아우리온",
+            "hintImage": "islands/TorrentWorldBoss1.jpg"
+        },
+        {
+            "x": -311.54,
+            "y": 152.43,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 365
+        },
+        {
+            "x": -351.5,
+            "y": 124.27,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 366
+        },
+        {
+            "x": -210.44,
+            "y": 86.32,
+            "type": MarkerTypeEnum.GroupQuest,
+            "id": 367,
+            "popupText": "생활 포인트 물약"
+        },
+        {
+            "x": -205.71,
+            "y": 85.78,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 368
+        },
+        {
+            "x": -202.25,
+            "y": 145.49,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 369
+        },
+        {
+            "x": -195.09,
+            "y": 118.21,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 370
+        },
+        {
+            "x": -194.5703125,
+            "y": 117.91405752071383,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 371
+        },
+        {
+            "x": -195.42,
+            "y": 119.65,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 372
+        },
+        {
+            "x": -195.77,
+            "y": 119.58,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 373
+        },
+        {
+            "x": -195.62,
+            "y": 119.81,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 374
+        },
+        {
+            "x": -146.24,
+            "y": 194.01,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 375,
+            "popupText": "상자(낡은 금열쇠)"
+        },
+        {
+            "x": -147.16,
+            "y": 193.18,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 376,
+            "popupText": "상자(낡은 금열쇠)"
+        },
+        {
+            "x": -134.61,
+            "y": 166.89,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 377
+        },
+        {
+            "x": -132.88,
+            "y": 168.48,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 378
+        },
+        {
+            "x": -101.22,
+            "y": 160.71,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 379
+        },
+        {
+            "x": -100.16,
+            "y": 160.58,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 380
+        },
+        {
+            "x": -121.09,
+            "y": 235.47,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 381
+        },
+        {
+            "x": -159.71,
+            "y": 316.92,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 382
+        },
+        {
+            "x": -185.55,
+            "y": 316.96,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 383
+        },
+        {
+            "x": -189.08,
+            "y": 319.2,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 384
+        },
+        {
+            "x": -189,
+            "y": 319.49,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 385
+        },
+        {
+            "x": -161.38,
+            "y": 366.91,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 386
+        },
+        {
+            "x": -162.52,
+            "y": 366.5,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 387,
+            "title": "Secret Passage"
+        },
+        {
+            "x": -193.62,
+            "y": 407.18,
+            "type": MarkerTypeEnum.WorldBoss,
+            "id": 388,
+            "popupText": "솔 그랑데",
+            "hintImage": "islands/AlteisenWorldBoss1.jpg"
+        },
+        {
+            "x": -105.44,
+            "y": 392.04,
+            "type": MarkerTypeEnum.GroupQuest,
+            "id": 389,
+            "popupText": "그룹 퀘스트"
+        },
+        {
+            "x": -106.85,
+            "y": 390.65,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 390,
+            "popupText": "보물 상자"
+        },
+        {
+            "x": -105.89,
+            "y": 392.59,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 391,
+            "popupText": "히든 퀘스트"
+        },
+        {
+            "x": -153.27,
+            "y": 419.39,
+            "type": MarkerTypeEnum.WorldBoss,
+            "id": 392,
+            "popupText": "수신 아포라스",
+            "hintImage": "islands/DeathValleyWorldBoss1.jpg"
+        },
+        {
+            "x": -85.52,
+            "y": 336.08,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 393
+        },
+        {
+            "x": -85.13,
+            "y": 336.54,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 394,
+            "popupText": "숲의 미뉴에트"
+        },
+        {
+            "x": -84.23,
+            "y": 338.57,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 395
+        },
+        {
+            "x": -295.2,
+            "y": 166.54,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 396
         }
     ];
 

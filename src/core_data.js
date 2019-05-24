@@ -15,6 +15,7 @@ const Constants = Object.freeze({
 const ContentTypeEnum = Object.freeze({
     "AreaMap": "content_area_map",
     "TreasureMap": "content_treasure_map",
+    "IslandRegister": "content_island_register",
     "Guides": "content_guides",
     "Cards": "content_cards",
     "Crew": "content_crew",
@@ -23,7 +24,7 @@ const ContentTypeEnum = Object.freeze({
     "FAQ": "content_faq",
     "Statistics": "content_statistics",
     "Changelog": "content_changelog",
-    "Privacy Policy": "content_privacy_policy"
+    "PrivacyPolicy": "content_privacy_policy"
 });
 
 const MapTypeEnum = Object.freeze({

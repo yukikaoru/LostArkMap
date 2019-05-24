@@ -53,6 +53,10 @@
         }
 
         getLocalized(text) {
+            return this.getLocalizedFixed(text, this.lang);
+        }
+
+        getLocalizedFixed(text, language) {
             if (text === undefined
                 || typeof text !== 'string'
                 || text.startsWith('xx_')) {
@@ -64,19 +68,19 @@
                 return text.substring(2, text.length);
             }
 
-            switch (this.lang) {
+            switch (language) {
                 case LocalizationLanguage.English: {
                     return text;
                 }
             }
 
-            if(LAM.locData[this.lang] === undefined) {
+            if(LAM.locData[language] === undefined) {
                 return text;
             }
 
-            let localized = LAM.locData[this.lang][text];
+            let localized = LAM.locData[language][text];
             if(localized === undefined){
-                LAM.locMissing[this.lang][text] = "";
+                LAM.locMissing[language][text] = "";
                 return text;
             }
 
@@ -120,4 +124,8 @@
 
 let _L = function(e) {
     return LAM.loc.getLocalized(e);
+};
+
+let _LF = function(e, lang) {
+    return LAM.loc.getLocalizedFixed(e, lang);
 };

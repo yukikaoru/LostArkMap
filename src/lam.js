@@ -185,6 +185,7 @@ let LAM = (function(){
                 }
             }
 
+            LAM.islandRegister.initialize();
             LAM.treasureMapList.initialize();
             LAM.cards.initialize();
             LAM.crew.initialize();

@@ -398,6 +398,8 @@
                         className: 'island-detail-tooltip'
                     });
 
+                    LAM.islandRegister.registerIsland(zone, markerData);
+
                     break;
                 }
             }

@@ -75,6 +75,7 @@
     <script src="src/crew.js"></script>
     <script src="src/faq.js"></script>
     <script src="src/treasureMapList.js"></script>
+    <script src="src/islandRegister.js"></script>
     <script src="src/settings.js"></script>
     <script src="src/statistics.js"></script>
     <script src="src/events.js"></script>
@@ -272,6 +273,12 @@
                     </h6>
                     <ul class="nav flex-column mb-2">
                         <li class="nav-item">
+                            <a class="nav-link active" href="#" id="content_island_register_toggle">
+                                <span data-feather="file-text"></span>
+                                Island Register
+                            </a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link active" href="#" id="content_treasure_map_toggle">
                                 <span data-feather="file-text"></span>
                                 Treasure Maps
@@ -437,6 +444,18 @@
                     </div>
 
                     <div class="my-4 w-100 fill" id="la_map"></div>
+                </div>
+
+                <div class="album py-5 bg-light" id="content_island_register">
+                    <div class="w-100 text-center treasure-map-header-container">
+                        <div style="height: 25px"></div>
+                        <h1 class="treasure-map-header">Islands</h1>
+                    </div>
+
+                    <div class="container">
+                        <div class="row" id="content_island_register_list">
+                        </div>
+                    </div>
                 </div>
 
                 <div class="album py-5 bg-light" id="content_treasure_map">
