@@ -42,6 +42,7 @@
                 if(versionData === undefined
                     || versionData.e === undefined
                     || versionData.e.length === 0) {
+                    console.warn("Version has no Changelog entry: " + ver);
                     continue;
                 }
 

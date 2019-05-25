@@ -130,6 +130,13 @@
             d: "2019-05-25",
             e: [
                 'Updated most island images to better versions',
+
+            ]
+        },
+        10: {
+            n: "1.9",
+            d: "2019-05-25",
+            e: [
                 'Forpe Island is now properly named in the island map',
                 'White Waves Island now has a map',
                 'Valpurgis Dungeon Map is now included next to Valpurgis Island',
@@ -148,8 +155,8 @@
                 'Added 3 Hidden Quests'
             ]
         },
-        10: {
-            n: "1.9",
+        11: {
+            n: "1.10",
             d: "TBD",
             e: [
             ]
