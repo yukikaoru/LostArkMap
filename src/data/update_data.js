@@ -127,15 +127,31 @@
         },
         9: {
             n: "1.8",
-            d: "TBD",
+            d: "2019-05-25",
             e: [
                 'Updated most island images to better versions',
                 'Forpe Island is now properly named in the island map',
                 'White Waves Island now has a map',
+                'Valpurgis Dungeon Map is now included next to Valpurgis Island',
+                'Added Island Register Section to easier find specific Islands',
+                'Added new Marker Types: Barter, Reward, Epilogue and Traveling Merchant',
                 'Added Discord Link',
                 'Added Lots of Translations for hints and descriptions',
                 'Added Privacy Policy',
-                'Added several markers to islands for hidden paths and corrected some'
+                'Added several markers to islands for hidden paths and corrected some',
+                'Added over 380 hint images to island markers',
+                'Added 14 Mokoko Seeds',
+                'Added 3 World Bosses',
+                'Added 41 Secret Passages',
+                'Added 8 Treasure Boxes',
+                'Added 5 Group Quests',
+                'Added 3 Hidden Quests'
+            ]
+        },
+        10: {
+            n: "1.9",
+            d: "TBD",
+            e: [
             ]
         }
     };

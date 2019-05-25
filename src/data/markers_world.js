@@ -667,8 +667,8 @@
             "type": MarkerTypeEnum.ZoningIsland,
             "id": 64,
             "teleportTo": [
-                -298.52,
-                263.4
+                -299.52,
+                263.34
             ],
             "teleportArea": "Islands",
         },

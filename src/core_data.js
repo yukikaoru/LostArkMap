@@ -4,7 +4,7 @@ const Constants = Object.freeze({
     "ErrorImagePath": 'maps/areas/blank.png',
     'AchievementMarkerColor': '#ff9900',
     'FPS': 30,
-    'SettingsVersion': 9,
+    'SettingsVersion': 10,
     'SettingsKey': 'LAM_SETTINGS',
     'MaxSearchResults': 50,
     'SeoulMomentTZName': 'Asia/Seoul',
@@ -80,6 +80,10 @@ const MarkerTypeEnum = Object.freeze({
     "NPCRepair": "npc_repair.png",
     "NPCStorage": "npc_storage.png",
     "NPCFavor": "npc_favor.png",
+    "Barter": "barter.png",
+    "Reward": "reward.png",
+    "Epilogue": "epilogue.png",
+    "TravelingMerchant": "traveling_merchant.png"
 });
 
 const SearchResultTypeEnum = Object.freeze({
@@ -343,6 +347,22 @@ MarkerTypeDefaultTitle = function(markerType) {
 
         case MarkerTypeEnum.Note: {
             return "Note";
+        }
+
+        case MarkerTypeEnum.Barter: {
+            return "Barter";
+        }
+
+        case MarkerTypeEnum.Reward: {
+            return "Reward";
+        }
+
+        case MarkerTypeEnum.Epilogue: {
+            return "Epilogue";
+        }
+
+        case MarkerTypeEnum.TravelingMerchant: {
+            return "Traveling Merchant";
         }
 
         case MarkerTypeEnum.NativeVillage: {

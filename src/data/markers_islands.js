@@ -2,52 +2,60 @@
 
     LAM.areaMarkerData['Islands'] = [
         {
-            "x": -50.11,
-            "y": 243.17,
+            "x": -49.640625,
+            "y": 243.28913718929255,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 0
+            "id": 0,
+            "hintImage": "islands/FireAndIceMokoko1.jpg"
         },
         {
-            "x": -52.58,
-            "y": 242.86,
+            "x": -52.7734375,
+            "y": 242.89846239643086,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 1
+            "id": 1,
+            "hintImage": "islands/FireAndIceMokoko2.jpg"
         },
         {
-            "x": -53.33,
-            "y": 243.11,
+            "x": -53.8046875,
+            "y": 243.2110022307202,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 2
+            "id": 2,
+            "hintImage": "islands/FireAndIceMokoko3.jpg"
         },
         {
-            "x": -77.5,
-            "y": 369.26,
+            "x": -77.4296875,
+            "y": 369.37507468929255,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 3
+            "id": 3,
+            "hintImage": "islands/BrokenGlacierMokoko1.jpg"
         },
         {
-            "x": -75.86,
-            "y": 372.99,
+            "x": -75.78125,
+            "y": 372.9765525414277,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 4
+            "id": 4,
+            "hintImage": "islands/BrokenGlacierMokoko3.jpg"
         },
         {
-            "x": -75.85,
-            "y": 372.84,
+            "x": -75.7109375,
+            "y": 372.84375,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 5
+            "id": 5,
+            "hintImage": "islands/BrokenGlacierMokoko2.jpg"
         },
         {
-            "x": -76.14,
-            "y": 372.96,
+            "x": -76.125,
+            "y": 372.87494522785215,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 6
+            "id": 6,
+            "hintImage": "islands/BrokenGlacierSecret2.jpg"
         },
         {
-            "x": -77.89,
-            "y": 369.23,
+            "x": -77.7734375,
+            "y": 369.3829120857234,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 7
+            "id": 7,
+            "hintImage": "islands/BrokenGlacierSecret1.jpg"
         },
         {
             "x": -80.09,
@@ -56,734 +64,863 @@
             "id": 8
         },
         {
-            "x": -86.06,
-            "y": 337.46,
+            "x": -86.3203125,
+            "y": 337.2107781628426,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 9
+            "id": 9,
+            "hintImage": "islands/ArgonMokoko3.jpg"
         },
         {
-            "x": -85.421875,
-            "y": 336.375029875717,
+            "x": -85.515625,
+            "y": 335.9059512428298,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 10
+            "id": 10,
+            "hintImage": "islands/ArgonMokoko2.jpg"
         },
         {
-            "x": -84.65,
-            "y": 338.5,
+            "x": -84.4609375,
+            "y": 338.64071462715106,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 11
+            "id": 11,
+            "hintImage": "islands/ArgonMokoko4.jpg"
         },
         {
-            "x": -84.49,
-            "y": 338.7,
+            "x": -84.28125,
+            "y": 338.9923717335883,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 12
+            "id": 12,
+            "hintImage": "islands/ArgonMokoko5.jpg"
         },
         {
-            "x": -43.34,
-            "y": 363.33,
+            "x": -43.03125,
+            "y": 362.8590762428298,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 13
+            "id": 13,
+            "hintImage": "islands/ColdHomeMokoko1.jpg"
         },
         {
-            "x": -44.26,
-            "y": 364.79,
+            "x": -43.8984375,
+            "y": 364.5779905592734,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 14
+            "id": 14,
+            "hintImage": "islands/ColdHomeMokoko2.jpg"
         },
         {
-            "x": -43.91,
-            "y": 365.88,
+            "x": -43.6796875,
+            "y": 365.97662225143404,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 15
+            "id": 15,
+            "hintImage": "islands/ColdHomeMokoko3.jpg"
         },
         {
-            "x": -121.53,
-            "y": 235.72,
+            "x": -121.921875,
+            "y": 235.4607731835564,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 16
+            "id": 16,
+            "hintImage": "islands/MedeaMokoko1.jpg"
         },
         {
-            "x": -121.67,
-            "y": 235.55,
+            "x": -122,
+            "y": 235.32798557998726,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 17
+            "id": 17,
+            "hintImage": "islands/MedeaMokoko2.jpg"
         },
         {
-            "x": -134.11,
-            "y": 283.94,
+            "x": -134.1796875,
+            "y": 283.9375,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 18
+            "id": 18,
+            "hintImage": "islands/HallucinationMokoko1.jpg"
         },
         {
-            "x": -132.49,
-            "y": 285.72,
+            "x": -132.421875,
+            "y": 286.0079967335883,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 19
+            "id": 19,
+            "hintImage": "islands/HallucinationMokoko2.jpg"
         },
         {
-            "x": -132.55,
-            "y": 285.9,
+            "x": -132.515625,
+            "y": 286.1251443992989,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 20
+            "id": 20,
+            "hintImage": "islands/HallucinationMokoko3.jpg"
         },
         {
-            "x": -153.2,
-            "y": 269.18,
+            "x": -153.0859375,
+            "y": 268.82790093212236,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 21
+            "id": 21,
+            "hintImage": "islands/MeteoraMokoko3.jpg"
         },
         {
-            "x": -153.5,
-            "y": 268.26,
+            "x": -153.234375,
+            "y": 267.68713651210965,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 22
+            "id": 22,
+            "hintImage": "islands/MeteoraMokoko2.jpg"
         },
         {
-            "x": -153.59,
-            "y": 268.09,
+            "x": -153.296875,
+            "y": 267.54652644996816,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 23
+            "id": 23,
+            "hintImage": "islands/MeteoraMokoko1.jpg"
         },
         {
-            "x": -153.82,
-            "y": 268.45,
+            "x": -153.8359375,
+            "y": 267.90590144996816,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 24
+            "id": 24,
+            "hintImage": "islands/MeteoraSecret1.jpg"
         },
         {
-            "x": -193.65,
-            "y": 229.61,
+            "x": -193.4453125,
+            "y": 229.578125,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 25
+            "id": 25,
+            "hintImage": "islands/SpeederMokoko2.jpg"
         },
         {
             "x": -194.81,
             "y": 230.92,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 26
+            "id": 26,
+            "hintImage": "islands/SpeederMokoko3.jpg"
         },
         {
-            "x": -194.82,
-            "y": 231.78,
+            "x": -194.984375,
+            "y": 231.43716978866473,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 27
+            "id": 27,
+            "hintImage": "islands/SpeederMokoko4.jpg"
         },
         {
-            "x": -194.05,
-            "y": 226.54,
+            "x": -193.9921875,
+            "y": 226.36702239433237,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 28
+            "id": 28,
+            "hintImage": "islands/SpeederMokoko5.jpg"
         },
         {
-            "x": -194.41,
-            "y": 226.05,
+            "x": -194.328125,
+            "y": 226.0234149855908,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 29
+            "id": 29,
+            "hintImage": "islands/SpeederMokoko1.jpg"
         },
         {
-            "x": -194.88,
-            "y": 227.24,
+            "x": -194.7265625,
+            "y": 227.04668737992316,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 30
+            "id": 30,
+            "hintImage": "islands/SpeederSecret1.jpg"
         },
         {
-            "x": -195.72,
-            "y": 230.12,
+            "x": -195.671875,
+            "y": 230.12500750480308,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 31
+            "id": 31,
+            "hintImage": "islands/SpeederSecret2.jpg"
         },
         {
-            "x": -119.72,
-            "y": 371.11,
+            "x": -120.0546875,
+            "y": 370.8513981835564,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 32
+            "id": 32,
+            "hintImage": "islands/OpportunityMokoko1.jpg"
         },
         {
-            "x": -167.81,
-            "y": 346.84,
-            "type": MarkerTypeEnum.SecretPassage,
+            "x": -167.8984375,
+            "y": 346.9608774615754,
+            "type": MarkerTypeEnum.Mokoko,
             "id": 33,
-            "title": "Mokoko Seed"
+            "hintImage": "islands/SlimeMokoko2.jpg"
         },
         {
-            "x": -167.89,
-            "y": 346.64,
+            "x": -167.796875,
+            "y": 346.74228506244,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 34
+            "id": 34,
+            "hintImage": "islands/SlimeSecret1.jpg"
         },
         {
-            "x": -194.96,
-            "y": 331.81,
+            "x": -194.9921875,
+            "y": 332.0704768164436,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 35
+            "id": 35,
+            "hintImage": "islands/SeagullMokoko1.jpg"
         },
         {
-            "x": -193.01,
-            "y": 331.47,
+            "x": -192.4765625,
+            "y": 331.50783739643083,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 36
+            "id": 36,
+            "hintImage": "islands/SeagullMokoko3.jpg"
         },
         {
-            "x": -195.41,
-            "y": 330.19,
+            "x": -195.4375,
+            "y": 329.7028162842575,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 37
+            "id": 37,
+            "hintImage": "islands/SeagullMokoko2.jpg"
         },
         {
-            "x": -194.68,
-            "y": 332.55,
+            "x": -194.7421875,
+            "y": 333.0237412364563,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 38
+            "id": 38,
+            "hintImage": "islands/SeagullSecret1.jpg"
         },
         {
-            "x": -106.36,
-            "y": 391.8,
+            "x": -106.265625,
+            "y": 391.7421526449968,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 39
+            "id": 39,
+            "hintImage": "islands/FugitiveMokoko4.jpg"
         },
         {
-            "x": -106.49,
-            "y": 391.86,
+            "x": -106.390625,
+            "y": 391.6795729764181,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 40
+            "id": 40,
+            "hintImage": "islands/FugitiveMokoko5.jpg"
         },
         {
-            "x": -105.6,
-            "y": 394.35,
+            "x": -105.4375,
+            "y": 394.48445964786487,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 41
+            "id": 41,
+            "hintImage": "islands/FugitiveMokoko1.jpg"
         },
         {
-            "x": -105.71,
-            "y": 394.49,
+            "x": -105.7265625,
+            "y": 394.4140127071383,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 42
+            "id": 42,
+            "hintImage": "islands/FugitiveMokoko3.jpg"
         },
         {
-            "x": -105.75,
-            "y": 394.34,
+            "x": -105.546875,
+            "y": 394.2421227692798,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 43
+            "id": 43,
+            "hintImage": "islands/FugitiveMokoko2.jpg"
         },
         {
-            "x": -104.85,
-            "y": 390.76,
-            "type": MarkerTypeEnum.Mokoko,
-            "id": 45
+            "x": -103.796875,
+            "y": 393.5156050828553,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 44,
+            "hintText": "you have to play \"Song of Resonance\" in front of the Statue<br>\nProvides access to the 3 seeds at the right",
+            "popupText": "Song of Resonance",
+            "hintImage": "islands/FugitiveInstrument1.jpg"
         },
         {
-            "x": -158.14,
-            "y": 365.73,
+            "x": -104.625,
+            "y": 390.5311056007011,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 47
+            "id": 45,
+            "hintImage": "islands/FugitiveMokoko6.jpg"
         },
         {
-            "x": -159.28,
-            "y": 365.42,
+            "x": -157.8203125,
+            "y": 365.84382468929255,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 48
+            "id": 47,
+            "hintImage": "islands/x301Mokoko1.jpg"
         },
         {
-            "x": -160.67,
-            "y": 365.4,
+            "x": -159.046875,
+            "y": 365.3906050828553,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 49
+            "id": 48,
+            "hintImage": "islands/x301Mokoko2.jpg"
         },
         {
-            "x": -161.27,
-            "y": 367.04,
+            "x": -160.6796875,
+            "y": 365.28117531070745,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 50
+            "id": 49,
+            "hintImage": "islands/x301Mokoko3.jpg"
         },
         {
-            "x": -162.85,
-            "y": 365.11,
+            "x": -161.3125,
+            "y": 367.0625149378585,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 51
+            "id": 50,
+            "hintImage": "islands/x301Mokoko4.jpg"
         },
         {
-            "x": -188.9609375,
-            "y": 319.3124950207138,
+            "x": -163.1640625,
+            "y": 365.0937400414277,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 52
+            "id": 51,
+            "hintImage": "islands/x301Mokoko5.jpg"
+        },
+        {
+            "x": -188.890625,
+            "y": 319.2577776449968,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 52,
+            "hintImage": "islands/NewMoonMokoko3.jpg"
         },
         {
             "x": -189.1328125,
-            "y": 319.42185010356917,
+            "y": 319.3437002071383,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 53
+            "id": 53,
+            "hintImage": "islands/NewMoonMokoko4.jpg"
         },
         {
-            "x": -190.62,
-            "y": 317.75,
+            "x": -190.6953125,
+            "y": 317.6796426864245,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 54
+            "id": 54,
+            "hintImage": "islands/NewMoonMokoko5.jpg"
         },
         {
-            "x": -186.18,
-            "y": 317.43,
+            "x": -186.0078125,
+            "y": 317.1717106835564,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 55
+            "id": 55,
+            "hintImage": "islands/NewMoonMokoko2.jpg"
         },
         {
-            "x": -185.546875,
-            "y": 316.6406399378585,
+            "x": -185.2265625,
+            "y": 316.3982831421287,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 56
+            "id": 56,
+            "hintImage": "islands/NewMoonMokoko1.jpg"
         },
         {
-            "x": -185.640625,
-            "y": 316.60146789356276,
+            "x": -185.3671875,
+            "y": 316.3983080385596,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 57
+            "id": 57,
+            "hintImage": "islands/NewMoonMokoko1.jpg"
         },
         {
-            "x": -190.25,
-            "y": 317.65,
+            "x": -190.1953125,
+            "y": 317.3670082456979,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 58
+            "id": 58,
+            "hintImage": "islands/NewMoonSecret2.jpg"
         },
         {
-            "x": -159.29,
-            "y": 316.78,
+            "x": -158.1640625,
+            "y": 316.12458173996174,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 59
+            "id": 59,
+            "hintImage": "islands/AlaquerMokoko1.jpg"
         },
         {
-            "x": -194.43,
-            "y": 404.1,
+            "x": -194.3203125,
+            "y": 403.8123157664117,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 60
+            "id": 60,
+            "hintImage": "islands/AlteisenMokoko1.jpg"
         },
         {
-            "x": -192,
-            "y": 405.97,
+            "x": -191.8671875,
+            "y": 405.7029557042702,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 61
+            "id": 61,
+            "hintImage": "islands/AlteisenMokoko3.jpg"
         },
         {
-            "x": -191.87,
-            "y": 406.08,
+            "x": -191.7734375,
+            "y": 405.8514181007011,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 62
+            "id": 62,
+            "hintImage": "islands/AlteisenMokoko4.jpg"
         },
         {
-            "x": -192.15,
-            "y": 406.2,
+            "x": -192.109375,
+            "y": 406.03114045570425,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 63
+            "id": 63,
+            "hintImage": "islands/AlteisenSecret1.jpg"
         },
         {
-            "x": -112.41,
-            "y": 311.07,
+            "x": -112.375,
+            "y": 310.90614543499044,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 64
+            "id": 64,
+            "hintImage": "islands/KaltesHerzMokoko2.jpg"
         },
         {
-            "x": -112.18,
-            "y": 311.2,
+            "x": -112.1171875,
+            "y": 311.07022785213513,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 65
+            "id": 65,
+            "hintImage": "islands/KaltesHerzMokoko3.jpg"
         },
         {
-            "x": -112.36,
-            "y": 312.46,
+            "x": -112.2265625,
+            "y": 312.4062151449968,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 66
+            "id": 66,
+            "hintImage": "islands/KaltesHerzMokoko1.jpg"
         },
         {
-            "x": -113.09,
-            "y": 312.89,
+            "x": -113.015625,
+            "y": 312.8202676864245,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 67
+            "id": 67,
+            "hintImage": "islands/KaltesHerzSecret1.jpg"
         },
         {
-            "x": -179.12,
-            "y": 369.34,
+            "x": -178.8984375,
+            "y": 369.6095442957298,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 68
+            "id": 68,
+            "hintImage": "islands/GoldenWaveMokoko2.jpg"
         },
         {
-            "x": -178.98,
-            "y": 369.43,
+            "x": -178.7421875,
+            "y": 369.76583910930526,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 69
+            "id": 69,
+            "hintImage": "islands/GoldenWaveMokoko1.jpg"
         },
         {
-            "x": -179.68,
-            "y": 370.66,
+            "x": -179.4296875,
+            "y": 370.1168439292543,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 70
+            "id": 70,
+            "hintText": "오브젝트를 부수면 열림",
+            "hintImage": "islands/GoldenWaveSecret1.jpg"
         },
         {
-            "x": -151.92,
-            "y": 420.76,
+            "x": -151.5703125,
+            "y": 420.92979704429575,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 71
+            "id": 71,
+            "hintImage": "islands/DeathValleyMokoko3.jpg"
         },
         {
-            "x": -154.67,
-            "y": 419.71,
+            "x": -155.015625,
+            "y": 419.58585783142127,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 72
+            "id": 72,
+            "hintImage": "islands/DeathValleyMokoko2.jpg"
         },
         {
-            "x": -154.38,
-            "y": 418.21,
+            "x": -154.625,
+            "y": 417.796611097833,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 73
+            "id": 73,
+            "hintImage": "islands/DeathValleyMokoko1.jpg"
         },
         {
             "x": -213.24,
             "y": 229.66,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 74
+            "id": 74,
+            "hintImage": "islands/ThickMistMokoko1.jpg"
         },
         {
             "x": -214.67,
             "y": 230.15,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 75
+            "id": 75,
+            "hintImage": "islands/ThickMistMokoko2.jpg"
         },
         {
             "x": -215.29,
             "y": 230.46,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 76
+            "id": 76,
+            "hintImage": "islands/ThickMistMokoko3.jpg"
         },
         {
-            "x": -297.86,
-            "y": 263.68,
+            "x": -298.4375,
+            "y": 263.8673070028681,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 77
+            "id": 77,
+            "hintImage": "islands/ClubAvenueMokoko2.jpg"
         },
         {
-            "x": -295.94,
-            "y": 263.41,
+            "x": -295.3046875,
+            "y": 263.2812699171447,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 78
+            "id": 78,
+            "hintImage": "islands/ClubAvenueMokoko1.jpg"
         },
         {
-            "x": -254.05,
-            "y": 371.56,
+            "x": -253.875,
+            "y": 371.46083993756,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 79
+            "id": 79,
+            "hintImage": "islands/TurtleMokoko1.jpg"
         },
         {
             "x": -253.95,
             "y": 372.82,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 80
+            "id": 80,
+            "hintImage": "islands/TurtleMokoko2.jpg"
         },
         {
             "x": -254.07,
             "y": 372.98,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 81
+            "id": 81,
+            "hintImage": "islands/TurtleMokoko3.jpg"
         },
         {
-            "x": -297.31,
-            "y": 372.65,
+            "x": -297.25,
+            "y": 373.0316177353506,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 82
+            "id": 82,
+            "hintImage": "islands/NotosMokokoHint2.jpg"
         },
         {
-            "x": -297.35,
-            "y": 372.79,
+            "x": -297.3515625,
+            "y": 373.15660272574445,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 83
+            "id": 83,
+            "hintImage": "islands/NotosMokokoHint2.jpg"
         },
         {
-            "x": -296.83,
-            "y": 371.56,
+            "x": -296.7265625,
+            "y": 371.82838016330453,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 84
+            "id": 84,
+            "hintImage": "islands/NotosMokokoHint1.jpg"
         },
         {
-            "x": -297.96,
-            "y": 372.88,
+            "x": -298.03125,
+            "y": 373.2972727545629,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 85
+            "id": 85,
+            "hintImage": "islands/NotosSecretHint1.jpg"
         },
         {
-            "x": -295.97,
-            "y": 371.25,
+            "x": -295.90625,
+            "y": 371.55498018731987,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 86
         },
         {
-            "x": -290.76,
-            "y": 336.76,
+            "x": -290.828125,
+            "y": 336.8047325288184,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 87
+            "id": 87,
+            "hintImage": "islands/LopangMokoko1.jpg"
         },
         {
-            "x": -287.85,
-            "y": 337.88,
+            "x": -287.6015625,
+            "y": 337.9688325528338,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 88
+            "id": 88,
+            "hintImage": "islands/LopangMokoko2.jpg"
         },
         {
-            "x": -287.97,
-            "y": 337.81,
+            "x": -287.7265625,
+            "y": 338.07056015850145,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 89
+            "id": 89,
+            "hintImage": "islands/LopangMokoko3.jpg"
         },
         {
-            "x": -229.25,
-            "y": 374.35,
+            "x": -229.296875,
+            "y": 374.61744266330453,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 90
+            "id": 90,
+            "hintImage": "islands/StarlightLighthouseMokoko2.jpg"
         },
         {
-            "x": -230.33,
-            "y": 372.39,
+            "x": -230.625,
+            "y": 372.31242495196926,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 91
+            "id": 91,
+            "hintImage": "islands/StarlightLighthouseMokoko1.jpg"
         },
         {
-            "x": -270.15,
-            "y": 324.54,
+            "x": -270.4609375,
+            "y": 324.3826624039385,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 92
+            "id": 92,
+            "hintImage": "islands/ErasomouiMokoko1.jpg"
         },
         {
-            "x": -270.61,
-            "y": 324.08,
+            "x": -271.0546875,
+            "y": 324.00774495677234,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 93
+            "id": 93,
+            "hintImage": "islands/ErasomouiMokoko2.jpg"
         },
         {
-            "x": -291.54,
-            "y": 357.05,
+            "x": -291.671875,
+            "y": 356.8591948847262,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 96
+            "id": 96,
+            "hintImage": "islands/EstellaMokoko3.jpg"
         },
         {
-            "x": -291.69,
-            "y": 357.03,
+            "x": -291.71875,
+            "y": 356.9374099423631,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 97
+            "id": 97,
+            "hintImage": "islands/EstellaMokoko3.jpg"
         },
         {
-            "x": -289.53,
-            "y": 358.39,
+            "x": -289.4609375,
+            "y": 358.31242495196926,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 98
+            "id": 98,
+            "hintImage": "islands/EstellaMokoko2.jpg"
         },
         {
-            "x": -288.55,
-            "y": 357.46,
+            "x": -288.4375,
+            "y": 357.28889739433237,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 99
+            "id": 99,
+            "hintImage": "islands/EstellaMokoko1.jpg"
         },
         {
-            "x": -215.94,
-            "y": 337.18,
+            "x": -216.3046875,
+            "y": 336.7026672070125,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 100
+            "id": 100,
+            "hintImage": "islands/LonelyOperMokoko1.jpg"
         },
         {
-            "x": -216.04,
-            "y": 337.04,
+            "x": -216.4921875,
+            "y": 336.5542222022094,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 101
+            "id": 101,
+            "hintImage": "islands/LonelyOperMokoko2.jpg"
         },
         {
-            "x": -215.47,
-            "y": 337.36,
+            "x": -215.6640625,
+            "y": 336.89799471661865,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 102
+            "id": 102,
+            "hintImage": "islands/LonelyOperSecret1.jpg"
         },
         {
-            "x": -213.68,
-            "y": 379.61,
+            "x": -213.234375,
+            "y": 379.820515129683,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 103
+            "id": 103,
+            "hintImage": "islands/LushReedMokoko1.jpg"
         },
         {
-            "x": -216.64,
-            "y": 379,
+            "x": -217,
+            "y": 378.86705991834776,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 104
+            "id": 104,
+            "hintImage": "islands/LushReedMokoko3.jpg"
         },
         {
-            "x": -215.31,
-            "y": 379.57,
+            "x": -215.265625,
+            "y": 379.6015925192123,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 105
+            "id": 105,
+            "hintImage": "islands/LushReedMokoko2.jpg"
         },
         {
-            "x": -215.26,
-            "y": 380.6,
+            "x": -215.2265625,
+            "y": 381.0160227545629,
             "type": MarkerTypeEnum.PlayInstrument,
-            "id": 106
+            "id": 106,
+            "popupText": "숲의 미뉴에트",
+            "hintImage": "islands/LushReedInstrument1.jpg"
         },
         {
-            "x": -304.29,
-            "y": 365.98,
+            "x": -304.703125,
+            "y": 366.4535827929875,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 107
+            "id": 107,
+            "hintImage": "islands/TotoSilverMokoko3.jpg"
         },
         {
-            "x": -303.83,
-            "y": 364.44,
+            "x": -303.5625,
+            "y": 363.70241954851105,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 108
+            "id": 108,
+            "hintImage": "islands/TotoSilverMokoko1.jpg"
         },
         {
-            "x": -303.96,
-            "y": 364.36,
+            "x": -303.5078125,
+            "y": 363.86671469740634,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 109
+            "id": 109,
+            "hintImage": "islands/TotoSilverMokoko2.jpg"
         },
         {
-            "x": -303.97,
-            "y": 365.71,
+            "x": -303.9375,
+            "y": 365.2964772454371,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 110,
             "popupText": "Elder Toto (토토장로)"
         },
         {
-            "x": -229.703125,
-            "y": 405.664092375717,
+            "x": -229.7578125,
+            "y": 405.59368245677234,
             "type": MarkerTypeEnum.Mokoko,
             "id": 111,
-            "hintText": "Use Song of Resonance<br>2 Seeds at this location"
+            "hintText": "Use Song of Resonance<br>2 Seeds at this location",
+            "hintImage": "islands/PandaPupuMokoko3.jpg"
         },
         {
-            "x": -229.55,
-            "y": 404.03,
+            "x": -229.5078125,
+            "y": 403.53858969740634,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 112
+            "id": 112,
+            "hintImage": "islands/PandaPupuMokoko1.jpg"
         },
         {
-            "x": -228.2265625,
-            "y": 405.3437948135755,
+            "x": -228.1484375,
+            "y": 405.2577299471662,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 113
+            "id": 113,
+            "hintImage": "islands/PandaPupuMokoko2.jpg"
         },
         {
-            "x": -227.34,
-            "y": 407.37,
+            "x": -227.0234375,
+            "y": 407.8754878121998,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 114
+            "id": 114,
+            "hintImage": "islands/PandaPupuMokoko5.jpg"
         },
         {
-            "x": -227.85,
-            "y": 407.69,
+            "x": -227.5546875,
+            "y": 408.0159402017291,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 115
+            "id": 115,
+            "hintImage": "islands/PandaPupuSecret3.jpg"
         },
         {
-            "x": -227.34,
-            "y": 406.01,
+            "x": -226.9765625,
+            "y": 405.98435248559076,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 116,
             "popupText": "Pupu"
         },
         {
-            "x": -222.99,
-            "y": 324.67,
+            "x": -223.203125,
+            "y": 324.6093149615754,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 117
+            "id": 117,
+            "hintImage": "islands/FortunaMokoko1.jpg"
         },
         {
-            "x": -223.18,
-            "y": 324.61,
+            "x": -223.34375,
+            "y": 324.47643491834776,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 118
+            "id": 118,
+            "hintImage": "islands/FortunaMokoko1.jpg"
         },
         {
-            "x": -283.17,
-            "y": 390.99,
+            "x": -282.9921875,
+            "y": 390.5620872358309,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 119
+            "id": 119,
+            "hintImage": "islands/ForpeMokoko2.jpg"
         },
         {
-            "x": -283.09,
-            "y": 390.86,
+            "x": -282.9609375,
+            "y": 390.3823547070125,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 120
+            "id": 120,
+            "hintImage": "islands/ForpeMokoko1.jpg"
         },
         {
-            "x": -282.56,
-            "y": 393.81,
+            "x": -282.4140625,
+            "y": 393.8046799951969,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 121
+            "id": 121,
+            "hintImage": "islands/ForpeMokoko4.jpg"
         },
         {
-            "x": -282.68,
-            "y": 393.69,
+            "x": -282.59375,
+            "y": 393.6875,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 122
+            "id": 122,
+            "hintImage": "islands/ForpeMokoko3.jpg"
         },
         {
             "x": -284.6,
             "y": 393.49,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 123
+            "id": 123,
+            "hintImage": "islands/ForpeMokoko5.jpg"
         },
         {
             "x": -284.58,
             "y": 393.67,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 124
+            "id": 124,
+            "hintImage": "islands/ForpeMokoko6.jpg"
         },
         {
-            "x": -228.69,
-            "y": 345.22,
+            "x": -228.59375,
+            "y": 345.3047700528338,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 125
+            "id": 125,
+            "hintImage": "islands/SunflowerMokoko1.jpg"
         },
         {
-            "x": -229.76,
-            "y": 346.29,
+            "x": -229.5546875,
+            "y": 346.49238262487995,
             "type": MarkerTypeEnum.PlayInstrument,
-            "id": 126
+            "id": 126,
+            "hintImage": "islands/SunflowerInstrument1.jpg",
+            "popupText": "숲의 미뉴에트"
         },
         {
-            "x": -263.1092806612792,
-            "y": 346.1331672481696,
+            "x": -261.1796875,
+            "y": 345.9529523895293,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 127
+            "id": 127,
+            "hintImage": "islands/OceanParadisePaytoMokoko4.jpg"
         },
         {
-            "x": -262.3359070441925,
-            "y": 344.1644557148386,
+            "x": -260.3046875,
+            "y": 345.008623018732,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 128
+            "id": 128,
+            "hintImage": "islands/OceanParadisePaytoMokoko3.jpg"
         },
         {
-            "x": -261.4921689293857,
-            "y": 343.35981095558196,
+            "x": -260.2890625,
+            "y": 343.62525516330453,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 129
+            "id": 129,
+            "hintImage": "islands/OceanParadisePaytoMokoko1.jpg"
         },
         {
-            "x": -260.6639094781379,
-            "y": 347.41414370741234,
+            "x": -262.2890625,
+            "y": 347.7112226825168,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 130
+            "id": 130,
+            "hintImage": "islands/OceanParadisePaytoMokoko5.jpg"
         },
         {
-            "x": -265.38289643917676,
-            "y": 343.8908387037166,
+            "x": -264.4765625,
+            "y": 345.37642591258407,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 131
+            "id": 131,
+            "hintImage": "islands/OceanParadisePaytoMokoko2.jpg"
         },
         {
-            "x": -316.5,
-            "y": 290.16,
+            "x": -316.1328125,
+            "y": 290.0702299471662,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 132
+            "id": 132,
+            "hintImage": "islands/RibeheimMokoko1.jpg"
         },
         {
             "x": -318.25,
-            "y": 290.49,
+            "y": 290.4843674951969,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 133
+            "id": 133,
+            "hintImage": "islands/RibeheimMokoko2.jpg"
         },
         {
             "x": -316.65,
@@ -793,406 +930,490 @@
             "popupText": "Henry"
         },
         {
-            "x": -338.73,
-            "y": 296.17,
+            "x": -338.6875,
+            "y": 296.10149495677234,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 135
+            "id": 135,
+            "hintImage": "islands/BikiniMokoko1.jpg"
         },
         {
-            "x": -335.44,
-            "y": 297.42,
+            "x": -335.171875,
+            "y": 297.633015129683,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 136
+            "id": 136,
+            "hintImage": "islands/BikiniMokoko2.jpg"
         },
         {
-            "x": -335.43,
-            "y": 297.73,
+            "x": -335.1796875,
+            "y": 297.79694254322766,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 137
+            "id": 137,
+            "hintImage": "islands/BikiniMokoko3.jpg"
         },
         {
-            "x": -335.68,
-            "y": 297.32,
+            "x": -335.4296875,
+            "y": 297.42197256244,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 138
+            "id": 138,
+            "hintImage": "islands/BikiniSecret1.jpg"
         },
         {
-            "x": -319.07,
-            "y": 337.86,
+            "x": -319.1328125,
+            "y": 337.78899495677234,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 139
+            "id": 139,
+            "hintImage": "islands/GiantMushroomMokoko4.jpg"
         },
         {
-            "x": -316.04,
-            "y": 337.7,
+            "x": -314.9921875,
+            "y": 337.45288484630163,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 140
+            "id": 140,
+            "hintImage": "islands/GiantMushroomMokoko1.jpg"
         },
         {
-            "x": -316.69,
-            "y": 339.26,
+            "x": -315.953125,
+            "y": 339.7426527977906,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 141
+            "id": 141,
+            "hintImage": "islands/GiantMushroomMokoko3.jpg"
         },
         {
-            "x": -315.95,
-            "y": 337.84,
+            "x": -314.875,
+            "y": 337.6091498559078,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 142
+            "id": 142,
+            "hintImage": "islands/GiantMushroomMokoko2.jpg"
         },
         {
-            "x": -385.35,
-            "y": 400.53,
+            "x": -385.2109375,
+            "y": 400.8127701729107,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 143
+            "id": 143,
+            "hintImage": "islands/BlackToothMokoko4.jpg"
         },
         {
-            "x": -387.9,
-            "y": 398.59,
+            "x": -388.453125,
+            "y": 398.2183897694525,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 144
+            "id": 144,
+            "hintImage": "islands/BlackToothMokoko1.jpg"
         },
         {
-            "x": -385.04,
-            "y": 397.86,
+            "x": -384.8203125,
+            "y": 397.7968149615754,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 145
+            "id": 145,
+            "hintImage": "islands/BlackToothMokoko2.jpg"
         },
         {
-            "x": -384.74,
-            "y": 399.22,
+            "x": -384.5,
+            "y": 399.2500300192123,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 146
+            "id": 146,
+            "hintImage": "islands/BlackToothMokoko3.jpg"
         },
         {
-            "x": -385.67,
-            "y": 401.14,
+            "x": -385.671875,
+            "y": 401.6176452929875,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 147
+            "id": 147,
+            "hintImage": "islands/BlackToothSecret2.jpg"
         },
         {
-            "x": -387.07,
-            "y": 398.52,
+            "x": -386.8984375,
+            "y": 398.2419173270893,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 148
+            "id": 148,
+            "hintImage": "islands/BlackToothSecret1.jpg"
         },
         {
             "x": -384.73,
             "y": 350.51,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 149
+            "id": 149,
+            "hintImage": "islands/SilentMokoko2.jpg"
         },
         {
-            "x": -385.38,
-            "y": 351.43,
+            "x": -385.25,
+            "y": 351.3984074807877,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 150
+            "id": 150,
+            "hintImage": "islands/SilentMokoko1.jpg"
         },
         {
-            "x": -357.04,
-            "y": 370.96,
+            "x": -356.9765625,
+            "y": 370.61696841140855,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 151
+            "id": 151,
+            "hintImage": "islands/MerciaMokoko6.jpg"
         },
         {
-            "x": -357.0703125,
-            "y": 371.109375,
+            "x": -356.984375,
+            "y": 370.78104086998087,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 152
+            "id": 152,
+            "hintImage": "islands/MerciaMokoko5.jpg"
         },
         {
-            "x": -360.01,
-            "y": 373.62,
+            "x": -360.125,
+            "y": 373.5624651449968,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 153
+            "id": 153,
+            "hintImage": "islands/MerciaMokoko4.jpg"
         },
         {
-            "x": -360.16,
-            "y": 373.81,
+            "x": -360.34375,
+            "y": 373.64051545570425,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 154
+            "id": 154,
+            "hintImage": "islands/MerciaMokoko3.jpg"
         },
         {
-            "x": -360.83,
-            "y": 372.89,
+            "x": -360.921875,
+            "y": 372.74209289356276,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 155
+            "id": 155,
+            "hintImage": "islands/MerciaMokoko2.jpg"
         },
         {
-            "x": -360.98,
-            "y": 371.46,
+            "x": -361.140625,
+            "y": 371.34367531070745,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 156
+            "id": 156,
+            "hintImage": "islands/MerciaMokoko1.jpg"
         },
         {
-            "x": -360.22,
-            "y": 373.21,
+            "x": -360.3203125,
+            "y": 373.3125647307202,
             "type": MarkerTypeEnum.PlayInstrument,
-            "id": 157
+            "id": 157,
+            "hintImage": "islands/MerciaInstrument1.jpg",
+            "popupText": "숲의 미뉴에트"
         },
         {
-            "x": -315.22,
-            "y": 325.79,
+            "x": -315.109375,
+            "y": 327.05590327809796,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 158
+            "id": 158,
+            "hintImage": "islands/BoomBlingMokoko1.jpg"
         },
         {
-            "x": -316.07,
-            "y": 325.95,
+            "x": -315.75,
+            "y": 327.16522574447646,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 159
+            "id": 159,
+            "popupText": "오브젝트를 파괴하면 길이 열림",
+            "hintImage": "islands/BoomBlingSecret1.jpg"
         },
         {
-            "x": -358.08,
-            "y": 408.45,
+            "x": -357.0078125,
+            "y": 409.43062560038425,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 160
+            "id": 160,
+            "hintImage": "islands/FreedomMokoko1.jpg"
         },
         {
-            "x": -357.76,
-            "y": 405.36,
+            "x": -356.8046875,
+            "y": 406.33687560038425,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 161
+            "id": 161,
+            "hintImage": "islands/FreedomMokoko2.jpg"
         },
         {
-            "x": -359.08,
-            "y": 404.12,
+            "x": -358.03125,
+            "y": 405.2041681676273,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 162
+            "id": 162,
+            "hintImage": "islands/FreedomMokoko3.jpg"
         },
         {
-            "x": -337.85,
-            "y": 379.33,
+            "x": -337.8046875,
+            "y": 379.2655649615754,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 163
+            "id": 163,
+            "hintImage": "islands/SleepingSongMokoko1.jpg"
         },
         {
-            "x": -338.83,
-            "y": 380.61,
+            "x": -338.9375,
+            "y": 380.72667507204613,
             "type": MarkerTypeEnum.Mokoko,
             "id": 164
         },
         {
-            "x": -338.07,
-            "y": 381.6,
+            "x": -338.0703125,
+            "y": 381.62502251440924,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 165
+            "id": 165,
+            "hintImage": "islands/SleepingSongMokoko3.jpg"
         },
         {
-            "x": -338.27,
-            "y": 381.5,
+            "x": -338.2578125,
+            "y": 381.52346001440924,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 166
+            "id": 166,
+            "hintImage": "islands/SleepingSongMokoko2.jpg"
         },
         {
-            "x": -352.57,
-            "y": 359.4,
-            "type": MarkerTypeEnum.Mokoko,
-            "id": 168
+            "x": -338.203125,
+            "y": 380.9922250240154,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 167,
+            "popupText": "협동 : 공명의 노래",
+            "hintImage": "islands/SleepingSongInstrument1.jpg"
         },
         {
-            "x": -351.73,
-            "y": 357.8,
+            "x": -352.640625,
+            "y": 359.5782976104707,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 169
+            "id": 168,
+            "hintImage": "islands/TotopiaMokoko4.jpg"
         },
         {
-            "x": -351.87,
-            "y": 357.83,
+            "x": -351.625,
+            "y": 357.6561149135447,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 170
+            "id": 169,
+            "hintImage": "islands/TotopiaMokoko1.jpg"
         },
         {
-            "x": -350.42,
-            "y": 359.54,
+            "x": -351.78125,
+            "y": 357.74992495196926,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 171
+            "id": 170,
+            "hintImage": "islands/TotopiaMokoko2.jpg"
         },
         {
-            "x": -345.19,
-            "y": 405.02,
+            "x": -350.0078125,
+            "y": 359.64072256244,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 172
+            "id": 171,
+            "hintImage": "islands/TotopiaMokoko3.jpg"
         },
         {
-            "x": -345.828125,
-            "y": 404.05462774856596,
+            "x": -345.09375,
+            "y": 404.91395743275694,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 173
+            "id": 172,
+            "hintImage": "islands/PirateTownMokoko2.jpg"
         },
         {
-            "x": -345.8359375,
-            "y": 404.1718102692798,
+            "x": -345.796875,
+            "y": 403.7575273174832,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 174
+            "id": 173,
+            "hintImage": "islands/PirateTownMokoko1.jpg"
         },
         {
-            "x": -357.8984375,
-            "y": 310.41411727214785,
+            "x": -345.71875,
+            "y": 403.8825348222863,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 175
+            "id": 174,
+            "hintImage": "islands/PirateTownMokoko1.jpg"
         },
         {
-            "x": -357.33,
-            "y": 310.83,
+            "x": -357.671875,
+            "y": 310.5000825528338,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 176
+            "id": 175,
+            "hintImage": "islands/PomonoMokoko2.jpg"
         },
         {
-            "x": -358.85,
-            "y": 311.92,
+            "x": -357.09375,
+            "y": 311.0158051152738,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 177
+            "id": 176,
+            "hintImage": "islands/PomonoMokoko3.jpg"
+        },
+        {
+            "x": -358.828125,
+            "y": 312.2112151777137,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 177,
+            "hintImage": "islands/PomonoMokoko4.jpg"
         },
         {
             "x": -358.9609375,
-            "y": 311.8984175828553,
+            "y": 312.2894377401537,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 178
+            "id": 178,
+            "hintImage": "islands/PomonoMokoko5.jpg"
         },
         {
-            "x": -466.48,
-            "y": 299.26,
+            "x": -466.4453125,
+            "y": 299.32035233428934,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 179
+            "id": 179,
+            "hintImage": "islands/YearsMokoko3.jpg"
         },
         {
-            "x": -466.62,
-            "y": 296.53,
+            "x": -466.765625,
+            "y": 296.5625199171447,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 180
+            "id": 180,
+            "hintImage": "islands/YearsMokoko4.jpg"
         },
         {
-            "x": -466.56,
-            "y": 296.69,
+            "x": -466.6640625,
+            "y": 296.4842455385596,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 181
+            "id": 181,
+            "hintImage": "islands/YearsMokoko5.jpg"
         },
         {
-            "x": -454.4,
-            "y": 385.49,
+            "x": -454.3984375,
+            "y": 385.41398745196926,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 182
+            "id": 182,
+            "hintImage": "islands/EvergladeMokoko2.jpg"
         },
         {
-            "x": -452.29,
-            "y": 385.79,
+            "x": -452.1796875,
+            "y": 385.7265024615754,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 183
+            "id": 183,
+            "hintImage": "islands/EvergladeMokoko3.jpg"
         },
         {
-            "x": -454.54,
-            "y": 387.64,
+            "x": -454.8515625,
+            "y": 387.1323246878002,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 184
+            "id": 184,
+            "hintImage": "islands/EvergladeMokoko1.jpg"
         },
         {
-            "x": -455.22,
-            "y": 386.35,
+            "x": -455.671875,
+            "y": 386.61744266330453,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 185
+            "id": 185,
+            "hintImage": "islands/EvergladeSecret1.jpg"
         },
         {
-            "x": -434.28,
-            "y": 379.62,
+            "x": -434.3671875,
+            "y": 379.64064751440924,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 186
+            "id": 186,
+            "hintImage": "islands/ForgottenMokoko1.jpg"
         },
         {
-            "x": -432.51,
-            "y": 377.23,
+            "x": -432.3828125,
+            "y": 377.0467023895293,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 187
+            "id": 187,
+            "hintImage": "islands/ForgottenMokoko6.jpg"
         },
         {
-            "x": -432.39,
-            "y": 377.35,
+            "x": -432.171875,
+            "y": 377.0700423270893,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 188
+            "id": 188,
+            "hintImage": "islands/ForgottenMokoko7.jpg"
         },
         {
-            "x": -432,
-            "y": 378.99,
+            "x": -431.875,
+            "y": 378.85924741834776,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 189
+            "id": 189,
+            "hintImage": "islands/ForgottenMokoko5.jpg"
         },
         {
-            "x": -432.12,
-            "y": 379.16,
+            "x": -431.953125,
+            "y": 379.03112992315084,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 190
+            "id": 190,
+            "hintImage": "islands/ForgottenMokoko2.jpg"
         },
         {
-            "x": -431.79,
-            "y": 379.15,
+            "x": -431.6796875,
+            "y": 379.02331742315084,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 191
+            "id": 191,
+            "hintImage": "islands/ForgottenMokoko4.jpg"
         },
         {
-            "x": -431.91,
-            "y": 379.31,
+            "x": -431.7578125,
+            "y": 379.1560999039385,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 192
+            "id": 192,
+            "hintImage": "islands/ForgottenMokoko3.jpg"
         },
         {
-            "x": -432.79,
-            "y": 377.57,
+            "x": -432.5703125,
+            "y": 377.3826323847262,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 193
+            "id": 193,
+            "hintImage": "islands/ForgottenSecret2.jpg",
+            "popupText": "오브젝트를 부수면 길이 열림"
         },
         {
-            "x": -431.68,
-            "y": 378.74,
+            "x": -431.3984375,
+            "y": 378.62488742795387,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 194
+            "id": 194,
+            "popupText": "레버를 당기면 길이 활성화됨",
+            "hintImage": "islands/ForgottenSecret1.jpg"
         },
         {
-            "x": -411.49,
-            "y": 331.49,
+            "x": -411.2890625,
+            "y": 331.6798676152738,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 195
+            "id": 195,
+            "hintText": "우측으로 들어간 첫방 위쪽문 우측",
+            "hintImage": "islands/WisdomMokoko4.jpg"
         },
         {
-            "x": -412.01,
-            "y": 331.41,
+            "x": -411.9453125,
+            "y": 331.617390129683,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 196
+            "id": 196,
+            "hintText": "우측으로 들어간 첫방 좌측",
+            "hintImage": "islands/WisdomMokoko3.jpg"
         },
         {
-            "x": -411.72,
-            "y": 330.66,
+            "x": -411.46875,
+            "y": 330.6171499759846,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 197
+            "id": 197,
+            "hintText": "좌측으로 들어간 첫 방 11시에서 약간 우측",
+            "hintImage": "islands/WisdomMokoko2.jpg"
         },
         {
-            "x": -411.85,
-            "y": 330.15,
+            "x": -411.625,
+            "y": 330.16407750960616,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 198
+            "id": 198,
+            "hintText": "좌측으로 들어간 첫방 입구 바로 위",
+            "hintImage": "islands/WisdomMokoko1.jpg"
         },
         {
-            "x": -412.67,
-            "y": 330.47,
+            "x": -412.6640625,
+            "y": 330.53913004322766,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 199
+            "id": 199,
+            "popupText": "좌측 방 가는 곳",
+            "hintImage": "islands/WisdomSecret1.jpg"
         },
         {
-            "x": -412.59,
-            "y": 331.29,
+            "x": -412.6875,
+            "y": 331.49238262487995,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 200
+            "id": 200,
+            "popupText": "우측 방 가는 곳",
+            "hintImage": "islands/WisdomSecret2.jpg"
         },
         {
             "x": -460.18,
             "y": 326.35,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 201
+            "id": 201,
+            "hintImage": "islands/ReminiscentMokoko2.jpg"
         },
         {
-            "x": -461.46,
-            "y": 323.07,
+            "x": -461.640625,
+            "y": 323.0390324807877,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 202
+            "id": 202,
+            "hintImage": "islands/ReminiscentMokoko1.jpg"
         },
         {
             "x": -435.37,
@@ -1203,26 +1424,29 @@
             "rarity": RarityEnum.Rare
         },
         {
-            "x": -250.51,
-            "y": 330.42,
+            "x": -251.0703125,
+            "y": 330.16381484149855,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 204
+            "id": 204,
+            "hintImage": "islands/DukiMokokoHint2.jpg"
         },
         {
-            "x": -248.23,
-            "y": 330.95,
+            "x": -248.1171875,
+            "y": 330.8671049471662,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 205
+            "id": 205,
+            "hintImage": "islands/DukiMokokoHint1.jpg"
         },
         {
-            "x": -248.75,
-            "y": 332.56,
+            "x": -248.78125,
+            "y": 332.93004022574445,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 206
+            "id": 206,
+            "hintImage": "islands/DukiMokokoHint3.jpg"
         },
         {
-            "x": -106.79,
-            "y": 391.97,
+            "x": -106.7109375,
+            "y": 391.8671227692798,
             "type": MarkerTypeEnum.Note,
             "id": 207,
             "hintText": "노예 매매범",
@@ -1230,8 +1454,8 @@
             "hintImage": "islands/FugitiveSlaveHint2.jpg"
         },
         {
-            "x": -106.74,
-            "y": 391.79,
+            "x": -106.6796875,
+            "y": 391.66398283142127,
             "type": MarkerTypeEnum.Note,
             "id": 208,
             "popupText": "Aristocrat",
@@ -1239,24 +1463,24 @@
             "hintImage": "islands/FugitiveSlaveHint1.jpg"
         },
         {
-            "x": -106.97,
-            "y": 392.43,
+            "x": -106.90625,
+            "y": 392.3280602692798,
             "type": MarkerTypeEnum.Note,
             "id": 209,
             "hintText": "금고 털이범",
             "popupText": "Safe Beater"
         },
         {
-            "x": -106.61,
-            "y": 392.31,
+            "x": -106.53125,
+            "y": 392.2421426864245,
             "type": MarkerTypeEnum.Note,
             "id": 210,
             "hintText": "노예 매매범",
             "popupText": "Slave Trader"
         },
         {
-            "x": -106.27,
-            "y": 392.23,
+            "x": -106.15625,
+            "y": 392.14057022785215,
             "type": MarkerTypeEnum.Note,
             "id": 211,
             "hintText": "귀족 사칭범",
@@ -1288,24 +1512,24 @@
             "popupText": "Safe Beater"
         },
         {
-            "x": -105.6,
-            "y": 394.92,
+            "x": -105.453125,
+            "y": 394.9765973550032,
             "type": MarkerTypeEnum.Note,
             "id": 215,
             "hintText": "노예 매매범",
             "popupText": "Slave Trader"
         },
         {
-            "x": -105.36,
-            "y": 394.79,
+            "x": -105.15625,
+            "y": 394.8594198135755,
             "type": MarkerTypeEnum.Note,
             "id": 216,
             "hintText": "금고 털이범",
             "popupText": "Safe Beater"
         },
         {
-            "x": -104.79,
-            "y": 392.57,
+            "x": -104.5078125,
+            "y": 392.60939989643083,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 217
         },
@@ -1327,16 +1551,16 @@
             "rarity": RarityEnum.Rare
         },
         {
-            "x": -441.62,
-            "y": 339.3,
+            "x": -442.578125,
+            "y": 339.88337536023056,
             "type": MarkerTypeEnum.Mokoko,
             "id": 220,
             "hintImage": "islands/OrbisMokokoHint1.jpg",
             "hintText": "need to play music"
         },
         {
-            "x": -441.67,
-            "y": 339.36,
+            "x": -442.578125,
+            "y": 340.06317543227664,
             "type": MarkerTypeEnum.Mokoko,
             "id": 221,
             "hintImage": "islands/OrbisMokokoHint1.jpg",
@@ -1373,108 +1597,124 @@
             "id": 226
         },
         {
-            "x": -168.3515625,
-            "y": 342.3123307042702,
+            "x": -168.2734375,
+            "y": 342.2186599423631,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 227
+            "id": 227,
+            "hintImage": "islands/SlimeMokoko1.jpg"
         },
         {
-            "x": -168.4609375,
-            "y": 342.1795281628426,
+            "x": -168.375,
+            "y": 342.07802743756,
             "type": MarkerTypeEnum.Mokoko,
             "id": 228
         },
         {
-            "x": -190.66,
-            "y": 317.6,
+            "x": -190.6640625,
+            "y": 317.5312051864245,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 229
+            "id": 229,
+            "hintImage": "islands/NewMoonMokoko6.jpg"
         },
         {
-            "x": -195.01,
-            "y": 406.92,
+            "x": -194.90625,
+            "y": 406.78116037284894,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 230
+            "id": 230,
+            "hintImage": "islands/AlteisenMokoko2.jpg"
         },
         {
-            "x": -229.7890625,
-            "y": 405.7812649378585,
+            "x": -229.8359375,
+            "y": 405.71086995677234,
             "type": MarkerTypeEnum.Mokoko,
             "id": 231,
-            "hintText": "Use Song of Resonance<br>2 Seeds at this location"
+            "hintText": "Use Song of Resonance<br>2 Seeds at this location",
+            "hintImage": "islands/PandaPupuMokoko4.jpg"
         },
         {
-            "x": -230.49,
-            "y": 346.21,
+            "x": -231.015625,
+            "y": 346.65667777377524,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 232
+            "id": 232,
+            "hintImage": "islands/SunflowerMokoko3.jpg"
         },
         {
-            "x": -230.31,
-            "y": 346.44,
+            "x": -230.71875,
+            "y": 346.5313400576369,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 233
+            "id": 233,
+            "hintImage": "islands/SunflowerMokoko2.jpg"
         },
         {
-            "x": -346.11,
-            "y": 407.89,
+            "x": -346.09375,
+            "y": 408.15650516330453,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 234
+            "id": 234,
+            "hintImage": "islands/PirateTownMokoko3.jpg"
         },
         {
-            "x": -466.48,
-            "y": 299.76,
+            "x": -466.390625,
+            "y": 299.87507468929255,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 235
+            "id": 235,
+            "hintImage": "islands/YearsMokoko1.jpg"
         },
         {
-            "x": -466.54,
-            "y": 299.65,
+            "x": -466.4453125,
+            "y": 299.7031598550032,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 236
+            "id": 236,
+            "hintImage": "islands/YearsMokoko2.jpg"
         },
         {
-            "x": -466.58,
-            "y": 299.53,
+            "x": -466.578125,
+            "y": 299.578154875717,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 237,
-            "hintText": "Play Song of Resonance to access the 2 seeds"
+            "hintText": "Play Song of Resonance to access the 2 seeds",
+            "hintImage": "islands/YearsInstrument1.jpg"
         },
         {
             "x": -213.7,
             "y": 167.44,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 238
+            "id": 238,
+            "hintImage": "islands/MistMokoko4.jpg"
         },
         {
             "x": -216.48,
             "y": 166.09,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 239
+            "id": 239,
+            "hintImage": "islands/MistMokoko1.jpg"
         },
         {
             "x": -216.98,
             "y": 168.19,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 240
+            "id": 240,
+            "hintImage": "islands/MistMokoko2.jpg"
         },
         {
             "x": -215.24,
             "y": 167.83,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 241
+            "id": 241,
+            "hintImage": "islands/MistMokoko3.jpg"
         },
         {
-            "x": -213.27,
-            "y": 168.17,
+            "x": -213.234375,
+            "y": 168.18751500960616,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 242
+            "id": 242,
+            "hintImage": "islands/MistMokoko5.jpg"
         },
         {
-            "x": -213.27,
-            "y": 168.45,
+            "x": -213.3359375,
+            "y": 168.41402497598463,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 243
+            "id": 243,
+            "hintImage": "islands/MistMokoko5.jpg"
         },
         {
             "x": -213.57,
@@ -1482,151 +1722,175 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 244,
             "popupText": "Minuet in the forest",
-            "hintText": "Play Minuet in the forest to gain access to the 2 seeds"
+            "hintText": "Play Minuet in the forest to gain access to the 2 seeds",
+            "hintImage": "islands/MistInstrument1.jpg"
         },
         {
-            "x": -135.2,
-            "y": 167.38,
+            "x": -135.828125,
+            "y": 167.08574828712557,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 245
+            "id": 245,
+            "hintImage": "islands/TranquilMokoko3.jpg"
         },
         {
-            "x": -133.984375,
-            "y": 168.0232881214149,
+            "x": -134.078125,
+            "y": 168.1250647307202,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 246
+            "id": 246,
+            "hintImage": "islands/TranquilMokoko2.jpg"
         },
         {
-            "x": -133.89,
-            "y": 168.18,
+            "x": -133.96875,
+            "y": 168.24222733428937,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 247
+            "id": 247,
+            "hintImage": "islands/TranquilMokoko1.jpg"
         },
         {
-            "x": -133.85,
-            "y": 168.41,
+            "x": -133.796875,
+            "y": 168.6407743785851,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 248,
             "popupText": "Minuet of the Forest",
-            "hintText": "Play Minuet of the Forest here to access the 2 seeds"
+            "hintText": "Play Minuet of the Forest here to access the 2 seeds",
+            "hintImage": "islands/TranquilInstrument1.jpg"
         },
         {
-            "x": -180.01,
-            "y": 183.6,
+            "x": -180.0703125,
+            "y": 183.06997390854048,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 249
+            "id": 249,
+            "hintImage": "islands/MonteMokoko2.jpg"
         },
         {
-            "x": -181.57,
-            "y": 178.04,
+            "x": -181.390625,
+            "y": 178.13287225143404,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 250
+            "id": 250,
+            "hintImage": "islands/MonteMokoko1.jpg"
         },
         {
-            "x": -177.94,
-            "y": 180.9,
+            "x": -178.25,
+            "y": 180.57792084926706,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 251
+            "id": 251,
+            "hintImage": "islands/MonteMokoko3.jpg"
         },
         {
-            "x": -177.8,
-            "y": 180.98,
+            "x": -178.15625,
+            "y": 180.6404108906947,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 252
+            "id": 252,
+            "hintImage": "islands/MonteMokoko4.jpg"
         },
         {
-            "x": -177.95,
-            "y": 181.04,
+            "x": -178.2890625,
+            "y": 180.69509341140855,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 253,
             "popupText": "Song of Resonance",
-            "hintText": "Play song of resonance in front of the Statue to gain access to the 2 seeds"
+            "hintText": "Play song of resonance in front of the Statue to gain access to the 2 seeds",
+            "hintImage": "islands/MonteInstrument1.jpg"
         },
         {
             "x": -125.46,
             "y": 152.77,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 254
+            "id": 254,
+            "hintImage": "islands/UnknownMokoko1.jpg"
         },
         {
             "x": -126.25,
             "y": 152.84,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 255
+            "id": 255,
+            "hintImage": "islands/UnknownMokoko2.jpg"
         },
         {
             "x": -126.99,
             "y": 153.78,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 256
+            "id": 256,
+            "hintImage": "islands/UnknownMokoko3.jpg"
         },
         {
             "x": -153,
-            "y": 131.31,
+            "y": 131.07015814212875,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 257
+            "id": 257,
+            "hintImage": "islands/CarmineMokoko1.jpg"
         },
         {
-            "x": -152.29,
-            "y": 132.56,
+            "x": -152.1875,
+            "y": 132.35142805927342,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 258
+            "id": 258,
+            "hintImage": "islands/CarmineMokoko2.jpg"
         },
         {
-            "x": -154.96,
-            "y": 133.23,
+            "x": -155.0546875,
+            "y": 133.07803039356278,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 259
+            "id": 259,
+            "hintImage": "islands/CarmineMokoko3.jpg"
         },
         {
-            "x": -201.8,
-            "y": 148.26,
+            "x": -201.7109375,
+            "y": 148.6955913400255,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 260
+            "id": 260,
+            "hintImage": "islands/LongingMokoko3.jpg"
         },
         {
-            "x": -202.0859375,
-            "y": 145.27344745857235,
+            "x": -202.15625,
+            "y": 145.2734375,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 261
+            "id": 261,
+            "hintImage": "islands/LongingMokoko1.jpg"
         },
         {
-            "x": -202.1640625,
-            "y": 145.35935010356914,
+            "x": -202.1484375,
+            "y": 145.39064491714467,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 262
+            "id": 262,
+            "hintImage": "islands/LongingMokoko2.jpg"
         },
         {
-            "x": -195.79,
-            "y": 119.79,
+            "x": -196,
+            "y": 119.82033241714468,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 263
+            "id": 263,
+            "hintImage": "islands/EternityMokoko4.jpg"
         },
         {
-            "x": -194.74,
-            "y": 117.91,
+            "x": -194.6171875,
+            "y": 116.99160492351817,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 264
+            "id": 264,
+            "hintImage": "islands/EternityMokoko1.jpg"
         },
         {
-            "x": -194.52,
-            "y": 118.84,
+            "x": -194.1484375,
+            "y": 118.382518722116,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 265
+            "id": 265,
+            "hintImage": "islands/EternityMokoko2.jpg"
         },
         {
-            "x": -194.33,
-            "y": 118.84,
+            "x": -193.9453125,
+            "y": 118.39033620140216,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 266
+            "id": 266,
+            "hintImage": "islands/EternityMokoko3.jpg"
         },
         {
-            "x": -194.69,
-            "y": 119.06,
+            "x": -194.3203125,
+            "y": 118.68726099426387,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 267,
             "popupText": "Song of Resonance",
-            "hintText": "Play Song of Resonance in front of the Statue to gain access to the 2 seeds"
+            "hintText": "Play Song of Resonance in front of the Statue to gain access to the 2 seeds",
+            "hintImage": "islands/EternityInstrument1.jpg"
         },
         {
             "x": -146.7734375,
@@ -1634,188 +1898,215 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 268,
             "popupText": "Minuet of The Forest",
-            "hintText": "currently not known what can be done here"
+            "hintImage": "islands/ShadowsInstrument1.jpg"
         },
         {
-            "x": -208.93,
-            "y": 82.77,
+            "x": -208.8515625,
+            "y": 82.85942977214786,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 269
+            "id": 269,
+            "hintImage": "islands/DreamsMokoko1.jpg"
         },
         {
-            "x": -205.38,
-            "y": 85.52,
+            "x": -205.2109375,
+            "y": 85.50780254142767,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 270
+            "id": 270,
+            "hintImage": "islands/DreamsMokoko2.jpg"
         },
         {
-            "x": -205.2578125,
-            "y": 85.37499502071383,
+            "x": -204.9921875,
+            "y": 85.31246016571065,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 271
+            "id": 271,
+            "hintImage": "islands/DreamsMokoko3.jpg"
         },
         {
-            "x": -205.171875,
-            "y": 85.55473729286169,
+            "x": -204.8515625,
+            "y": 85.61722733428935,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 272
+            "id": 272,
+            "hintImage": "islands/DreamsMokoko4.jpg"
         },
         {
-            "x": -205.453125,
-            "y": 85.6328125,
+            "x": -205.4140625,
+            "y": 85.56245518642447,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 273,
             "popupText": "Song of Resonance",
-            "hintText": "Play Song of Resonance in front of the Statue to gain access to 2 Seeds, the third is just after the Statue"
+            "hintText": "Play Song of Resonance in front of the Statue to gain access to 2 Seeds, the third is just after the Statue",
+            "hintImage": "islands/DreamsInstrument1.jpg"
         },
         {
-            "x": -242.4453125,
-            "y": 160.93751991714467,
+            "x": -242.3359375,
+            "y": 160.92185999039384,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 274
+            "id": 274,
+            "hintImage": "islands/NichelTarovMokoko3.jpg"
         },
         {
-            "x": -242.76,
-            "y": 162.19,
+            "x": -242.703125,
+            "y": 162.25788004322766,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 275
+            "id": 275,
+            "hintImage": "islands/NichelTarovMokoko2.jpg"
         },
         {
             "x": -243.546875,
             "y": 160.55468252071384,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 276
+            "id": 276,
+            "hintImage": "islands/NichelTarovMokoko1.jpg"
         },
         {
-            "x": -241.703125,
-            "y": 161.90625995857235,
+            "x": -241.640625,
+            "y": 161.91407000480308,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 277
+            "id": 277,
+            "hintImage": "islands/NichelTarovMokoko4.jpg"
         },
         {
-            "x": -227.96,
-            "y": 105.41,
+            "x": -227.8046875,
+            "y": 105.37498008285532,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 278
+            "id": 278,
+            "hintImage": "islands/ValpurgisMokoko1.jpg"
         },
         {
-            "x": -228.45,
-            "y": 106.3,
+            "x": -228.5078125,
+            "y": 106.53921685787125,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 279
+            "id": 279,
+            "hintImage": "islands/ValpurgisMokoko2.jpg"
         },
         {
-            "x": -227.38,
-            "y": 107.36,
+            "x": -226.9140625,
+            "y": 108.12548797004462,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 280
+            "id": 280,
+            "hintImage": "islands/ValpurgisMokoko3.jpg"
         },
         {
-            "x": -269.58,
-            "y": 158.3,
+            "x": -269.5,
+            "y": 158.3203274378585,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 281
+            "id": 281,
+            "hintImage": "islands/GoblinMokoko1.jpg"
         },
         {
-            "x": -271.54,
-            "y": 159.04,
+            "x": -271.328125,
+            "y": 159.07814989643086,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 282
+            "id": 282,
+            "hintImage": "islands/GoblinMokoko2.jpg"
         },
         {
-            "x": -270.66,
-            "y": 160.68,
+            "x": -270.515625,
+            "y": 160.66405254142765,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 283
+            "id": 283,
+            "hintImage": "islands/GoblinMokoko3.jpg"
         },
         {
-            "x": -269.68,
-            "y": 161.12,
+            "x": -269.484375,
+            "y": 161.1171875,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 284
+            "id": 284,
+            "hintImage": "islands/GoblinMokoko4.jpg"
         },
         {
-            "x": -266.82,
-            "y": 160.31,
+            "x": -266.78125,
+            "y": 160.3359524378585,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 285
+            "id": 285,
+            "hintImage": "islands/GoblinMokoko5.jpg"
         },
         {
-            "x": -269.85,
-            "y": 158.3,
+            "x": -269.7890625,
+            "y": 158.31250995857235,
             "type": MarkerTypeEnum.NPCFavor,
-            "id": 286
+            "id": 286,
+            "hintText": "보통 : 고블린 금화x5\n\n관심 : 고블린 금화x10\n\n우호 : 고블린 금화x25 / 낡은 금열쇠\n\n신뢰 : 고블린 금화x50 / 에테르 강화 각인서Ⅰ",
+            "popupText": "고비우스 24세",
+            "hintImage": "islands/GoblinFavorNPC1.jpg"
         },
         {
-            "x": -281.72,
-            "y": 182.13,
+            "x": -281.890625,
+            "y": 182.21101254803074,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 287
+            "id": 287,
+            "hintImage": "islands/BlueHoleMokoko1.jpg"
         },
         {
-            "x": -283.08,
-            "y": 183.04,
+            "x": -283.203125,
+            "y": 183.19546259606147,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 288,
-            "hintText": "There is a secret Interaction here to access the path to the seed"
+            "hintText": "There is a secret Interaction here to access the path to the seed",
+            "hintImage": "islands/BlueHoleSecret1.jpg"
         },
         {
-            "x": -298.48,
-            "y": 167.14,
+            "x": -299.03125,
+            "y": 167.3986018164436,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 289
+            "id": 289,
+            "hintImage": "islands/AtroposeMokoko2.jpg"
         },
         {
-            "x": -295.078125,
-            "y": 166.65625,
+            "x": -294.828125,
+            "y": 166.82041706500956,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 290
+            "id": 290,
+            "hintImage": "islands/AtroposeMokoko1.jpg"
         },
         {
-            "x": -299.1,
-            "y": 168.36,
+            "x": -299.8125,
+            "y": 168.70334408859145,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 291
+            "id": 291,
+            "hintImage": "islands/AtroposeMokoko4.jpg"
         },
         {
-            "x": -298.88,
-            "y": 168.56,
+            "x": -299.671875,
+            "y": 168.75793698215423,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 292
+            "id": 292,
+            "hintImage": "islands/AtroposeMokoko3.jpg"
         },
         {
-            "x": -298.75,
-            "y": 167.83,
+            "x": -299.4296875,
+            "y": 168.29717375717019,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 293
+            "id": 293,
+            "hintImage": "islands/AtroposeSecret2.jpg"
         },
         {
-            "x": -297.54,
-            "y": 167.67,
+            "x": -297.875,
+            "y": 168.07838392288082,
             "type": MarkerTypeEnum.Mail,
             "id": 294
         },
         {
-            "x": -295.87,
-            "y": 166.6,
+            "x": -295.765625,
+            "y": 166.7344596478649,
             "type": MarkerTypeEnum.NPCRepair,
             "id": 295
         },
         {
-            "x": -295.99,
-            "y": 167.27,
+            "x": -295.90625,
+            "y": 167.5548667543021,
             "type": MarkerTypeEnum.NPCStorage,
             "id": 296
         },
         {
-            "x": -296.49,
-            "y": 166.13,
+            "x": -296.578125,
+            "y": 166.1328125,
             "type": MarkerTypeEnum.NPCStorage,
             "id": 297
         },
         {
-            "x": -297,
-            "y": 167.12,
+            "x": -297.25,
+            "y": 167.41425171287443,
             "type": MarkerTypeEnum.NPCStorage,
             "id": 298
         },
@@ -1852,120 +2143,139 @@
             "hintText": "Play Song of Resonance here to get access to the 2 seeds"
         },
         {
-            "x": -316.25,
-            "y": 180.71,
+            "x": -316.21875,
+            "y": 180.6796574807877,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 304
+            "id": 304,
+            "hintImage": "islands/NaruniMokoko5.jpg"
         },
         {
-            "x": -318.57,
-            "y": 181.34,
+            "x": -318.609375,
+            "y": 181.25772994716618,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 305
+            "id": 305,
+            "hintImage": "islands/NaruniMokoko3.jpg"
         },
         {
-            "x": -318.84,
-            "y": 180.42,
+            "x": -318.796875,
+            "y": 180.32021493756002,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 306
+            "id": 306,
+            "hintImage": "islands/NaruniMokoko1.jpg"
         },
         {
-            "x": -318.8,
-            "y": 180.56,
+            "x": -318.7734375,
+            "y": 180.4686599423631,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 307
+            "id": 307,
+            "hintImage": "islands/NaruniMokoko2.jpg"
         },
         {
-            "x": -317.35,
-            "y": 181.84,
+            "x": -317.3515625,
+            "y": 181.78900996637847,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 308
+            "id": 308,
+            "hintImage": "islands/NaruniMokoko4.jpg"
         },
         {
-            "x": -366.46,
-            "y": 180.74,
+            "x": -366.4296875,
+            "y": 180.39040093212236,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 309
+            "id": 309,
+            "hintImage": "islands/OutlawMokoko1.jpg"
         },
         {
-            "x": -316.45,
-            "y": 113.59,
+            "x": -316.1484375,
+            "y": 114.10188615360101,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 310
+            "id": 310,
+            "hintImage": "islands/ButterflyMokoko3.jpg"
         },
         {
-            "x": -317.84,
-            "y": 115.75,
+            "x": -314.6328125,
+            "y": 111.85689531548758,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 311
+            "id": 311,
+            "hintImage": "islands/ButterflyMokoko4.jpg"
         },
         {
-            "x": -317.55,
-            "y": 110.28,
+            "x": -320.3203125,
+            "y": 114.1821721637986,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 312
+            "id": 312,
+            "hintImage": "islands/ButterflyMokoko2.jpg"
         },
         {
-            "x": -317.85,
-            "y": 110.72,
+            "x": -320.5078125,
+            "y": 114.54931485022307,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 313
+            "id": 313,
+            "hintImage": "islands/ButterflyMokoko1.jpg"
         },
         {
-            "x": -316.98,
-            "y": 110.66,
+            "x": -319.875,
+            "y": 114.44772745379223,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 314
+            "id": 314,
+            "hintImage": "islands/ButterflySecret1.jpg"
         },
         {
-            "x": -353.04,
-            "y": 169.21,
+            "x": -353.234375,
+            "y": 169.5939939850223,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 315
+            "id": 315,
+            "hintImage": "islands/TwilightMokoko1.jpg"
         },
         {
-            "x": -351.8,
-            "y": 168.09,
+            "x": -351.640625,
+            "y": 168.33609185787125,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 316
+            "id": 316,
+            "hintImage": "islands/TwilightMokoko2.jpg"
         },
         {
-            "x": -351.65,
-            "y": 168.16,
+            "x": -351.5,
+            "y": 168.30478210643722,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 317
+            "id": 317,
+            "hintImage": "islands/TwilightMokoko3.jpg"
         },
         {
-            "x": -351.82,
-            "y": 168.22,
+            "x": -351.8515625,
+            "y": 168.60962396430847,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 318,
             "popupText": "Song of Resonance",
-            "hintText": "Play Song of Resonance here to gain access to the 2 seeds"
+            "hintText": "Play Song of Resonance here to gain access to the 2 seeds",
+            "hintImage": "islands/TwilightInstrument1.jpg"
         },
         {
-            "x": -312.54,
-            "y": 151.89,
+            "x": -312.78125,
+            "y": 151.67173557998726,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 319
+            "id": 319,
+            "hintImage": "islands/GravisMokoko1.jpg"
         },
         {
-            "x": -311.55,
-            "y": 154.15,
+            "x": -311.65625,
+            "y": 154.0389927899936,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 320
+            "id": 320,
+            "hintImage": "islands/GravisMokoko4.jpg"
         },
         {
-            "x": -311.265625,
-            "y": 152.4609375,
+            "x": -311.453125,
+            "y": 152.21859564212875,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 321
+            "id": 321,
+            "hintImage": "islands/GravisMokoko3.jpg"
         },
         {
-            "x": -311.33,
-            "y": 152.38,
+            "x": -311.546875,
+            "y": 152.16392307998726,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 322
+            "id": 322,
+            "hintImage": "islands/GravisMokoko2.jpg"
         },
         {
             "x": -349.86,
@@ -1974,64 +2284,74 @@
             "id": 323
         },
         {
-            "x": -350.18,
-            "y": 127.81,
+            "x": -350.40625,
+            "y": 127.80468252071383,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 324
+            "id": 324,
+            "hintImage": "islands/HypnoseMokoko4.jpg"
         },
         {
-            "x": -352.13,
-            "y": 128.63,
+            "x": -352.3515625,
+            "y": 128.53900274856596,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 325
+            "id": 325,
+            "hintImage": "islands/HypnoseMokoko5.jpg"
         },
         {
-            "x": -353.78,
-            "y": 125.42,
+            "x": -353.9140625,
+            "y": 125.33588272785214,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 326
+            "id": 326,
+            "hintImage": "islands/HypnoseMokoko1.jpg"
         },
         {
-            "x": -351.84,
-            "y": 124.55,
+            "x": -352,
+            "y": 124.4687002071383,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 327
+            "id": 327,
+            "hintImage": "islands/HypnoseMokoko3.jpg"
         },
         {
-            "x": -351.76,
-            "y": 124.41,
+            "x": -351.96875,
+            "y": 124.3515276449968,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 328
+            "id": 328,
+            "hintImage": "islands/HypnoseMokoko2.jpg"
         },
         {
-            "x": -260.79,
-            "y": 276.5,
+            "x": -260.703125,
+            "y": 276.2653998559078,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 329
+            "id": 329,
+            "hintImage": "islands/BolardMokoko1.jpg"
         },
         {
-            "x": -263.99,
-            "y": 277.85,
+            "x": -263.828125,
+            "y": 277.72644242315084,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 330
+            "id": 330,
+            "hintImage": "islands/BolardMokoko2.jpg"
         },
         {
-            "x": -264.36,
-            "y": 277.69,
+            "x": -264.21875,
+            "y": 277.5076398895293,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 331
+            "id": 331,
+            "hintImage": "islands/BolardMokoko3.jpg"
         },
         {
-            "x": -213.89,
-            "y": 296.37,
+            "x": -213.7734375,
+            "y": 296.24988742795387,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 332
+            "id": 332,
+            "hintImage": "islands/MisguidedMokoko1.jpg"
         },
         {
-            "x": -216.07,
-            "y": 297.73,
+            "x": -215.9921875,
+            "y": 297.61708243275694,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 333
+            "id": 333,
+            "hintImage": "islands/MisguidedMokoko2.jpg"
         },
         {
             "x": -359.2,
@@ -2042,43 +2362,31 @@
             "rarity": RarityEnum.Epic
         },
         {
-            "x": -255.34,
-            "y": 91.93,
+            "x": -254.9140625,
+            "y": 91.40591638782664,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 335
+            "id": 335,
+            "hintImage": "islands/HarmonyMokoko2.jpg"
         },
         {
-            "x": -255.41,
-            "y": 91.8,
+            "x": -255.0859375,
+            "y": 91.26528640854048,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 336
+            "id": 336,
+            "hintImage": "islands/HarmonyMokoko1.jpg"
         },
         {
-            "x": -255.12,
-            "y": 92.1,
+            "x": -254.65625,
+            "y": 91.8435856835564,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 337,
             "popupText": "Minuet of the Forest",
-            "hintText": "Play Minuet in the forest to gain access to the 2 seeds"
+            "hintText": "Play Minuet in the forest to gain access to the 2 seeds",
+            "hintImage": "islands/HarmonyInstrument1.jpg"
         },
         {
-            "x": -104.05,
-            "y": 393.55,
-            "type": MarkerTypeEnum.PlayInstrument,
-            "id": 44,
-            "hintText": "you have to play \"Song of Resonance\" in front of the Statue<br>\nProvides access to the 3 seeds at the right",
-            "title": "Secret Passage"
-        },
-        {
-            "x": -338.2265625,
-            "y": 380.9531449171447,
-            "type": MarkerTypeEnum.PlayInstrument,
-            "id": 167,
-            "title": "Secret Passage"
-        },
-        {
-            "x": -168.66,
-            "y": 342.49,
+            "x": -168.546875,
+            "y": 342.36706742315084,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 338,
             "popupText": "공명의 노래",
@@ -2088,149 +2396,174 @@
             "x": -216.34,
             "y": 166.44,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 339
+            "id": 339,
+            "hintImage": "islands/MistSecret1.jpg"
         },
         {
-            "x": -243.79,
-            "y": 160.57,
+            "x": -243.78125,
+            "y": 160.56249249519692,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 340
+            "id": 340,
+            "hintImage": "islands/NichelTarovSecret1.jpg"
         },
         {
-            "x": -242.27,
-            "y": 160.89,
+            "x": -242.125,
+            "y": 160.87498499039384,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 341
+            "id": 341,
+            "hintImage": "islands/NichelTarovSecret2.jpg"
         },
         {
-            "x": -241.52,
-            "y": 161.87,
+            "x": -241.375,
+            "y": 161.88282750960616,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 342
+            "id": 342,
+            "hintImage": "islands/NichelTarovSecret3.jpg"
         },
         {
-            "x": -290.2,
-            "y": 358.68,
+            "x": -290.1640625,
+            "y": 358.6249474663785,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 343,
-            "popupText": "친절 증가 물약"
+            "popupText": "친절 증가 물약",
+            "hintImage": "islands/EstellaGroupQuest1.jpg"
         },
         {
-            "x": -215.52,
-            "y": 380.68,
+            "x": -215.53125,
+            "y": 381.07850774495677,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 344
+            "id": 344,
+            "hintImage": "islands/LushReedMokoko4.jpg"
         },
         {
-            "x": -215.62,
-            "y": 380.51,
+            "x": -215.625,
+            "y": 380.87535272574445,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 345
+            "id": 345,
+            "hintImage": "islands/LushReedMokoko5.jpg"
         },
         {
-            "x": -229.23,
-            "y": 404.18,
+            "x": -229.1875,
+            "y": 403.6401071685879,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 346
+            "id": 346,
+            "hintImage": "islands/PandaPupuSecret1.jpg"
         },
         {
-            "x": -228.37,
-            "y": 405.21,
+            "x": -228.2421875,
+            "y": 405.03889739433237,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 347
+            "id": 347,
+            "hintImage": "islands/PandaPupuSecret2.jpg"
         },
         {
-            "x": -229.98,
-            "y": 405.61,
+            "x": -230.0703125,
+            "y": 405.49207492795387,
             "type": MarkerTypeEnum.PlayInstrument,
-            "id": 348
+            "id": 348,
+            "popupText": "공명의 노래",
+            "hintText": "비밀길",
+            "hintImage": "islands/PandaPupuInstrument1.jpg"
         },
         {
-            "x": -346.51,
-            "y": 404.18,
+            "x": -346.4765625,
+            "y": 404.00764739433237,
             "type": MarkerTypeEnum.PlayInstrument,
-            "id": 349
+            "id": 349,
+            "hintImage": "islands/PirateTownInstrument1.jpg",
+            "popupText": "공명의 노래"
         },
         {
-            "x": -357.91,
-            "y": 404.2,
-            "type": MarkerTypeEnum.PlayInstrument,
+            "x": -356.8984375,
+            "y": 405.28215808117193,
+            "type": MarkerTypeEnum.GroupQuest,
             "id": 350,
-            "title": "Group Quest",
-            "popupText": "생활 포인트 물약"
+            "popupText": "생활 포인트 물약",
+            "hintImage": "islands/FreedomGroupQuest1.jpg"
         },
         {
-            "x": -385.53,
-            "y": 351.68,
+            "x": -385.4453125,
+            "y": 351.6327674711816,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 351
+            "id": 351,
+            "hintImage": "islands/SilentSecret1.jpg"
         },
         {
-            "x": -316.2,
-            "y": 337.89,
+            "x": -315.1640625,
+            "y": 337.78896493756,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 352
+            "id": 352,
+            "hintImage": "islands/GiantMushroomSecret1.jpg"
         },
         {
-            "x": -434.03,
-            "y": 379.07,
+            "x": -434.0234375,
+            "y": 378.99211245196926,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 353,
-            "popupText": "생활 포인트 물약"
+            "popupText": "생활 포인트 물약",
+            "hintImage": "islands/ForgottenGroupQuest1.jpg"
         },
         {
-            "x": -357.79,
-            "y": 310.29,
+            "x": -357.5546875,
+            "y": 310.3750825528338,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 354
+            "id": 354,
+            "hintImage": "islands/PomonoMokoko1.jpg"
         },
         {
-            "x": -358.71,
-            "y": 311.72,
+            "x": -358.671875,
+            "y": 312.0080901777137,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 355
+            "id": 355,
+            "hintImage": "islands/PomonaSecret1.jpg"
         },
         {
-            "x": -319.16,
-            "y": 180.48,
+            "x": -319.109375,
+            "y": 180.39836245196926,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 356
+            "id": 356,
+            "hintImage": "islands/NaruniSecret1.jpg"
         },
         {
-            "x": -316.48,
-            "y": 182.33,
+            "x": -316.453125,
+            "y": 182.2968449807877,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 357
         },
         {
-            "x": -316.28,
-            "y": 180.58,
+            "x": -316.2265625,
+            "y": 180.52338496637847,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 358
+            "id": 358,
+            "hintImage": "islands/NaruniSecret2.jpg"
         },
         {
             "x": -319.91,
             "y": 215.99,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 360
+            "id": 360,
+            "hintImage": "islands/DistortedMokoko1.jpg"
         },
         {
             "x": -319.21,
             "y": 216.93,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 361
+            "id": 361,
+            "hintImage": "islands/DistortedMokoko2.jpg"
         },
         {
             "x": -318.34,
             "y": 218.03,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 362
+            "id": 362,
+            "hintImage": "islands/DistortedMokoko3.jpg"
         },
         {
-            "x": -357.34,
-            "y": 371.12,
+            "x": -357.265625,
+            "y": 370.8279407664117,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 363
+            "id": 363,
+            "hintImage": "islands/MerciaSecret1.jpg"
         },
         {
             "x": -345.02,
@@ -2241,146 +2574,171 @@
             "hintImage": "islands/TorrentWorldBoss1.jpg"
         },
         {
-            "x": -311.54,
-            "y": 152.43,
+            "x": -311.71875,
+            "y": 152.21861555927342,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 365
+            "id": 365,
+            "hintImage": "islands/GravisSecret1.jpg"
         },
         {
-            "x": -351.5,
-            "y": 124.27,
+            "x": -351.625,
+            "y": 124.24216758285532,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 366
+            "id": 366,
+            "hintImage": "islands/HypnoseSecret1.jpg"
         },
         {
-            "x": -210.44,
-            "y": 86.32,
+            "x": -210.4765625,
+            "y": 86.56265435787125,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 367,
-            "popupText": "생활 포인트 물약"
+            "popupText": "생활 포인트 물약",
+            "hintImage": "islands/DreamsGroupQuest1.jpg"
         },
         {
-            "x": -205.71,
-            "y": 85.78,
+            "x": -205.59375,
+            "y": 85.64053537284894,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 368
+            "id": 368,
+            "hintImage": "islands/DreamsSecret1.jpg"
         },
         {
-            "x": -202.25,
-            "y": 145.49,
+            "x": -202.1953125,
+            "y": 145.5156399378585,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 369
+            "id": 369,
+            "hintImage": "islands/LongingSecret1.jpg"
         },
         {
-            "x": -195.09,
-            "y": 118.21,
+            "x": -194.96875,
+            "y": 117.46045948852772,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 370
+            "id": 370,
+            "hintImage": "islands/EternitySecret1.jpg"
         },
         {
-            "x": -194.5703125,
-            "y": 117.91405752071383,
+            "x": -194.3984375,
+            "y": 117.0150523820905,
             "type": MarkerTypeEnum.TreasureBox,
-            "id": 371
+            "id": 371,
+            "hintImage": "islands/EternityTreasure1.jpg"
         },
         {
-            "x": -195.42,
-            "y": 119.65,
+            "x": -195.4609375,
+            "y": 119.64062002071383,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 372
+            "id": 372,
+            "hintImage": "islands/EternitySecret2.jpg"
         },
         {
-            "x": -195.77,
-            "y": 119.58,
+            "x": -195.90625,
+            "y": 119.578125,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 373
+            "id": 373,
+            "hintImage": "islands/EternitySecret3.jpg"
         },
         {
-            "x": -195.62,
-            "y": 119.81,
+            "x": -195.7109375,
+            "y": 119.82031747928617,
             "type": MarkerTypeEnum.TreasureBox,
-            "id": 374
+            "id": 374,
+            "hintImage": "islands/EternityTreasure2.jpg"
         },
         {
             "x": -146.24,
             "y": 194.01,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 375,
-            "popupText": "상자(낡은 금열쇠)"
+            "popupText": "상자(낡은 금열쇠)",
+            "hintImage": "islands/ShadowsTreasure1.jpg"
         },
         {
             "x": -147.16,
             "y": 193.18,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 376,
-            "popupText": "상자(낡은 금열쇠)"
+            "popupText": "상자(낡은 금열쇠)",
+            "hintImage": "islands/ShadowsTreasure2.jpg"
         },
         {
-            "x": -134.61,
-            "y": 166.89,
+            "x": -135.0078125,
+            "y": 166.70300549713193,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 377
+            "id": 377,
+            "hintImage": "islands/TranquilSecret2.jpg"
         },
         {
-            "x": -132.88,
-            "y": 168.48,
+            "x": -132.9765625,
+            "y": 168.5860072100064,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 378
+            "id": 378,
+            "hintImage": "islands/TranquilSecret1.jpg"
         },
         {
-            "x": -101.22,
-            "y": 160.71,
+            "x": -100.9765625,
+            "y": 161.60213013862332,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 379
+            "id": 379,
+            "hintImage": "islands/LuckyMokoko2.jpg"
         },
         {
-            "x": -100.16,
-            "y": 160.58,
+            "x": -99.84375,
+            "y": 161.43023024219247,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 380
+            "id": 380,
+            "hintImage": "islands/LuckyMokoko1.jpg"
         },
         {
-            "x": -121.09,
-            "y": 235.47,
+            "x": -121.3046875,
+            "y": 235.30458293499044,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 381
+            "id": 381,
+            "hintText": "이 곳에 있는 돌을 부수면 모코코로 진입가능",
+            "hintImage": "islands/MedeaSecret1.jpg"
         },
         {
-            "x": -159.71,
-            "y": 316.92,
+            "x": -158.6875,
+            "y": 316.29647665710644,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 382
+            "id": 382,
+            "hintImage": "islands/AlaquerSecret1.jpg"
         },
         {
-            "x": -185.55,
-            "y": 316.96,
+            "x": -185.2265625,
+            "y": 316.66387328712557,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 383
+            "id": 383,
+            "hintImage": "islands/NewMoonSecret1.jpg"
         },
         {
-            "x": -189.08,
-            "y": 319.2,
+            "x": -189.0390625,
+            "y": 319.08586281070745,
             "type": MarkerTypeEnum.PlayInstrument,
-            "id": 384
+            "id": 384,
+            "hintImage": "islands/NewMoonInstrument1.jpg",
+            "popupText": "숲의 미뉴에트"
         },
         {
             "x": -189,
-            "y": 319.49,
+            "y": 319.39837774856596,
             "type": MarkerTypeEnum.TreasureBox,
-            "id": 385
+            "id": 385,
+            "hintImage": "islands/NewMoonTreasure1.jpg"
         },
         {
-            "x": -161.38,
-            "y": 366.91,
+            "x": -161.390625,
+            "y": 366.953154875717,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 386
+            "id": 386,
+            "hintImage": "islands/x301Secret1.jpg"
         },
         {
-            "x": -162.52,
-            "y": 366.5,
+            "x": -162.4921875,
+            "y": 366.5234524378585,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 387,
-            "title": "Secret Passage"
+            "hintImage": "islands/x301Treasure1.jpg",
+            "hintText": "상자(낡은 금열쇠)"
         },
         {
             "x": -193.62,
@@ -2391,58 +2749,404 @@
             "hintImage": "islands/AlteisenWorldBoss1.jpg"
         },
         {
-            "x": -105.44,
-            "y": 392.04,
+            "x": -105.2578125,
+            "y": 391.89053039356276,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 389,
-            "popupText": "그룹 퀘스트"
+            "popupText": "그룹 퀘스트",
+            "hintText": "능력치 증가 물약"
         },
         {
-            "x": -106.85,
-            "y": 390.65,
+            "x": -106.7421875,
+            "y": 390.4060956421287,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 390,
             "popupText": "보물 상자"
         },
         {
-            "x": -105.89,
-            "y": 392.59,
+            "x": -105.71875,
+            "y": 392.4139479764181,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 391,
             "popupText": "히든 퀘스트"
         },
         {
-            "x": -153.27,
-            "y": 419.39,
+            "x": -153.1875,
+            "y": 419.24209289356276,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 392,
             "popupText": "수신 아포라스",
             "hintImage": "islands/DeathValleyWorldBoss1.jpg"
         },
         {
-            "x": -85.52,
-            "y": 336.08,
+            "x": -85.6328125,
+            "y": 335.616893722116,
             "type": MarkerTypeEnum.Mokoko,
-            "id": 393
+            "id": 393,
+            "hintImage": "islands/ArgonMokoko1.jpg"
         },
         {
-            "x": -85.13,
-            "y": 336.54,
+            "x": -85.15625,
+            "y": 336.3045381214149,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 394,
-            "popupText": "숲의 미뉴에트"
+            "popupText": "숲의 미뉴에트",
+            "hintImage": "islands/ArgonInstrument1.jpg"
         },
         {
-            "x": -84.23,
-            "y": 338.57,
+            "x": -84.03125,
+            "y": 338.617217375717,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 395
+            "id": 395,
+            "hintImage": "islands/ArgonSecret1.jpg"
         },
         {
-            "x": -295.2,
-            "y": 166.54,
+            "x": -295.0078125,
+            "y": 166.6485072100064,
             "type": MarkerTypeEnum.SecretPassage,
-            "id": 396
+            "id": 396,
+            "hintImage": "islands/AtroposeSecret1.jpg"
+        },
+        {
+            "x": -223.48,
+            "y": 324.68,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 397,
+            "hintText": "해당 위치에 황금상자가 5~10분사이로\n\n리젠이 되는데 그것을 부수면\n\n위로 올라가는 길이 생김",
+            "hintImage": "islands/FortunaSecret1.jpg"
+        },
+        {
+            "x": -260.43,
+            "y": 345.15,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 398,
+            "hintImage": "islands/OceanParadisePaytoSecret1.jpg"
+        },
+        {
+            "x": -291.58,
+            "y": 356.68,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 399,
+            "hintText": "이동 시 자동으로 점프",
+            "hintImage": "islands/EstellaSecret1.jpg"
+        },
+        {
+            "x": -303.77,
+            "y": 363.83,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 400,
+            "hintImage": "islands/TotoSilverSecretHint1.jpg"
+        },
+        {
+            "x": -215.29,
+            "y": 297.63,
+            "type": MarkerTypeEnum.Barter,
+            "id": 401,
+            "popupText": "그릇된 조각",
+            "hintImage": "islands/MisguidedBarter1.jpg"
+        },
+        {
+            "x": -282.05,
+            "y": 181.16,
+            "type": MarkerTypeEnum.Barter,
+            "id": 402,
+            "popupText": "작은 보석조개",
+            "hintImage": "islands/BlueHoleBarter1.jpg"
+        },
+        {
+            "x": -261.54,
+            "y": 346.3,
+            "type": MarkerTypeEnum.Reward,
+            "id": 403,
+            "popupText": "감정표현:할라할라",
+            "hintImage": "islands/OceanParadisePaytoReward1.jpg"
+        },
+        {
+            "x": -262.14,
+            "y": 347.5,
+            "type": MarkerTypeEnum.Barter,
+            "id": 404,
+            "popupText": "균열의 조각",
+            "hintImage": "islands/OceanParadisePaytoBarter1.jpg"
+        },
+        {
+            "x": -230.25,
+            "y": 344.79,
+            "type": MarkerTypeEnum.Barter,
+            "id": 405,
+            "popupText": "위대한 미술품",
+            "hintImage": "islands/SunflowerBarter1.jpg"
+        },
+        {
+            "x": -231.5,
+            "y": 345.39,
+            "type": MarkerTypeEnum.Epilogue,
+            "id": 406,
+            "popupText": "에필-위대한 미술품#29",
+            "hintText": "선행퀘스트를 진행하다보면 수락 가능",
+            "hintImage": "islands/SunflowerEpilogue1.jpg"
+        },
+        {
+            "x": -283.26,
+            "y": 390.56,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 407,
+            "hintText": "닭으로 변신해야 입장가능",
+            "hintImage": "islands/ForpeSecret1.jpg"
+        },
+        {
+            "x": -283.83,
+            "y": 394.11,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 408,
+            "hintText": "바리게이트를 부수면 길 활성화",
+            "hintImage": "islands/ForpeSecret3.jpg"
+        },
+        {
+            "x": -282.62,
+            "y": 393.9,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 409,
+            "hintText": "닭으로 변신해야 입장가능",
+            "hintImage": "islands/ForpeSecret2.jpg"
+        },
+        {
+            "x": -254.54,
+            "y": 372.33,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 410,
+            "hintImage": "islands/TurtleSecret1.jpg"
+        },
+        {
+            "x": -355.54,
+            "y": 406.06,
+            "type": MarkerTypeEnum.Barter,
+            "id": 411,
+            "hintImage": "islands/FreedomBarter1.jpg",
+            "popupText": "검은이빨의 증표"
+        },
+        {
+            "x": -359.7,
+            "y": 403.97,
+            "type": MarkerTypeEnum.Barter,
+            "id": 412,
+            "hintImage": "islands/FreedomBarter2.jpg",
+            "popupText": "해적 암거래상"
+        },
+        {
+            "x": -355.97,
+            "y": 406.56,
+            "type": MarkerTypeEnum.TravelingMerchant,
+            "id": 413,
+            "popupText": "11:30pm",
+            "hintImage": "island/FreedomTravelingMerchant1.jpg"
+        },
+        {
+            "x": -385.27,
+            "y": 398.98,
+            "type": MarkerTypeEnum.Barter,
+            "id": 414,
+            "hintImage": "islands/BlackToothBarter1.jpg"
+        },
+        {
+            "x": -411.47,
+            "y": 331.39,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 415,
+            "popupText": "히든 퀘스트",
+            "hintImage": "islands/WisdomHiddenQuest1.jpg"
+        },
+        {
+            "x": -411.51,
+            "y": 331.01,
+            "type": MarkerTypeEnum.Barter,
+            "id": 416,
+            "popupText": "거인의 심장 스샷"
+        },
+        {
+            "x": -442.34,
+            "y": 340.01,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 417,
+            "popupText": "공명의 노래",
+            "hintImage": "islands/OrbisInstrument1.jpg"
+        },
+        {
+            "x": -316.98,
+            "y": 322.55,
+            "type": MarkerTypeEnum.Epilogue,
+            "id": 418
+        },
+        {
+            "x": -336.97,
+            "y": 298.57,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 419,
+            "popupText": "히든 퀘스트",
+            "hintText": "보상 : 능력치 증가물약"
+        },
+        {
+            "x": -312.26,
+            "y": 151.69,
+            "type": MarkerTypeEnum.Reward,
+            "id": 420,
+            "popupText": "능력치 증가 물약",
+            "hintImage": "islands/GravisReward1.jpg"
+        },
+        {
+            "x": -312.6,
+            "y": 152.43,
+            "type": MarkerTypeEnum.Epilogue,
+            "id": 421,
+            "popupText": "능력치 증가 물약",
+            "hintImage": "islands/GravisEpilogue1.jpg"
+        },
+        {
+            "x": -253.84375,
+            "y": 93.3203125,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 422,
+            "hintImage": "islands/HarmonyMokoko3.jpg"
+        },
+        {
+            "x": -180.2,
+            "y": 182.96,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 423,
+            "hintImage": "islands/MonteSecret1.jpg"
+        },
+        {
+            "x": -132.55,
+            "y": 166.46,
+            "type": MarkerTypeEnum.Reward,
+            "id": 424,
+            "popupText": "악보 : 황혼의 레퀴엠",
+            "hintImage": "islands/TranquilReward1.jpg"
+        },
+        {
+            "x": -99.98,
+            "y": 158.25,
+            "type": MarkerTypeEnum.Epilogue,
+            "id": 425,
+            "popupText": "에필 - 원한1 / 전설 호감도",
+            "hintImage": "islands/LuckyEpilogue1.jpg"
+        },
+        {
+            "x": -132.73,
+            "y": 285.82,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 426,
+            "hintImage": "islands/HallucinationSecret1.jpg"
+        },
+        {
+            "x": -188.52,
+            "y": 315,
+            "type": MarkerTypeEnum.Barter,
+            "id": 427,
+            "popupText": "결정 섞인 비늘",
+            "hintImage": "islands/NewMoonBarter1.jpg"
+        },
+        {
+            "x": -195.359375,
+            "y": 329.82810010356917,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 428,
+            "hintImage": "islands/SeagullSecret2.jpg"
+        },
+        {
+            "x": -181.25,
+            "y": 370.85,
+            "type": MarkerTypeEnum.Barter,
+            "id": 429,
+            "popupText": "생활 각인",
+            "hintImage": "islands/GoldenWaveBarter1.jpg"
+        },
+        {
+            "x": -194.69,
+            "y": 404.03,
+            "type": MarkerTypeEnum.Epilogue,
+            "id": 430,
+            "popupText": "능력치 증가 물약",
+            "hintText": "알트아이젠 입장 시 입구에 있는 에필로그 퀘스트를 연계해서 진행하다보면 해당 퀘스트가 열림",
+            "hintImage": "islands/AlteisenEpilogue1.jpg"
+        },
+        {
+            "x": -120.08,
+            "y": 371.12,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 431,
+            "hintImage": "islands/OpportunitySecret1.jpg"
+        },
+        {
+            "x": -105.5390625,
+            "y": 394.3907445028681,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 432,
+            "hintImage": "islands/FugitiveTreasure1.jpg"
+        },
+        {
+            "x": -269.7421875,
+            "y": 158.46873008285533,
+            "type": MarkerTypeEnum.Barter,
+            "id": 433,
+            "hintImage": "islands/GoblinBarter1.jpg",
+            "popupText": "고블린 금화"
+        },
+        {
+            "x": -299.8125,
+            "y": 168.8905552899936,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 434,
+            "hintImage": "islands/AtroposeSecret3.jpg"
+        },
+        {
+            "x": -223.3,
+            "y": 105.34,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 435,
+            "hintImage": "islands/ValpurgisDungeonSecret1.jpg"
+        },
+        {
+            "x": -220.74,
+            "y": 105.58,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 436,
+            "hintImage": "islands/ValpurgisDungeonSecret2.jpg"
+        },
+        {
+            "x": -223.16,
+            "y": 105.27,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 437,
+            "hintImage": "islands/ValpurgisDungeonMokoko1.jpg"
+        },
+        {
+            "x": -222.76,
+            "y": 105.28,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 438,
+            "hintImage": "islands/ValpurgisDungeonMokoko2.jpg"
+        },
+        {
+            "x": -220.59,
+            "y": 105.48,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 439,
+            "hintImage": "islands/ValpurgisDungeonMokoko3.jpg"
+        },
+        {
+            "x": -219.84,
+            "y": 106.3,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 440,
+            "hintImage": "islands/ValpurgisDungeonMokoko4.jpg"
+        },
+        {
+            "x": -227.7,
+            "y": 105.63,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 441,
+            "title": "Valpurgis Dungeon"
         }
     ];
 
