@@ -129,9 +129,13 @@
             n: "1.8",
             d: "TBD",
             e: [
+                'Updated most island images to better versions',
+                'Forpe Island is now properly named in the island map',
+                'White Waves Island now has a map',
                 'Added Discord Link',
                 'Added Lots of Translations for hints and descriptions',
-                'Added Privacy Policy'
+                'Added Privacy Policy',
+                'Added several markers to islands for hidden paths and corrected some'
             ]
         }
     };

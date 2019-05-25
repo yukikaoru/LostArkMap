@@ -129,7 +129,7 @@
         "Atropose": "아트로포스",
         "Blue Hole Island": "블루홀 섬",
         "Valpurgis": "발푸르기스",
-        "Metus Islands": "메투스 제도",
+        "Metus Island": "메투스 제도",
         "Island of Rejoice": "기약의 섬",
         "Isle of Mist": "안개의 섬",
         "Nichel Tarov's Thought": "니헬타로프의 상념",

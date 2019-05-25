@@ -114,7 +114,7 @@
             태초의 섬 - Primeval Island
             니헬타로프의 상념 - Nichel Tarov's Thought
             기약의 섬 - Island of Rejoice
-            메투스 제도 - Metus Islands
+            메투스 제도 - Metus Island
             발푸르기스 - Valpurgis
 
             [PVP] 고블린 섬 - Goblin Island
@@ -841,7 +841,7 @@
         ]
     });
 
-    area.registerMap("Metus Islands", {
+    area.registerMap("Metus Island", {
         "type": MapTypeEnum.Island,
         "meta": {
             "ilvl": 250,
