@@ -125,7 +125,7 @@
             "y": 125.83,
             "type": MarkerTypeEnum.Boss,
             "id": 16,
-            "title": "빛나는 보석 거미",
+            "title": "Shiny Gem Spider",
             "hintImage": "yon/BeginningsBossHint1.jpg"
         },
         {
@@ -133,7 +133,7 @@
             "y": 131.27,
             "type": MarkerTypeEnum.Boss,
             "id": 17,
-            "title": "분노한 화석암석 골렘",
+            "title": "Wrathful Fossil-Stone Golem",
             "hintImage": "yon/BeginningsBossHint2.jpg"
         },
         {
@@ -141,8 +141,121 @@
             "y": 148.89,
             "type": MarkerTypeEnum.Boss,
             "id": 18,
-            "title": "우두머리 지하수 바위거북",
+            "title": "Groundwater Rock-Turtle",
             "hintImage": "yon/BeginningsBossHint3.jpg"
+        },
+        {
+            "x": -274.87,
+            "y": 128.96,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 19,
+            "title": "Mukar Bachelor Party #1",
+            "hintText": "20 Minutes Time Limit",
+            "hintImage": "yon/GreatCastleHiddenStoryHint1.jpg"
+        },
+        {
+            "x": -273.37,
+            "y": 130.83,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 20,
+            "title": "Umar Masterpiece #3",
+            "hintImage": "yon/GreatCastleHiddenStoryHint2.jpg"
+        },
+        {
+            "x": -273.19,
+            "y": 133.52,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 21,
+            "title": "About Queen Rivera #1",
+            "hintText": "20 Minutes Time Limit",
+            "hintImage": "yon/GreatCastleHiddenStoryHint3.jpg"
+        },
+        {
+            "x": -240.75,
+            "y": 172.82,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 22,
+            "title": "Umar Masterpiece #2",
+            "hintImage": "yon/GreatCastleHiddenStoryHint4.jpg"
+        },
+        {
+            "x": -247.44,
+            "y": 122.52,
+            "type": MarkerTypeEnum.Vista,
+            "id": 23,
+            "title": "Spire",
+            "hintImage": "yon/GreatCastleVistaHint1.jpg"
+        },
+        {
+            "x": -263.75,
+            "y": 122.96,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 24,
+            "hintImage": "yon/GreatCastleMokokoHint3.jpg",
+            "hintText": "Inside the Trading Center"
+        },
+        {
+            "x": -273.87,
+            "y": 127.83,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 25,
+            "hintImage": "yon/GreatCastleMokokoHint4.jpg",
+            "hintText": "After entering the Inn head up the Stairs to the Red Curtain (see image) and you will come out of the Place. (300 Friendly)"
+        },
+        {
+            "x": -275.56,
+            "y": 130.46,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 26,
+            "hintImage": "yon/GreatCastleMokokoHint5.jpg",
+            "hintText": "Inside Building"
+        },
+        {
+            "x": -274,
+            "y": 134.64,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 27,
+            "hintImage": "yon/GreatCastleMokokoHint6.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -248.56,
+            "y": 121.52,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 28,
+            "hintImage": "yon/GreatCastleMokokoHint1.jpg"
+        },
+        {
+            "x": -245.44,
+            "y": 127.15,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 29,
+            "hintImage": "yon/GreatCastleMokokoHint2.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -245.75,
+            "y": 151.51,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 30,
+            "hintImage": "yon/GreatCastleMokokoHint7.jpg"
+        },
+        {
+            "x": -254.25,
+            "y": 176.64,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 31,
+            "hintImage": "yon/GreatCastleMokokoHint8.jpg"
+        },
+        {
+            "x": -332.75,
+            "y": 136.28,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 32,
+            "teleportTo": [
+                -290.12,
+                148.5
+            ]
         }
     ];
 
