@@ -255,6 +255,193 @@
             "teleportTo": [
                 -290.12,
                 148.5
+            ],
+            "title": "##To Great Castle"
+        },
+        {
+            "x": -268.25,
+            "y": 221.46,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 33,
+            "title": "Umar's Pride #5",
+            "hintImage": "yon/BlackAnvilHiddenStoryHint2.jpg"
+        },
+        {
+            "x": -262.19,
+            "y": 221.46,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 34,
+            "title": "Mukar Bachelor Party #2",
+            "hintImage": "yon/BlackAnvilHiddenStoryHint1.jpg"
+        },
+        {
+            "x": -266.12,
+            "y": 231.58,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 35,
+            "title": "Umar's Pride #3",
+            "hintImage": "yon/BlackAnvilHiddenStoryHint4.jpg"
+        },
+        {
+            "x": -257.69,
+            "y": 232.58,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 36,
+            "title": "Awesome Song #1",
+            "hintImage": "yon/BlackAnvilHiddenStoryHint3.jpg",
+            "hintText": "20 Minutes Time Limit"
+        },
+        {
+            "x": -276.69,
+            "y": 242.32,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 37,
+            "title": "Umar's Pride #4",
+            "hintImage": "yon/BlackAnvilHiddenStoryHint5.jpg"
+        },
+        {
+            "x": -270,
+            "y": 246.01,
+            "type": MarkerTypeEnum.Vista,
+            "id": 38,
+            "title": "Jewel Flower Cave",
+            "hintImage": "yon/BlackAnvilVistaHint1.jpg"
+        },
+        {
+            "x": -281.5,
+            "y": 245.76,
+            "type": MarkerTypeEnum.Boss,
+            "id": 39,
+            "title": "Head Telpa Miner",
+            "hintImage": "yon/BlackAnvilBossHint1.jpg"
+        },
+        {
+            "x": -228.81,
+            "y": 242.7,
+            "type": MarkerTypeEnum.Boss,
+            "id": 40,
+            "title": "Giant Mine Rock",
+            "hintImage": "yon/BlackAnvilBossHint2.jpg"
+        },
+        {
+            "x": -233.19,
+            "y": 263.44,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 41,
+            "title": "Umar History #3",
+            "hintImage": "yon/BlackAnvilHiddenStoryHint6.jpg"
+        },
+        {
+            "x": -272.12,
+            "y": 285.74,
+            "type": MarkerTypeEnum.Vista,
+            "id": 42,
+            "title": "Halo Lake Shore",
+            "hintImage": "yon/BlackAnvilVistaHint2.jpg"
+        },
+        {
+            "x": -264.56,
+            "y": 295.55,
+            "type": MarkerTypeEnum.Boss,
+            "id": 43,
+            "title": "Glowing Ore-Shell Turtle",
+            "hintImage": "yon/BlackAnvilBossHint3.jpg"
+        },
+        {
+            "x": -262.56,
+            "y": 220.08,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 44,
+            "hintImage": "yon/BlackAnvilMokokoHint1.jpg",
+            "hintText": "Access the hidden path if you have a Kulkur Beer at the Location"
+        },
+        {
+            "x": -277.81,
+            "y": 227.83,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 45,
+            "hintImage": "yon/BlackAnvilMokokoHint2.jpg",
+            "hintText": "Can be obtained after accessing the secret Path in the hint"
+        },
+        {
+            "x": -267.81,
+            "y": 236.51,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 46,
+            "hintImage": "yon/BlackAnvilMokokoHint3.jpg",
+            "hintText": "Can be obtained after accessing the secret Path in the hint"
+        },
+        {
+            "x": -255.81,
+            "y": 245.57,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 47,
+            "hintImage": "yon/BlackAnvilMokokoHint4.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -260.75,
+            "y": 252.63,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 48,
+            "hintImage": "yon/BlackAnvilMokokoHint5.jpg",
+            "hintText": "Obtained after entering the location and playing Minuet of the Forest a bit further in"
+        },
+        {
+            "x": -254.81,
+            "y": 265.94,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 49,
+            "hintImage": "yon/BlackAnvilMokokoHint6.jpg",
+            "hintText": "Can be obtained after accessing the secret Path in the hint"
+        },
+        {
+            "x": -236.62,
+            "y": 237.26,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 50,
+            "hintImage": "yon/BlackAnvilMokokoHint7.jpg",
+            "hintText": "Can be obtained after accessing the secret Path in the hint"
+        },
+        {
+            "x": -234.06,
+            "y": 242.2,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 51,
+            "hintImage": "yon/BlackAnvilMokokoHint8.jpg",
+            "hintText": "After descending to the location if you have Kulkur Beer"
+        },
+        {
+            "x": -231.31,
+            "y": 244.76,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 52,
+            "hintImage": "yon/BlackAnvilMokokoHint9.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -235.87,
+            "y": 251.13,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 53,
+            "hintImage": "yon/BlackAnvilMokokoHint10.jpg"
+        },
+        {
+            "x": -235.25,
+            "y": 252.51,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 54,
+            "hintImage": "yon/BlackAnvilMokokoHint11.jpg",
+            "hintText": "Move to hint location (300 Charm required)"
+        },
+        {
+            "x": -235.62,
+            "y": 194.14,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 55,
+            "teleportTo": [
+                -270.12,
+                218.61
             ]
         }
     ];
