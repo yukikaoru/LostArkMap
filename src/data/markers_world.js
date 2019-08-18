@@ -7,8 +7,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "hintImage": "world/TreasureMap1.jpg",
             "id": 1,
-            'rarity': RarityEnum.Rare,
-            'tmArea': TreasureMapAreaFilter.World
+            "rarity": RarityEnum.Rare,
+            "tmArea": TreasureMapAreaFilter.World
         },
         {
             "x": -191.1258757234237,
@@ -16,8 +16,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "hintImage": "world/TreasureMap2.jpg",
             "id": 2,
-            'rarity': RarityEnum.Epic,
-            'tmArea': TreasureMapAreaFilter.World,
+            "rarity": RarityEnum.Epic,
+            "tmArea": TreasureMapAreaFilter.World,
             "tmLand": TreasureMapLandFilterEnum.Abundant
         },
         {
@@ -26,8 +26,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "hintImage": "world/TreasureMap3.jpg",
             "id": 3,
-            'rarity': RarityEnum.Epic,
-            'tmArea': TreasureMapAreaFilter.World
+            "rarity": RarityEnum.Epic,
+            "tmArea": TreasureMapAreaFilter.World
         },
         {
             "x": -231.75045689917758,
@@ -35,8 +35,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "hintImage": "world/TreasureMap4.jpg",
             "id": 4,
-            'rarity': RarityEnum.Rare,
-            'tmArea': TreasureMapAreaFilter.World
+            "rarity": RarityEnum.Rare,
+            "tmArea": TreasureMapAreaFilter.World
         },
         {
             "x": -142.85,
@@ -44,8 +44,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "id": 7,
             "hintImage": "world/TreasureMap5.jpg",
-            'rarity': RarityEnum.Epic,
-            'tmArea': TreasureMapAreaFilter.World,
+            "rarity": RarityEnum.Epic,
+            "tmArea": TreasureMapAreaFilter.World,
             "tmLand": TreasureMapLandFilterEnum.Sparse
         },
         {
@@ -54,8 +54,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "id": 8,
             "hintImage": "world/TreasureMap6.jpg",
-            'rarity': RarityEnum.Rare,
-            'tmArea': TreasureMapAreaFilter.World,
+            "rarity": RarityEnum.Rare,
+            "tmArea": TreasureMapAreaFilter.World,
             "tmLand": TreasureMapLandFilterEnum.Sparse
         },
         {
@@ -64,8 +64,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "id": 9,
             "hintImage": "world/TreasureMap7.jpg",
-            'rarity': RarityEnum.Legendary,
-            'tmArea': TreasureMapAreaFilter.World
+            "rarity": RarityEnum.Legendary,
+            "tmArea": TreasureMapAreaFilter.World
         },
         {
             "x": -180.1562777955169,
@@ -76,7 +76,7 @@
                 -152.48,
                 421.9
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -210.62532242799605,
@@ -87,7 +87,7 @@
                 -197.51,
                 406.86
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -234.81267789130817,
@@ -98,7 +98,7 @@
                 -229.03,
                 408.41
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -149.87522792323858,
@@ -109,7 +109,7 @@
                 -108.18,
                 392.75
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -158.87499242515852,
@@ -120,7 +120,7 @@
                 -118.67,
                 369.6
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -126.90671696468395,
@@ -131,7 +131,7 @@
                 -80.64,
                 372.98
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -106.37527795516903,
@@ -142,7 +142,7 @@
                 -46.51,
                 365.03
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -129.87535578261634,
@@ -153,7 +153,7 @@
                 -87.47,
                 337.62
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -154.25028907337577,
@@ -164,7 +164,7 @@
                 -113.53,
                 308.42
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -188.53143345041155,
@@ -175,7 +175,7 @@
                 -161.24,
                 318.09
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -191.62517789130817,
@@ -186,7 +186,7 @@
                 -169.75,
                 345.01
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -185.43760006386086,
@@ -197,7 +197,7 @@
                 -160.15,
                 363.29
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -199.00026683696225,
@@ -208,7 +208,7 @@
                 -181.41,
                 371
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -206.53126667731016,
@@ -219,7 +219,7 @@
                 -189.28,
                 319.85
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -208.93765565489466,
@@ -230,7 +230,7 @@
                 -194.38,
                 333.17
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -230.12515565489466,
@@ -241,7 +241,7 @@
                 -221.4,
                 321.51
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -225.5626334184811,
@@ -252,7 +252,7 @@
                 -215.23,
                 337.42
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -241.1251334184811,
@@ -263,7 +263,7 @@
                 -230.18,
                 345.73
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -236.5000555910338,
@@ -274,7 +274,7 @@
                 -230.44,
                 370.04
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -224.24989993613917,
@@ -285,7 +285,7 @@
                 -215.23,
                 379.83
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -252.6251111820676,
@@ -296,7 +296,7 @@
                 -255.38,
                 370.57
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -259.6876556548947,
@@ -307,7 +307,7 @@
                 -263.74,
                 345.67
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -267.2501556548947,
@@ -318,7 +318,7 @@
                 -270.44,
                 324.98
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -276.56262230027437,
@@ -329,7 +329,7 @@
                 -292.7,
                 337.44
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -277.18756670924057,
@@ -340,7 +340,7 @@
                 -291.17,
                 360.1
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -286.4376778913082,
@@ -351,7 +351,7 @@
                 -303.17,
                 365.42
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -283.6876000638608,
@@ -362,7 +362,7 @@
                 -299.06,
                 372.28
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -272.1876556548947,
@@ -373,7 +373,7 @@
                 -285.68,
                 393.24
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -299.25002223641354,
@@ -384,7 +384,7 @@
                 -318.5,
                 322.54
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -299.2501111820676,
@@ -395,7 +395,7 @@
                 -317.93,
                 339.9
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -309.06360070246933,
@@ -406,7 +406,7 @@
                 -338.13,
                 376.89
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -315.24998888179323,
@@ -417,7 +417,7 @@
                 -347,
                 406.47
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -323.5,
@@ -428,7 +428,7 @@
                 -360.33,
                 404.37
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -344.81255559103386,
@@ -439,7 +439,7 @@
                 -387.68,
                 399.25
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -325.1875,
@@ -450,7 +450,7 @@
                 -359.01,
                 373.17
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -321.75001111820677,
@@ -461,7 +461,7 @@
                 -353.45,
                 359.85
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -347.25,
@@ -472,7 +472,7 @@
                 -386.08,
                 349.46
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -325.31253335462026,
@@ -483,7 +483,7 @@
                 -358.42,
                 311.43
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -314.06246664537974,
@@ -494,7 +494,7 @@
                 -336.79,
                 298.98
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -322.62505559103386,
@@ -505,7 +505,7 @@
                 -352.1,
                 275.89
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -301.81243329075943,
@@ -516,7 +516,7 @@
                 -318.49,
                 290.79
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -299.6875111182067,
@@ -527,7 +527,7 @@
                 -317.96,
                 217.8
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -368.06237769972563,
@@ -538,7 +538,7 @@
                 -414.47,
                 330.74
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -380.18737769972563,
@@ -549,7 +549,7 @@
                 -435.86,
                 378.92
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -394.81242217255266,
@@ -560,7 +560,7 @@
                 -455.96,
                 385.84
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -398.81236658151886,
@@ -571,7 +571,7 @@
                 -461.98,
                 325.64
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -406.68737769972563,
@@ -582,7 +582,7 @@
                 -468.84,
                 298.37
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -171.1249777635865,
@@ -593,7 +593,7 @@
                 -132.77,
                 285.6
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -182.00017789130817,
@@ -604,7 +604,7 @@
                 -152.5,
                 271.06
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -158.18730543138167,
@@ -615,7 +615,7 @@
                 -120,
                 237.61
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -106.43779463247917,
@@ -626,7 +626,7 @@
                 -50.96,
                 244
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -208.03,
@@ -637,7 +637,7 @@
                 -193.7,
                 228.46
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -224.04,
@@ -648,7 +648,7 @@
                 -217.77,
                 229.05
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -225.625,
@@ -659,7 +659,7 @@
                 -215.76,
                 164.77
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -281.31261118206766,
@@ -670,7 +670,7 @@
                 -299.52,
                 263.34
             ],
-            "teleportArea": "Islands",
+            "teleportArea": "Islands"
         },
         {
             "x": -111.37532242799605,
@@ -1394,7 +1394,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 139,
-            "title": "Robende",
+            "title": "Robende"
         },
         {
             "x": -352.8750415981761,
@@ -1402,7 +1402,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 140,
-            "title": "Paprika",
+            "title": "Paprika"
         },
         {
             "x": -357.6252614742498,
@@ -1410,7 +1410,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 142,
-            "title": "Artemis",
+            "title": "Artemis"
         },
         {
             "x": -355.6254040965679,
@@ -1418,7 +1418,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 143,
-            "title": "Yudia",
+            "title": "Yudia"
         },
         {
             "x": -368.5,
@@ -1426,7 +1426,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 144,
-            "title": "Lutheran West",
+            "title": "Lutheran West"
         },
         {
             "x": -348.0003922113747,
@@ -1434,7 +1434,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 145,
-            "title": "Lutheran East",
+            "title": "Lutheran East"
         },
         {
             "x": -404.2502139334771,
@@ -1442,7 +1442,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 146,
-            "title": "Rimlake South",
+            "title": "Rimlake South"
         },
         {
             "x": -372.00005942596584,
@@ -1450,7 +1450,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 147,
-            "title": "Rimlake North",
+            "title": "Rimlake North"
         },
         {
             "x": -253.84,
@@ -1458,7 +1458,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 148,
-            "title": "Anich",
+            "title": "Anich"
         },
         {
             "x": -184.9998217221024,
@@ -1466,7 +1466,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 149,
-            "title": "Kurzan",
+            "title": "Kurzan"
         },
         {
             "x": -188.2498573776819,
@@ -1474,7 +1474,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 150,
-            "title": "Arthetaine",
+            "title": "Arthetaine"
         },
         {
             "x": -101.50042786695423,
@@ -1482,7 +1482,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 151,
-            "title": "Shushire",
+            "title": "Shushire"
         },
         {
             "x": -109.31,
@@ -1490,7 +1490,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 152,
-            "title": "Peirun",
+            "title": "Peirun"
         },
         {
             "x": -244.95,
@@ -1498,7 +1498,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 153,
-            "title": "Bern South",
+            "title": "Bern South"
         },
         {
             "x": -229.45,
@@ -1506,7 +1506,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 154,
-            "title": "Bern North",
+            "title": "Bern North"
         },
         {
             "x": -394.34,
@@ -1514,8 +1514,8 @@
             "type": MarkerTypeEnum.TreasureMap,
             "id": 155,
             "hintImage": "world/TreasureMap8.jpg",
-            'rarity': RarityEnum.Epic,
-            'tmArea': TreasureMapAreaFilter.World
+            "rarity": RarityEnum.Epic,
+            "tmArea": TreasureMapAreaFilter.World
         },
         {
             "x": -244.98,
@@ -1631,9 +1631,270 @@
             "type": MarkerTypeEnum.TreasureMap,
             "id": 174,
             "hintImage": "world/TreasureMap9.jpg",
-            'rarity': RarityEnum.Rare,
-            'tmArea': TreasureMapAreaFilter.World,
-            'tmLand': TreasureMapLandFilterEnum.Abundant
+            "rarity": RarityEnum.Rare,
+            "tmArea": TreasureMapAreaFilter.World,
+            "tmLand": TreasureMapLandFilterEnum.Abundant
+        },
+        {
+            "x": -114.5,
+            "y": 180.41,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 175,
+            "title": "Half Moon Mask",
+            "hintText": "Half Moon Mask Exchange Ticket"
+        },
+        {
+            "x": -114.62,
+            "y": 192.41,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 176,
+            "title": "Burning Ice",
+            "hintText": "1 Bomb Demon"
+        },
+        {
+            "x": -118.37,
+            "y": 237.39,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 177,
+            "title": "Polar Mammoth",
+            "hintText": "2 Giena's Tears\n4000 Shilling"
+        },
+        {
+            "x": -113.12,
+            "y": 323.48,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 178,
+            "title": "Cravas",
+            "hintText": "1 Bomb Decal\n6000 Shilling"
+        },
+        {
+            "x": -98.75,
+            "y": 386.83,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 179,
+            "title": "Aurora",
+            "hintText": "5 Barkstrom Blueprints\n4000 Shilling"
+        },
+        {
+            "x": -207.37,
+            "y": 378.83,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 180,
+            "title": "Red Camel",
+            "hintText": "2 Giena's Tears\n4000 Shilling"
+        },
+        {
+            "x": -204.37,
+            "y": 303.99,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 181,
+            "title": "Dolphin",
+            "hintText": "5 Fragments of the Island\n2000 Shilling"
+        },
+        {
+            "x": -183.62,
+            "y": 370.21,
+            "type": MarkerTypeEnum.ZoningWorld,
+            "id": 182
+        },
+        {
+            "x": -178,
+            "y": 249.15,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 183,
+            "title": "North Sea Eye",
+            "hintText": "5 Fragments of the Island\n2000 Shilling"
+        },
+        {
+            "x": -215.75,
+            "y": 272.14,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 184,
+            "title": "Moon Tower",
+            "hintText": "2 Giena's Tears\n4000 Shilling"
+        },
+        {
+            "x": -220.75,
+            "y": 255.02,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 185,
+            "title": "Forgotten Lake",
+            "hintText": "5 Fragments of the Island\n4000 Shilling"
+        },
+        {
+            "x": -182,
+            "y": 169.43,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 186,
+            "title": "Silent Island (Exchange)",
+            "hintText": "Silent Island Ring Exchange"
+        },
+        {
+            "x": -282.25,
+            "y": 85.34,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 187,
+            "title": "Ghost Lizard",
+            "hintText": "2 Giena's Tears\n4000 Shilling"
+        },
+        {
+            "x": -257.25,
+            "y": 98.08,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 188,
+            "title": "Colorful Parrot",
+            "hintText": "1 Small Lucky Essence\n6000 Shilling"
+        },
+        {
+            "x": -233.12,
+            "y": 104.58,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 189,
+            "title": "Star Fruit",
+            "hintText": "2 Giena's Tears\n4000 Shilling"
+        },
+        {
+            "x": -230.87,
+            "y": 198.67,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 190,
+            "title": "Ancient Cane",
+            "hintText": "5 Old Gold Keys"
+        },
+        {
+            "x": -253.5,
+            "y": 195.42,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 191,
+            "title": "Mandrel",
+            "hintText": "1 Small Lucky Essence\n6000 Shilling"
+        },
+        {
+            "x": -279.25,
+            "y": 123.07,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 192,
+            "title": "Stardust",
+            "hintText": "1 Stardust Necklace Coupon"
+        },
+        {
+            "x": -235.37,
+            "y": 232.15,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 193,
+            "title": "Dolmen",
+            "hintText": "5 Fragments of the Island\n2000 Shilling"
+        },
+        {
+            "x": -254.5,
+            "y": 277.38,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 194,
+            "title": "Siren",
+            "hintText": "Siren Necklace Coupon"
+        },
+        {
+            "x": -241.5,
+            "y": 304,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 195,
+            "title": "Magic Circle",
+            "hintText": "1 Ancient Manastone\n4000 Shilling"
+        },
+        {
+            "x": -250.87,
+            "y": 384.72,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 196,
+            "title": "Sea Flower",
+            "hintText": "5 Fragments of the Island\n4000 Shilling"
+        },
+        {
+            "x": -235,
+            "y": 407.46,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 197,
+            "title": "Rama",
+            "hintText": "5 Fragments of the Island\n2000 Shilling"
+        },
+        {
+            "x": -224.62,
+            "y": 338.24,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 198,
+            "title": "Giena Stone Statue",
+            "hintImage": "world/WorldAdventureHint1.jpg"
+        },
+        {
+            "x": -228.62,
+            "y": 466.94,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 199,
+            "title": "Swirl",
+            "hintText": "5 Fragments of the Island\n2000 Shilling"
+        },
+        {
+            "x": -353.37,
+            "y": 399.71,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 200,
+            "title": "Mysterious Box",
+            "hintText": "Work of Art"
+        },
+        {
+            "x": -346.25,
+            "y": 382.22,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 201,
+            "title": "Divine Window",
+            "hintText": "1 SG7 Core\n4000 Shilling"
+        },
+        {
+            "x": -306.12,
+            "y": 366.48,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 202,
+            "title": "Ship of Toe Torque",
+            "hintText": "Estor Blueprint Chapter 5\n2000 Shilling"
+        },
+        {
+            "x": -297.12,
+            "y": 337.99,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 203,
+            "title": "Mokoko Mushroom",
+            "hintText": "5 Fragments of the Island\n2000 Shilling"
+        },
+        {
+            "x": -294.75,
+            "y": 274.89,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 204,
+            "title": "Ghost Stingray",
+            "hintText": "2 Drifting Souls\n6000 Shilling"
+        },
+        {
+            "x": -349.87,
+            "y": 202.01,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 205,
+            "title": "Red Sea Turtle"
+        },
+        {
+            "x": -330.25,
+            "y": 128.41,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 206,
+            "title": "Dragon",
+            "hintText": "1 Small Lucky Essence\n6000 Shilling"
+        },
+        {
+            "x": -392.5,
+            "y": 300.47,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 207,
+            "title": "South Sea's Eye",
+            "hintText": "1 Awakening Card Material\n4000 Shilling"
         }
     ];
 

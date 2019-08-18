@@ -298,8 +298,13 @@
             let pinId = 'markerPin_' + markerData.area + '_' + markerData.id;
             popupContent = popupContent + '<a href="#" class="markerPinLink" id="' + pinId + '"><img src="images/icons/map-pin.svg"/></a>';
 
-            if(markerData.popupText !== undefined){
-                popupContent = popupContent + '<h4>' + _L(markerData.popupText) + '</h4>';
+            var popupText = markerData.popupText;
+            if(popupText === undefined && markerData.title !== undefined){
+                popupText = markerData.title;
+            }
+
+            if(popupText !== undefined){
+                popupContent = popupContent + '<h4>' + _L(popupText) + '</h4>';
             }
 
             if(markerData.hintImage !== undefined){

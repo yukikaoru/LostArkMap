@@ -83,6 +83,7 @@
                     case MarkerTypeEnum.SeaAreaSandstorm:
                     case MarkerTypeEnum.SeaAreaSiren:
                     case MarkerTypeEnum.SeaAreaStorm:
+                    case MarkerTypeEnum.AdventureStory:
                     {
                         $('#ed_markerTypeToolbarSpecial').append(element);
                         break

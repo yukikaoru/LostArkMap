@@ -159,6 +159,9 @@
             n: "1.10",
             d: "TBD",
             e: [
+                'Added new Marker Type: Adventure Story',
+                'Added 32 Adventure Story World Markers',
+                'Popup Dialogs for elements with tooltips but without title will now receive the tooltip as title'
             ]
         }
     };

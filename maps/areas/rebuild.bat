@@ -8,5 +8,6 @@ python slice.py 4 shusire_full.png Shushire
 python slice.py 4 totoiku_full.png Totoiku
 python slice.py 4 yudia_full.png Yudia
 python slice.py 4 rohendel_full.png Rohendel
+python slice.py 4 yon_full.png Yon
 python slice.py 5 world_full.png World
 python slice.py 7 islands_full.png Islands

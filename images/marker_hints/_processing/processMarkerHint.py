@@ -18,13 +18,14 @@ def cropImage(file, targetDir):
 
     firstResize = croppedImage.resize((300, int(300 * ratio)));
 
+    finalImagePath = targetDir + '/' + file.rsplit('.', 1)[0] + '.jpg';
     finalImage = firstResize;
-    finalImage.save(targetDir + '/' + file);
+    finalImage.save(finalImagePath);
 
 targetDir = 'out';
 if not os.path.exists(targetDir):
         os.makedirs(targetDir)
 
 for file in os.listdir("."):
-    if file.endswith(".jpg"):
+    if file.endswith(".jpg") or file.endswith(".png"):
         cropImage(file, targetDir);

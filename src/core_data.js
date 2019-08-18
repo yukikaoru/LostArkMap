@@ -83,7 +83,8 @@ const MarkerTypeEnum = Object.freeze({
     "Barter": "barter.png",
     "Reward": "reward.png",
     "Epilogue": "epilogue.png",
-    "TravelingMerchant": "traveling_merchant.png"
+    "TravelingMerchant": "traveling_merchant.png",
+    "AdventureStory": "adventure.png"
 });
 
 const SearchResultTypeEnum = Object.freeze({
@@ -375,6 +376,10 @@ MarkerTypeDefaultTitle = function(markerType) {
 
         case MarkerTypeEnum.Mail: {
             return "Mail";
+        }
+
+        case MarkerTypeEnum.AdventureStory: {
+            return "Adventure Story";
         }
 
         default: {
