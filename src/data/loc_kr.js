@@ -358,6 +358,7 @@
         "Somber Shadow Legion": "침울한 어둠군단 암부",
         "Old Sunken City": "가라앉은 옛 도시",
         "Obtain with the secret passage at the hint location (300 Intellect)": "1번 스크린샷 위치의 비밀길로 이동 시 획득 가능 (지성300)",
+        "Activate Length when all enemies in the area are cleared": "1번 스크린샷처럼 해당 위치의 적을 모두 소탕 시 길이 활성화",
         "Competition Quest: Goldfish Catching (황금 붕어를 잡아라)": "",
         "Entry": "",
         "Calendar Event": "",

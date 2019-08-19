@@ -990,6 +990,86 @@
             "id": 124,
             "title": "How to Live as a Healthy and Happy Umar #3",
             "hintImage": "yon/BreweryHiddenStoryHint1.jpg"
+        },
+        {
+            "x": -71.5,
+            "y": 340.51,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 125,
+            "hintImage": "yon/ArkSecretHint1.jpg"
+        },
+        {
+            "x": -71.37,
+            "y": 379.37,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 126,
+            "hintImage": "yon/ArkSecretHint3.jpg",
+            "hintText": "Activate Length when all enemies in the area are cleared"
+        },
+        {
+            "x": -11.5,
+            "y": 358.01,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 127,
+            "hintImage": "yon/ArkSecretHint2.jpg"
+        },
+        {
+            "x": -63.25,
+            "y": 337.02,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 128,
+            "hintImage": "yon/ArkMokokoHint2.jpg"
+        },
+        {
+            "x": -81,
+            "y": 340.39,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 129,
+            "hintImage": "yon/ArkMokokoHint1.jpg",
+            "hintText": "비밀길#1로 이동 시 획득 가능"
+        },
+        {
+            "x": -69.5,
+            "y": 384.12,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 130,
+            "hintImage": "yon/ArkMokokoHint6.jpg"
+        },
+        {
+            "x": -69.37,
+            "y": 386.74,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 131,
+            "hintImage": "yon/ArkMokokoHint7.jpg"
+        },
+        {
+            "x": -67,
+            "y": 385.25,
+            "type": MarkerTypeEnum.Vista,
+            "id": 132,
+            "title": "Ark of Oman",
+            "hintImage": "yon/ArkVistaHint1.jpg"
+        },
+        {
+            "x": -37.37,
+            "y": 334.27,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 133,
+            "hintImage": "yon/ArkMokokoHint3.jpg"
+        },
+        {
+            "x": -10,
+            "y": 360.76,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 134,
+            "hintImage": "yon/ArkMokokoHint4.jpg"
+        },
+        {
+            "x": -7.87,
+            "y": 361.88,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 135,
+            "hintImage": "yon/ArkMokokoHint5.jpg"
         }
     ];
 
