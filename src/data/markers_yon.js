@@ -869,7 +869,8 @@
             "teleportTo": [
                 -84.12,
                 392.15
-            ]
+            ],
+            "title": "##To Ark of Oman"
         },
         {
             "x": -191,
@@ -879,7 +880,116 @@
             "teleportTo": [
                 -221,
                 401.03
-            ]
+            ],
+            "title": "##To Cast Iron Hammer Workshop"
+        },
+        {
+            "x": -193.06,
+            "y": 252.95,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 111,
+            "hintImage": "yon/BrewerySecretHint1.jpg",
+            "hintText": "Crush all the bins at hint location to access the path"
+        },
+        {
+            "x": -188.31,
+            "y": 258.7,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 112,
+            "hintImage": "yon/BreweryMokokoHint2.jpg"
+        },
+        {
+            "x": -189.19,
+            "y": 259.7,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 113,
+            "hintImage": "yon/BreweryMokokoHint1.jpg"
+        },
+        {
+            "x": -184.44,
+            "y": 247.14,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 114,
+            "title": "How to Live as a Healthy and Happy Umar #1",
+            "hintImage": "yon/BreweryHiddenStoryHint5.jpg",
+            "hintText": "7 Minutes Time Limit"
+        },
+        {
+            "x": -173.69,
+            "y": 239.83,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 115,
+            "title": "Umar's Pride #2",
+            "hintImage": "yon/BreweryHiddenStoryHint4.jpg",
+            "hintText": "20 Minutes Time Limit"
+        },
+        {
+            "x": -167.75,
+            "y": 248.02,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 116,
+            "title": "Umar's Pride #1",
+            "hintImage": "yon/BreweryHiddenStoryHint3.jpg",
+            "hintText": "7 Minutes Time Limit"
+        },
+        {
+            "x": -150.31,
+            "y": 219.78,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 117,
+            "title": "How to Live as a Healthy and Happy Umar #2",
+            "hintImage": "yon/BreweryHiddenStoryHint2.jpg"
+        },
+        {
+            "x": -167.56,
+            "y": 246.64,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 118,
+            "hintImage": "yon/BreweryMokokoHint3.jpg"
+        },
+        {
+            "x": -157.81,
+            "y": 225.78,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 119,
+            "hintImage": "yon/BreweryMokokoHint4.jpg",
+            "hintText": "Turn all the levers to access the secret path"
+        },
+        {
+            "x": -141.5,
+            "y": 248.02,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 120,
+            "hintImage": "yon/BrewerySecretHint2.jpg"
+        },
+        {
+            "x": -139.69,
+            "y": 283.82,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 121,
+            "hintImage": "yon/BreweryMokokoHint5.jpg"
+        },
+        {
+            "x": -115.37,
+            "y": 270.82,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 122,
+            "hintImage": "yon/BreweryMokokoHint6.jpg"
+        },
+        {
+            "x": -115.37,
+            "y": 272.01,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 123,
+            "hintImage": "yon/BreweryMokokoHint7.jpg"
+        },
+        {
+            "x": -127.12,
+            "y": 296.43,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 124,
+            "title": "How to Live as a Healthy and Happy Umar #3",
+            "hintImage": "yon/BreweryHiddenStoryHint1.jpg"
         }
     ];
 
