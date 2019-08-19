@@ -158,12 +158,26 @@
         },
         11: {
             n: "1.10",
-            d: "TBD",
+            d: "2019-08-19",
             t: "Yon Update",
             e: [
+                'Added Yon Maps',
                 'Added new Marker Type: Adventure Story',
                 'Added 32 Adventure Story World Markers',
+                'Added 15 Bosses',
+                'Added 1 Hidden Quests',
+                'Added 22 Hidden Stories',
+                'Added 70 Mokoko Seeds',
+                'Added 11 Secret Passages',
+                'Added 10 Vistas',
                 'Popup Dialogs for elements with tooltips but without title will now receive the tooltip as title'
+            ]
+        },
+        12: {
+            n: "1.11",
+            d: "TBD",
+            e: [
+
             ]
         }
     };

@@ -54,7 +54,7 @@
 
     area.registerMap("Ark of Oman", {
         type: MapTypeEnum.Dungeon,
-        bounds: [[-8, 308], [-103, 403]]
+        bounds: [[-7, 308], [-103, 403]]
     });
 
 })();
