@@ -442,6 +442,117 @@
             "teleportTo": [
                 -270.12,
                 218.61
+            ],
+            "title": "##To Black Anvil Workshop"
+        },
+        {
+            "x": -255.5,
+            "y": 50.66,
+            "type": MarkerTypeEnum.Vista,
+            "id": 56,
+            "title": "Cable Car Transport Area",
+            "hintImage": "yon/UnfinishedGardenVistaHint1.jpg"
+        },
+        {
+            "x": -265.37,
+            "y": 63.16,
+            "type": MarkerTypeEnum.Boss,
+            "id": 57,
+            "title": "Connati Chasing Furious Sword",
+            "hintImage": "yon/UnfinishedGardenBossHint3.jpg"
+        },
+        {
+            "x": -287.5,
+            "y": 35.8,
+            "type": MarkerTypeEnum.Boss,
+            "id": 58,
+            "title": "Powerful Copper Spider-Scorpion",
+            "hintImage": "yon/UnfinishedGardenBossHint1.jpg"
+        },
+        {
+            "x": -231.12,
+            "y": 49.79,
+            "type": MarkerTypeEnum.Boss,
+            "id": 59,
+            "title": "Somber Mutant Mushroom",
+            "hintImage": "yon/UnfinishedGardenBossHint2.jpg"
+        },
+        {
+            "x": -273.62,
+            "y": 21.3,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 60,
+            "hintImage": "yon/UnfinishedGardenSecretHint1.jpg"
+        },
+        {
+            "x": -273,
+            "y": 25.18,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 61,
+            "hintImage": "yon/UnfinishedGardenMokokoHint1.jpg"
+        },
+        {
+            "x": -235.75,
+            "y": 50.41,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 62,
+            "hintImage": "yon/UnfinishedGardenMokokoHint5.jpg"
+        },
+        {
+            "x": -210.62,
+            "y": 41.04,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 63,
+            "hintImage": "yon/UnfinishedGardenMokokoHint2.jpg"
+        },
+        {
+            "x": -217.37,
+            "y": 45.92,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 64,
+            "hintImage": "yon/UnfinishedGardenMokokoHint3.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -219.5,
+            "y": 51.16,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 65,
+            "hintImage": "yon/UnfinishedGardenMokokoHint4.jpg",
+            "hintText": "Eat Amazing Rum at Hint Location to enter hidden place"
+        },
+        {
+            "x": -227.12,
+            "y": 73.66,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 66,
+            "hintImage": "yon/UnfinishedGardenMokokoHint6.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -251.62,
+            "y": 84.53,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 67,
+            "hintImage": "yon/UnfinishedGardenMokokoHint7.jpg",
+            "hintText": "Destroy the obstacles at the location to obtain (takes a long time)"
+        },
+        {
+            "x": -273.87,
+            "y": 76.9,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 68,
+            "hintImage": "yon/UnfinishedGardenMokokoHint8.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -257.5,
+            "y": 120.77,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 69,
+            "teleportTo": [
+                -297.5,
+                31.13
             ]
         }
     ];
