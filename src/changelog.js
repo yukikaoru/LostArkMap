@@ -64,6 +64,10 @@
                 headerText = '[' + versionData.d + '] ' + headerText;
             }
 
+            if(versionData.t !== undefined){
+                headerText = headerText + ' - <b>' + versionData.t + '</b>';
+            }
+
             versionElement.append($('<h3>' + headerText + '</h3>'));
 
             let list = $('<ul></ul>');

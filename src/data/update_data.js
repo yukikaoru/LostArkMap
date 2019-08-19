@@ -113,6 +113,7 @@
         8: {
             n: "1.7",
             d: "2019-05-22",
+            t: "Rohendel Update",
             e: [
                 'Added Rohendel Maps',
                 'Added 1 Guide',
@@ -130,12 +131,12 @@
             d: "2019-05-25",
             e: [
                 'Updated most island images to better versions',
-
             ]
         },
         10: {
             n: "1.9",
             d: "2019-05-25",
+            t: "Island Update",
             e: [
                 'Forpe Island is now properly named in the island map',
                 'White Waves Island now has a map',
@@ -158,6 +159,7 @@
         11: {
             n: "1.10",
             d: "TBD",
+            t: "Yon Update",
             e: [
                 'Added new Marker Type: Adventure Story',
                 'Added 32 Adventure Story World Markers',
