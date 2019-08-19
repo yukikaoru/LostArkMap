@@ -553,6 +553,171 @@
             "teleportTo": [
                 -297.5,
                 31.13
+            ],
+            "title": "##To Unfinished Garden"
+        },
+        {
+            "x": -253.44,
+            "y": 342.32,
+            "type": MarkerTypeEnum.PlayInstrument,
+            "id": 70,
+            "title": "공명의 노래",
+            "hintText": "Path to hidden Mokoko opens at 2:30",
+            "hintImage": "yon/CastIronInstrumentHint1.jpg"
+        },
+        {
+            "x": -246.81,
+            "y": 346.7,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 71,
+            "hintImage": "yon/CastIronMokokoHint3.jpg"
+        },
+        {
+            "x": -235.56,
+            "y": 329.33,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 72,
+            "hintImage": "yon/CastIronMokokoHint1.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -233.56,
+            "y": 337.58,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 73,
+            "hintImage": "yon/CastIronMokokoHint2.jpg"
+        },
+        {
+            "x": -238.06,
+            "y": 337.45,
+            "type": MarkerTypeEnum.Vista,
+            "id": 74,
+            "title": "Aromatic Workshop",
+            "hintImage": "yon/CastIronVistaHint1.jpg"
+        },
+        {
+            "x": -233.56,
+            "y": 350.38,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 75,
+            "title": "Mukar Bachelor Party #3",
+            "hintImage": "yon/CastIronHiddenStoryHint2.jpg"
+        },
+        {
+            "x": -233.44,
+            "y": 351.69,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 76,
+            "hintImage": "yon/CastIronMokokoHint4.jpg",
+            "hintText": "Eat Amazing Rum at Hint Location to enter hidden place"
+        },
+        {
+            "x": -218.25,
+            "y": 348.7,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 77,
+            "hintImage": "yon/CastIronMokokoHint5.jpg"
+        },
+        {
+            "x": -219.31,
+            "y": 349.57,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 78,
+            "title": "Awesome Song #2",
+            "hintImage": "yon/CastIronHiddenStoryHint1.jpg"
+        },
+        {
+            "x": -219.5,
+            "y": 355.69,
+            "type": MarkerTypeEnum.Boss,
+            "id": 79,
+            "title": "Furious crack Creek",
+            "hintImage": "yon/CastIronBossHint1.jpg"
+        },
+        {
+            "x": -229.62,
+            "y": 368.63,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 80,
+            "hintImage": "yon/CastIronMokokoHint6.jpg"
+        },
+        {
+            "x": -222.37,
+            "y": 395.3,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 81,
+            "hintImage": "yon/CastIronMokokoHint7.jpg"
+        },
+        {
+            "x": -248.75,
+            "y": 394.24,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 82,
+            "hintImage": "yon/CastIronMokokoHint8.jpg"
+        },
+        {
+            "x": -253.31,
+            "y": 363.69,
+            "type": MarkerTypeEnum.Vista,
+            "id": 83,
+            "title": "Hornbag Mountain Crack",
+            "hintImage": "yon/CastIronVistaHint2.jpg"
+        },
+        {
+            "x": -262.69,
+            "y": 375.93,
+            "type": MarkerTypeEnum.Boss,
+            "id": 84,
+            "title": "Chieftain Worm Cub",
+            "hintImage": "yon/CastIronBossHint2.jpg"
+        },
+        {
+            "x": -274.62,
+            "y": 386.99,
+            "type": MarkerTypeEnum.Boss,
+            "id": 85,
+            "title": "Giant Mining Ogre",
+            "hintImage": "yon/CastIronBossHint3.jpg"
+        },
+        {
+            "x": -279.81,
+            "y": 375.62,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 86,
+            "title": "Umar History #4",
+            "hintImage": "yon/CastIronHiddenStoryHint3.jpg"
+        },
+        {
+            "x": -296.25,
+            "y": 363.81,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 87,
+            "hintImage": "yon/CastIronMokokoHint11.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -281.62,
+            "y": 364.75,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 88,
+            "hintImage": "yon/CastIronMokokoHint10.jpg"
+        },
+        {
+            "x": -275.94,
+            "y": 371.81,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 89,
+            "hintImage": "yon/CastIronMokokoHint9.jpg",
+            "hintText": "Obtain with the secret passage at the hint location (300 Intellect)"
+        },
+        {
+            "x": -258.25,
+            "y": 300.9,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 90,
+            "teleportTo": [
+                -243.75,
+                320.37
             ]
         }
     ];
