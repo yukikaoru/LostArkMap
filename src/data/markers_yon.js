@@ -718,6 +718,167 @@
             "teleportTo": [
                 -243.75,
                 320.37
+            ],
+            "title": "##To Cast Iron Hammer Workshop"
+        },
+        {
+            "x": -151.12,
+            "y": 439.77,
+            "type": MarkerTypeEnum.Boss,
+            "id": 91,
+            "title": "Burning Lava Crab",
+            "hintImage": "yon/PromiseBossHint1.jpg"
+        },
+        {
+            "x": -158.62,
+            "y": 471.89,
+            "type": MarkerTypeEnum.Boss,
+            "id": 92,
+            "title": "Furious Chasing Kiriko Sword",
+            "hintImage": "yon/PromiseBossHint3.jpg"
+        },
+        {
+            "x": -109.25,
+            "y": 456.14,
+            "type": MarkerTypeEnum.Boss,
+            "id": 93,
+            "title": "Somber Shadow Legion",
+            "hintImage": "yon/PromiseBossHint2.jpg"
+        },
+        {
+            "x": -137.87,
+            "y": 474.19,
+            "type": MarkerTypeEnum.Vista,
+            "id": 94,
+            "title": "Old Sunken City",
+            "hintImage": "yon/PromiseVistaHint1.jpg"
+        },
+        {
+            "x": -110.12,
+            "y": 485.31,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 95,
+            "title": "Umar History #1",
+            "hintImage": "yon/PromiseHiddenStoryHint4.jpg"
+        },
+        {
+            "x": -130.06,
+            "y": 473.44,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 96,
+            "title": "Umar History #2",
+            "hintImage": "yon/PromiseHiddenStoryHint3.jpg"
+        },
+        {
+            "x": -156.25,
+            "y": 454.45,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 97,
+            "title": "Umar Masterpiece #1",
+            "hintImage": "yon/PromiseHiddenStoryHint2.jpg",
+            "hintText": "10 Minutes Time Limit"
+        },
+        {
+            "x": -189.81,
+            "y": 474.26,
+            "type": MarkerTypeEnum.HiddenStory,
+            "id": 98,
+            "title": "About Queen Rivera #2",
+            "hintImage": "yon/PromiseHiddenStoryHint1.jpg"
+        },
+        {
+            "x": -186.19,
+            "y": 478.94,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 99,
+            "title": "Hidden Achievement",
+            "hintImage": "yon/PromiseHiddenQuestHint1.jpg"
+        },
+        {
+            "x": -198.37,
+            "y": 465.7,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 100,
+            "hintImage": "yon/PromiseMokokoHint8.jpg",
+            "hintText": "Access the hidden path if you have a Kulkur Beer at the Location"
+        },
+        {
+            "x": -185.19,
+            "y": 479.25,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 101,
+            "hintImage": "yon/PromiseMokokoHint7.jpg"
+        },
+        {
+            "x": -173.12,
+            "y": 456.26,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 102,
+            "hintImage": "yon/PromiseMokokoHint9.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -149.56,
+            "y": 486.25,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 103,
+            "hintImage": "yon/PromiseMokokoHint6.jpg"
+        },
+        {
+            "x": -120,
+            "y": 503.74,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 104,
+            "hintImage": "yon/PromiseMokokoHint5.jpg"
+        },
+        {
+            "x": -121.44,
+            "y": 475.82,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 105,
+            "hintImage": "yon/PromiseMokokoHint4.jpg"
+        },
+        {
+            "x": -110.31,
+            "y": 459.7,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 106,
+            "hintImage": "yon/PromiseMokokoHint3.jpg"
+        },
+        {
+            "x": -130.44,
+            "y": 435.4,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 107,
+            "hintImage": "yon/PromiseMokokoHint2.jpg",
+            "hintText": "Eat Amazing Rum at Hint Location to enter hidden place"
+        },
+        {
+            "x": -152.06,
+            "y": 425.03,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 108,
+            "hintImage": "yon/PromiseMokokoHint1.jpg",
+            "hintText": "Obtained when playing a romantic weapon at a given location."
+        },
+        {
+            "x": -139.5,
+            "y": 422.42,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 109,
+            "teleportTo": [
+                -84.12,
+                392.15
+            ]
+        },
+        {
+            "x": -191,
+            "y": 459.78,
+            "type": MarkerTypeEnum.Zoning,
+            "id": 110,
+            "teleportTo": [
+                -221,
+                401.03
             ]
         }
     ];
