@@ -1428,7 +1428,7 @@
             ],
             "img": "104.jpg",
             "grade": 0,
-            "name": "갈우",
+            "name": "A Gal",
             "cmt": 1,
             "sailorn": 1,
             "sailort": "일반 선원",

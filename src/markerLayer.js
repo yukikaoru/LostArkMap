@@ -363,10 +363,6 @@
                         let value = zoneData.meta[meta];
 
                         switch (meta) {
-                            case 'heartKR': {
-                                continue;
-                            }
-
                             case 'ilvl': {
                                 title = 'Item Level';
                                 break;

@@ -1151,7 +1151,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 162,
             "hintImage": "bern/ParnaHiddenStoryHint4.jpg",
-            "popupText": "버려진 아이 #1"
+            "popupText": "Abandoned Child #1"
         },
         {
             "x": -144.8,
@@ -1159,7 +1159,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 163,
             "hintImage": "bern/ParnaHiddenStoryHint5.jpg",
-            "popupText": "버려진 아이 #2"
+            "popupText": "Abandoned Child #2"
         },
         {
             "x": -147.49,
@@ -1167,7 +1167,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 164,
             "hintImage": "bern/ParnaHiddenStoryHint6.jpg",
-            "popupText": "버려진 아이 #3"
+            "popupText": "Abandoned Child #3"
         },
         {
             "x": -330.04,

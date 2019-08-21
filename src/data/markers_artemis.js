@@ -553,7 +553,7 @@
             "y": 217.25,
             "popupText": "Minuet of the forest",
             "type": MarkerTypeEnum.PlayInstrument,
-            "hintText": "Play 'Minuet of the forest' (숲의 미뉴에트)<br>grants access to the Mokoko Seeds here",
+            "hintText": "Play 'Minuet of the forest'<br>grants access to the Mokoko Seeds here",
             "hintImage": "artemis/LoghillsPlayMusicHint2.jpg",
             "id": 57
         },
@@ -693,7 +693,7 @@
         {
             "x": -309.37,
             "y": 245.13,
-            "popupText": "Prince with the white Horse #1",
+            "popupText": "Prince with the white Horse #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "artemis/AngemosHiddenStoryHint1.jpg",
             "id": 75

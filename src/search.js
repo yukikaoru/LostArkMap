@@ -29,7 +29,6 @@
                     // Note: Disabled heart cause we make markers with special text on the island, removes double search result
                     //'meta.heart',
 
-                    'meta.heartKR',
                     'meta.entry',
                     'meta.card-line',
                     'meta.card-obtain',

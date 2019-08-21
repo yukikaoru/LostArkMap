@@ -675,7 +675,7 @@
             "y": 45.08,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 99,
-            "popupText": "객주도사의 과거",
+            "popupText": "A pastor's past",
             "hintImage": "anich/MirrorHiddenStoryHint2.jpg"
         },
         {

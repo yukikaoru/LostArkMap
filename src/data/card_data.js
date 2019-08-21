@@ -1433,7 +1433,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[업적] 카드 배틀 도전기 : 모카모카",
+                "[Achievement] Card Battle Challenger: Mokamoka",
                 "[호감도] 모코코마을 - 모카모카",
                 "[모코코 씨앗] 모코코마을 - 토토마"
             ],
@@ -5864,7 +5864,7 @@
             ],
             "img": "22.jpg",
             "grade": 2,
-            "name": "객주도사",
+            "name": "A prospective master",
             "attr": 1,
             "line": 1,
             "cost": 5,

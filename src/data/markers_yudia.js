@@ -505,7 +505,7 @@
         {
             "x": -191,
             "y": 431.75,
-            "popupText": "Morina (모리나)",
+            "popupText": "Morina",
             "type": MarkerTypeEnum.NPCFavor,
             "hintText": "고대의 금화x5 (5000실링)<br>루페온의 인장 100개 상자x5<br>생활 포인트 물약(+4)",
             "hintImage": "yudia/OzhornNPCFavorHint1.jpg",

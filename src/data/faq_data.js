@@ -54,7 +54,7 @@
         },
         {
             q: "Where can i get rewards for Mokoko Seeds?",
-            a: "Mokoko Village (모코코 마을) in the Totoiku (토토이크) Continent."
+            a: "Mokoko Village in the Totoiku Continent."
         },
         {
             q: "How can i obtain Music of Starlight?",
