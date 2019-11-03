@@ -49,7 +49,7 @@
             "y": 310.01,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 5,
-            "popupText": "전설적인 펠스#1",
+            "popupText": "Legendary Fels #1",
             "hintImage": "bern/CronaHiddenStoryHint1.jpg"
         },
         {
@@ -57,7 +57,7 @@
             "y": 363.75,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 6,
-            "popupText": "전설적인 펠스#2",
+            "popupText": "Legendary Fels #2",
             "hintImage": "bern/CronaHiddenStoryHint2.jpg"
         },
         {
@@ -178,7 +178,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 22,
             "hintImage": "bern/CastleHiddenStoryHint1.jpg",
-            "popupText": "전설적인 펠스#3"
+            "popupText": "Legendary Fels #3"
         },
         {
             "x": -437.09,
@@ -393,7 +393,7 @@
             "y": 141.13,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 52,
-            "popupText": "상자(낡은 금열쇠)",
+            "popupText": "Box (old Gold Key)",
             "hintImage": "bern/BalancarTreasureHint1.jpg"
         },
         {
@@ -699,7 +699,7 @@
             "y": 490.5,
             "type": MarkerTypeEnum.Boss,
             "id": 100,
-            "popupText": "현상 수배된 악질 모험가",
+            "popupText": "Wanted Malignant Adventurer",
             "hintImage": "bern/ParnaBossHint4.jpg"
         },
         {
@@ -921,7 +921,7 @@
             "y": 174.26,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 131,
-            "popupText": "상자(랜덤)",
+            "popupText": "Box (Random)",
             "hintImage": "bern/PesnarTreasureHint1.jpg"
         },
         {
@@ -929,7 +929,7 @@
             "y": 174.94,
             "type": MarkerTypeEnum.Vista,
             "id": 132,
-            "popupText": "고대 석상",
+            "popupText": "Ancient statue",
             "hintImage": "bern/PesnarVistaHint2.jpg"
         },
         {
@@ -945,7 +945,7 @@
             "y": 156.52,
             "type": MarkerTypeEnum.Boss,
             "id": 134,
-            "popupText": "꺠진 해골 기사",
+            "popupText": "Broken Skull Knight",
             "hintImage": "bern/PesnarBossHint1.jpg"
         },
         {
@@ -969,7 +969,7 @@
             "y": 150.82,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 137,
-            "popupText": "여왕님의 비밀 #2",
+            "popupText": "The Queen's Secret #2",
             "hintImage": "bern/PesnarHiddenStoryHint1.jpg"
         },
         {
@@ -977,7 +977,7 @@
             "y": 165.26,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 138,
-            "popupText": "여왕님의 비밀#1",
+            "popupText": "The Queen's Secret #1",
             "hintImage": "bern/PesnarHiddenStoryHint2.jpg"
         },
         {
@@ -1127,7 +1127,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 159,
             "hintImage": "bern/ParnaHiddenStoryHint1.jpg",
-            "popupText": "모험가의 교훈 #1"
+            "popupText": "Adventurer's Lesson #1"
         },
         {
             "x": -227.1,
@@ -1135,7 +1135,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 160,
             "hintImage": "bern/ParnaHiddenStoryHint2.jpg",
-            "popupText": "모험가의 교훈 #2"
+            "popupText": "Adventurer's Lesson #2"
         },
         {
             "x": -225.6,
@@ -1143,7 +1143,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 161,
             "hintImage": "bern/ParnaHiddenStoryHint3.jpg",
-            "popupText": "모험가의 교훈 #3"
+            "popupText": "Adventurer's Lesson #3"
         },
         {
             "x": -156.8,
@@ -1175,7 +1175,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 165,
             "hintImage": "bern/ElberiaHiddenStoryHint1.jpg",
-            "popupText": "여왕님의 비밀#3(추정)"
+            "popupText": "The Queen's Secret #3"
         },
         {
             "x": -217.76,

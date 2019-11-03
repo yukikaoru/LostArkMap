@@ -15,7 +15,8 @@ def translateBatch(batch, srcLang, destLang, target):
     translator = Translator()
     try:
         translated = translator.translate(batch, src=srcLang, dest=destLang)
-    except:
+    except Exception as e:
+        print(e)
         return False
 
     for i in range(len(batch)):
@@ -70,12 +71,13 @@ def localizeFile(data, srcLang, destLang):
     return result
 
 filePath = sys.argv[1]
+fileName = filePath.replace('.json', '')
 with open(filePath, encoding="utf8") as json_file:
     data = json.load(json_file)
-    localizedData = localizeFile(data, sys.argv[2], sys.argv[3])
+    localizedData = localizeFile(data[sys.argv[2]], sys.argv[2], sys.argv[3])
 
-with open(filePath, 'w', encoding='utf8') as out_file:
-    json.dump(localizedData, out_file, ensure_ascii=False, indent=4, sort_keys=True)
+#with open(fileName + '_L.json', 'w', encoding='utf8') as out_file:
+#    json.dump(localizedData, out_file, ensure_ascii=False, indent=4, sort_keys=True)
 
 reverseData = {}
 for key in localizedData:
@@ -85,5 +87,5 @@ for key in localizedData:
 
     reverseData[value] = key
 
-with open(filePath + '_R_.json', 'w', encoding='utf8') as out_file:
+with open(fileName + '_R.json', 'w', encoding='utf8') as out_file:
     json.dump(reverseData, out_file, ensure_ascii=False, indent=4, sort_keys=True)

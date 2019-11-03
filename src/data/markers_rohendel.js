@@ -15,7 +15,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 1,
             "hintImage": "rohendel/SilverLakeFood1.jpg",
-            "popupText": "츄 젤리"
+            "popupText": "Chu Jelly"
         },
         {
             "x": -351.69,
@@ -88,7 +88,7 @@
             "y": 462.11,
             "type": MarkerTypeEnum.Mokoko,
             "id": 11,
-            "hintText": "매력 250 필요"
+            "hintText": "250 Charm required"
         },
         {
             "x": -299.31,
@@ -109,7 +109,7 @@
             "y": 467.18,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 14,
-            "popupText": "츄츄츄 젤리",
+            "popupText": "Chu Chu Chu Jelly",
             "hintImage": "rohendel/SilverLakeFood2.jpg"
         },
         {
@@ -147,7 +147,7 @@
             "y": 440.8,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 19,
-            "popupText": "츄츄 젤리",
+            "popupText": "Chu Chu Jelly",
             "hintImage": "rohendel/SilverLakeFood3.jpg"
         },
         {
@@ -162,7 +162,7 @@
             "y": 446.3,
             "type": MarkerTypeEnum.Mokoko,
             "id": 21,
-            "hintImage": "담력 250 필요",
+            "hintImage": "250 courage required",
             "teleportTo": [
                 -226.75,
                 354.76
@@ -290,21 +290,21 @@
             "y": 307.26,
             "type": MarkerTypeEnum.Mokoko,
             "id": 40,
-            "popupText": "지하1,중앙1,지상1"
+            "popupText": "Basement 1, Central 1, ground 1"
         },
         {
             "x": -178.25,
             "y": 305.63,
             "type": MarkerTypeEnum.Mokoko,
             "id": 41,
-            "popupText": "지하1,중앙1,지상1"
+            "popupText": "Basement 1, Central 1, ground 1"
         },
         {
             "x": -177,
             "y": 304.2499327274964,
             "type": MarkerTypeEnum.Mokoko,
             "id": 42,
-            "popupText": "지하1,중앙1,지상1"
+            "popupText": "Basement 1, Central 1, ground 1"
         },
         {
             "x": -158.37,
@@ -345,7 +345,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 48,
             "hintImage": "rohendel/RoarunHiddenStory1.jpg",
-            "popupText": "푸른눈의 서약#1"
+            "popupText": "Blue eye pledge #1"
         },
         {
             "x": -178.5,
@@ -353,7 +353,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 49,
             "hintImage": "rohendel/RoarunHiddenStory2.jpg",
-            "popupText": "잃어버린 과거#1"
+            "popupText": "Lost Past #1"
         },
         {
             "x": -203.56,
@@ -499,7 +499,7 @@
             "y": 170.94,
             "type": MarkerTypeEnum.Mokoko,
             "id": 66,
-            "popupText": "담력 250 필요"
+            "popupText": "250 courage required"
         },
         {
             "x": -139.37,
@@ -532,7 +532,7 @@
             "y": 206.88,
             "type": MarkerTypeEnum.Mokoko,
             "id": 71,
-            "popupText": "에테르의 정수를 마실 시 입장가능"
+            "popupText": "Drink Essence of Ether to enter"
         },
         {
             "x": -174.25,
@@ -587,7 +587,7 @@
             "y": 162.88,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 78,
-            "popupText": "하지 못했던 말#1",
+            "popupText": "Words you could not say #1",
             "hintImage": "rohendel/WindScentHillHiddenStory1.jpg"
         },
         {
@@ -681,7 +681,7 @@
             "y": 204.44,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 91,
-            "popupText": "잃어버린 과거#2",
+            "popupText": "Lost Past #2",
             "hintImage": "rohendel/WindScentHillHiddenStory2.jpg"
         },
         {
@@ -743,7 +743,7 @@
             "y": 46.58,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 99,
-            "popupText": "푸른 눈의 서약#2",
+            "popupText": "Blue eye pledge #2",
             "hintImage": "rohendel/DevastatedJannaHiddenStory3.jpg"
         },
         {
@@ -787,7 +787,7 @@
             "y": 55.76,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 105,
-            "popupText": "하지 못했던 말#2",
+            "popupText": "Words you could not say #2",
             "hintImage": "rohendel/DevastatedJannaHiddenStory2.jpg"
         },
         {
@@ -804,7 +804,7 @@
             "y": 53.51,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 107,
-            "popupText": "하지 못했던 말#5",
+            "popupText": "Words you could not say #5",
             "hintText": "달의 탑 상층부",
             "hintImage": "rohendel/DevastatedJannaHiddenStory5.jpg"
         },
@@ -820,14 +820,14 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 109,
             "hintImage": "rohendel/DevastatedJannaHiddenStory6.jpg",
-            "popupText": "잃어버린 과거#3"
+            "popupText": "Lost Past #3"
         },
         {
             "x": -295.94,
             "y": 71.45,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 110,
-            "popupText": "잃어버린 과거#4",
+            "popupText": "Lost Past #4",
             "hintImage": "rohendel/DevastatedJannaHiddenStory7.jpg"
         },
         {
@@ -893,7 +893,7 @@
             "y": 23.07,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 118,
-            "popupText": "하지 못했던 말#4",
+            "popupText": "Words you could not say #4",
             "hintImage": "rohendel/DevastatedJannaHiddenStory9.jpg"
         },
         {
@@ -901,7 +901,7 @@
             "y": 21.2,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 119,
-            "popupText": "하지 못했던 말#3",
+            "popupText": "Words you could not say #3",
             "hintImage": "rohendel/DevastatedJannaHiddenStory8.jpg"
         },
         {
@@ -918,7 +918,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 121,
             "hintImage": "rohendel/ElzowinsShadowHiddenStory2.jpg",
-            "popupText": "푸른 눈의 서약#3"
+            "popupText": "Blue eye pledge #3"
         },
         {
             "x": -104.56,
@@ -1019,7 +1019,7 @@
             "y": 311.14,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 135,
-            "popupText": "실린 사냥꾼#1",
+            "popupText": "Shilling Hunter #1",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory3.jpg"
         },
         {
@@ -1048,14 +1048,14 @@
             "y": 312.76,
             "type": MarkerTypeEnum.Mokoko,
             "id": 139,
-            "popupText": "지성 250 필요"
+            "popupText": "250 intelligence required"
         },
         {
             "x": -32,
             "y": 314.2,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 140,
-            "popupText": "실린 사냥꾼#2",
+            "popupText": "Shilling Hunter #2",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory4.jpg"
         },
         {
@@ -1063,7 +1063,7 @@
             "y": 313.32,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 141,
-            "popupText": "실린 사냥꾼#3",
+            "popupText": "Shilling Hunter #3",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory5.jpg"
         },
         {
@@ -1162,7 +1162,7 @@
             "y": 65.51,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 155,
-            "popupText": "히든업적",
+            "popupText": "Hidden achievement",
             "hintText": "히든 없적\n\n\n정령 구출 대작전\n\n정령에땅에서 정령의 횟불 밝히기\n\n\n정령들의 벗 칭호줍니다"
         },
         {

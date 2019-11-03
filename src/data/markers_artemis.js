@@ -1191,7 +1191,7 @@
         {
             "x": -313.12,
             "y": 396.63,
-            "popupText": "499년된 메라주",
+            "popupText": "499 Year old Meraju",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "2시간이 지나면 500년된 메라주로 바뀜 그 때 마시면 된다. 미리 마시거나 유효기간이 지나고 마시면 모험의 서를 완료할 수 없다",
             "hintImage": "artemis/AgilothHeadFoodIngredientHint1.jpg",

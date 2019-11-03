@@ -1278,7 +1278,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[업적] 카드 배틀 도전기 : 베아트리스",
+                "[Achievement] Card Battle Challenger: Beatrice",
                 "[항해-보물인양] 인양 포인트"
             ],
             "awake": [
@@ -1588,7 +1588,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[업적] 카드 배틀 도전기 : 바스티안",
+                "[Achievement] Card Battle Challenger: Bastian",
                 "[호감도] 슈테른 - 바스티안"
             ],
             "awake": [
@@ -2966,7 +2966,7 @@
             ],
             "img": "13.jpg",
             "grade": 3,
-            "name": "로블롬",
+            "name": "Roblom",
             "attr": 4,
             "line": 5,
             "cost": 5,
@@ -3720,7 +3720,7 @@
             ],
             "img": "31.jpg",
             "grade": 3,
-            "name": "거신 카스피엘",
+            "name": "Colossal Caspiel",
             "attr": 4,
             "line": 3,
             "cost": 6,

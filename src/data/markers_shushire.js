@@ -101,7 +101,7 @@
             "y": 143.51,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 12,
-            "popupText": "슈샤이어의 소년 #2",
+            "popupText": "Shushire Boy #2",
             "hintImage": "shushire/RegensHiddenStoryHint1.jpg"
         },
         {
@@ -109,7 +109,7 @@
             "y": 146.88,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 13,
-            "popupText": "슈샤이어의 소년 #1",
+            "popupText": "Shushire Boy #1",
             "hintImage": "shushire/RegensHiddenStoryHint2.jpg"
         },
         {
@@ -173,7 +173,7 @@
             "y": 70.19,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 22,
-            "popupText": "타르실라의 자장가#3",
+            "popupText": "Lullaby of Tarsila #3",
             "hintImage": "shushire/LakeHiddenStoryHint1.jpg"
         },
         {
@@ -181,7 +181,7 @@
             "y": 52.38,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 23,
-            "popupText": "타르실라의 자장가#1",
+            "popupText": "Lullaby of Tarsila #1",
             "hintImage": "shushire/LakeHiddenStoryHint2.jpg"
         },
         {
@@ -189,7 +189,7 @@
             "y": 43.63,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 24,
-            "popupText": "타르실라의 자장가#2",
+            "popupText": "Lullaby of Tarsila #2",
             "hintImage": "shushire/LakeHiddenStoryHint3.jpg"
         },
         {
@@ -626,7 +626,7 @@
             "y": 364.02,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 84,
-            "popupText": "벗에게 보내는 편지 #1",
+            "popupText": "A Letter to a Friend #1",
             "hintImage": "shushire/ButterflyHidenStory2.jpg"
         },
         {
@@ -650,7 +650,7 @@
             "y": 357.77,
             "type": MarkerTypeEnum.Vista,
             "id": 87,
-            "popupText": "절벽",
+            "popupText": "Cliff",
             "hintImage": "shushire/ButterflyVistaHint2.jpg"
         },
         {
@@ -882,7 +882,7 @@
             "y": 439.53,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 122,
-            "popupText": "벗에게 보내는 편지 #2",
+            "popupText": "A Letter to a Friend #2",
             "hintImage": "shushire/MirrorsHiddenStoryHint1.jpg"
         },
         {
@@ -899,7 +899,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 124,
             "hintImage": "shushire/ShadowsHiddenStoryHint1.jpg",
-            "popupText": "벗에게 보내는 편지 #3"
+            "popupText": "A Letter to a Friend #3"
         },
         {
             "x": -302.26,

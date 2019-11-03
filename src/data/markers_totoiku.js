@@ -6,7 +6,7 @@
             "y": 306.55,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 1,
-            "popupText": "내 꿈은 나루니 전문가 #1",
+            "popupText": "My dream is Naruni expert! #1",
             "hintImage": "totoiku/OceanScentHiddenStoryHint1.jpg"
         },
         {
@@ -62,7 +62,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 8,
             "hintImage": "totoiku/OceanScentVistaHint1.jpg",
-            "popupText": "캐슈나무 숲"
+            "popupText": "Cashew tree Forest"
         },
         {
             "x": -437.11,
@@ -100,7 +100,7 @@
             "id": 13,
             "title": "Boss",
             "hintImage": "totoiku/MokokoVillageHiddenStoryHint1.jpg",
-            "popupText": "해적왕이 될거야 #2",
+            "popupText": "Going to be a pirate king! #2",
             "hintText": "제한시간 30분"
         },
         {
@@ -178,7 +178,7 @@
             "y": 319,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 23,
-            "popupText": "내 꿈은 나루니 전문가! #2",
+            "popupText": "My dream is Naruni expert! #2",
             "hintImage": "totoiku/SweetForestHiddenStoryHint4.jpg"
         },
         {
@@ -285,7 +285,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 37,
             "hintImage": "totoiku/RockyForestHiddenStoryHint4.jpg",
-            "popupText": "내 꿈은 나루니 전문가! #3"
+            "popupText": "My dream is Naruni expert! #3"
         },
         {
             "x": -320.1,
@@ -293,7 +293,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 38,
             "hintImage": "totoiku/RockyForestHiddenStoryHint5.jpg",
-            "popupText": "해적왕이 될거야! #1"
+            "popupText": "Going to be a pirate king! #1"
         },
         {
             "x": -319.29,
@@ -301,7 +301,7 @@
             "type": MarkerTypeEnum.WorldBoss,
             "id": 39,
             "hintImage": "totoiku/RockyForestWorldBossHint1.jpg",
-            "popupText": "카스피엘"
+            "popupText": "Caspiel"
         },
         {
             "x": -304.28,
@@ -325,7 +325,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 42,
             "hintImage": "totoiku/RockyForestHiddenStoryHint6.jpg",
-            "popupText": "모험가의 영혼"
+            "popupText": "Adventurer's Soul"
         },
         {
             "x": -279.46,
@@ -341,7 +341,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "totoiku/SilentGiantHiddenStoryHint1.jpg",
             "id": 45,
-            "popupText": "내 꿈은 나루니 전문가! #4"
+            "popupText": "My dream is Naruni expert! #4"
         },
         {
             "x": -217.72,
@@ -391,7 +391,7 @@
             "y": 335.93,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 52,
-            "popupText": "해적왕이 될거야! #3",
+            "popupText": "Going to be a pirate king! #3",
             "hintImage": "totoiku/PirateLairHiddenStoryHint1.jpg"
         },
         {

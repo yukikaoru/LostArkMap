@@ -50,7 +50,7 @@
             "y": 190.1,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 6,
-            "popupText": "모험의서(요리 상인)"
+            "popupText": "Adventure Letter (Cooking Merchant)"
         },
         {
             "x": -479.48,
@@ -66,7 +66,7 @@
             "y": 185.92,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 8,
-            "popupText": "모험의서(요리사)"
+            "popupText": "Adventure Letter (Chef)"
         },
         {
             "x": -495.05,
@@ -74,7 +74,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "anich/ChangchunHiddenStoryHint1.jpg",
             "id": 9,
-            "popupText": "창천의 괴도 #1"
+            "popupText": "Kaito of Changchun #1"
         },
         {
             "x": -479.85,
@@ -89,14 +89,14 @@
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "anich/ChangchunHiddenStoryHint3.jpg",
             "id": 11,
-            "popupText": "창천의 괴도 #2"
+            "popupText": "Kaito of Changchun #2"
         },
         {
             "x": -464.35,
             "y": 196.22,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 12,
-            "popupText": "창천의 괴도 #3"
+            "popupText": "Kaito of Changchun #3"
         },
         {
             "x": -447.16,
@@ -104,7 +104,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "anich/ChangchunHiddenStoryHint5.jpg",
             "id": 13,
-            "popupText": "대사부의 자격 #1"
+            "popupText": "Ambassador Qualifications #1"
         },
         {
             "x": -486.23,
@@ -275,7 +275,7 @@
             "y": 145.16,
             "type": MarkerTypeEnum.Boss,
             "id": 40,
-            "popupText": "기괴한 목각인형",
+            "popupText": "Strange wooden dolls",
             "hintImage": "anich/WisteriaHillsBossHint4.jpg"
         },
         {
@@ -283,7 +283,7 @@
             "y": 117.05,
             "type": MarkerTypeEnum.Boss,
             "id": 41,
-            "popupText": "산적 고참",
+            "popupText": "Elder Bandit",
             "hintImage": "anich/WisteriaHillsBossHint5.jpg"
         },
         {
@@ -449,7 +449,7 @@
             "y": 136.09,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 65,
-            "popupText": "혼재의 추오"
+            "popupText": "Mixture of Chuo"
         },
         {
             "x": -200.04,
@@ -476,7 +476,7 @@
             "y": 143.74,
             "type": MarkerTypeEnum.Vista,
             "id": 71,
-            "popupText": "언덕",
+            "popupText": "Hill",
             "hintImage": "anich/TwilightVistaHint1.jpg"
         },
         {
@@ -492,7 +492,7 @@
             "y": 131.12,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 73,
-            "popupText": "추오",
+            "popupText": "Chuo",
             "hintImage": "anich/TwilightWorldBossHint1.jpg"
         },
         {
@@ -500,7 +500,7 @@
             "y": 116.69,
             "type": MarkerTypeEnum.Vista,
             "id": 74,
-            "popupText": "삶과 죽음의 경계 입구",
+            "popupText": "Entrance the border between life and death",
             "hintImage": "anich/TwilightVistaHint2.jpg"
         },
         {
@@ -531,7 +531,7 @@
             "y": 116.16,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 78,
-            "popupText": "황금상자 #1",
+            "popupText": "Golden box #1",
             "hintImage": "anich/TwilightTreasureHint1.jpg"
         },
         {
@@ -683,7 +683,7 @@
             "y": 8.66,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 100,
-            "popupText": "대사부의 자격 #3",
+            "popupText": "Ambassador Qualifications #3",
             "hintImage": "anich/MirrorHiddenStoryHint3.jpg"
         },
         {
@@ -766,7 +766,7 @@
             "y": 234.28,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 111,
-            "popupText": "상자(일반)",
+            "popupText": "Box (General)",
             "hintImage": "anich/YanTreasureHint1.jpg"
         },
         {
@@ -831,7 +831,7 @@
             "y": 196.03,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 120,
-            "popupText": "에스더의 두 제자 #1",
+            "popupText": "Esther's two disciples #1",
             "hintImage": "anich/EnemyHiddenStoryHint1.jpg"
         },
         {
@@ -888,7 +888,7 @@
             "y": 144.48,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 128,
-            "popupText": "에스더의 두 제자 #2",
+            "popupText": "Esther's two disciples #2",
             "hintImage": "anich/HeadquarterHiddenStoryHint1.jpg"
         },
         {

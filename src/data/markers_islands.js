@@ -2027,7 +2027,7 @@
             "type": MarkerTypeEnum.NPCFavor,
             "id": 286,
             "hintText": "보통 : 고블린 금화x5\n\n관심 : 고블린 금화x10\n\n우호 : 고블린 금화x25 / 낡은 금열쇠\n\n신뢰 : 고블린 금화x50 / 에테르 강화 각인서Ⅰ",
-            "popupText": "고비우스 24세",
+            "popupText": "24 year old Gobius",
             "hintImage": "islands/GoblinFavorNPC1.jpg"
         },
         {
@@ -2570,7 +2570,7 @@
             "y": 194.71,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 364,
-            "popupText": "아우리온",
+            "popupText": "Aurion",
             "hintImage": "islands/TorrentWorldBoss1.jpg"
         },
         {
@@ -2649,7 +2649,7 @@
             "y": 194.01,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 375,
-            "popupText": "상자(낡은 금열쇠)",
+            "popupText": "Box (old Gold Key)",
             "hintImage": "islands/ShadowsTreasure1.jpg"
         },
         {
@@ -2657,7 +2657,7 @@
             "y": 193.18,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 376,
-            "popupText": "상자(낡은 금열쇠)",
+            "popupText": "Box (old Gold Key)",
             "hintImage": "islands/ShadowsTreasure2.jpg"
         },
         {
@@ -2738,7 +2738,7 @@
             "type": MarkerTypeEnum.TreasureBox,
             "id": 387,
             "hintImage": "islands/x301Treasure1.jpg",
-            "hintText": "상자(낡은 금열쇠)"
+            "hintText": "Box (old Gold Key)"
         },
         {
             "x": -193.62,
@@ -2768,7 +2768,7 @@
             "y": 392.4139479764181,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 391,
-            "popupText": "히든 퀘스트"
+            "popupText": "Hidden Quest"
         },
         {
             "x": -153.1875,
@@ -2812,7 +2812,7 @@
             "y": 324.68,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 397,
-            "hintText": "해당 위치에 황금상자가 5~10분사이로\n\n리젠이 되는데 그것을 부수면\n\n위로 올라가는 길이 생김",
+            "hintText": "The Golden Box is in this position every 5-10 minutes\n\nOpening it will open up the secret passage",
             "hintImage": "islands/FortunaSecret1.jpg"
         },
         {
@@ -2866,7 +2866,7 @@
             "y": 347.5,
             "type": MarkerTypeEnum.Barter,
             "id": 404,
-            "popupText": "균열의 조각",
+            "popupText": "Cracked piece",
             "hintImage": "islands/OceanParadisePaytoBarter1.jpg"
         },
         {
@@ -2874,7 +2874,7 @@
             "y": 344.79,
             "type": MarkerTypeEnum.Barter,
             "id": 405,
-            "popupText": "위대한 미술품",
+            "popupText": "Great Artwork",
             "hintImage": "islands/SunflowerBarter1.jpg"
         },
         {
@@ -2953,7 +2953,7 @@
             "y": 331.39,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 415,
-            "popupText": "히든 퀘스트",
+            "popupText": "Hidden Quest",
             "hintImage": "islands/WisdomHiddenQuest1.jpg"
         },
         {
@@ -2982,7 +2982,7 @@
             "y": 298.57,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 419,
-            "popupText": "히든 퀘스트",
+            "popupText": "Hidden Quest",
             "hintText": "보상 : 능력치 증가물약"
         },
         {

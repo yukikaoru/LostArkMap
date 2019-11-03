@@ -87,7 +87,7 @@
         {
             "x": -464.12,
             "y": 415.32,
-            "popupText": "영원을 함께하는 #2",
+            "popupText": "Together forever #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint1.jpg",
             "id": 12
@@ -111,7 +111,7 @@
         {
             "x": -373.37,
             "y": 436,
-            "popupText": "영원을 함께하는 #2",
+            "popupText": "Together forever #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint4.jpg",
             "id": 15
@@ -159,7 +159,7 @@
         {
             "x": -332.75,
             "y": 441.44,
-            "title": "영원을 함께하는 #1",
+            "title": "Together forever #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint10.jpg",
             "id": 21
@@ -257,7 +257,7 @@
         {
             "x": -361.94,
             "y": 465.19,
-            "popupText": "나이든 소금 바위 거북 #1",
+            "popupText": "Old salt rock Turtles #1",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint3.jpg",
             "id": 33
@@ -305,7 +305,7 @@
         {
             "x": -293.56,
             "y": 445.07,
-            "popupText": "나이든 소금 바위 거북 #2",
+            "popupText": "Old salt rock Turtles #2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint9.jpg",
             "id": 39

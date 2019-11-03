@@ -731,7 +731,7 @@
     area.registerMap("Island of Hope", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Adventure Quest: '희생된 이들을 기억하자'",
+            "heart": "Adventure Quest: 'Remember the Victims'",
             "ilvl": 340
         },
         "bounds": [
@@ -1686,7 +1686,7 @@
     area.registerMap("Ice Maze Island", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Adventure Quest: '따뜻한 온정의 횃불' (Humpback Whale Oil needed)",
+            "heart": "Adventure Quest 'The Warm Torch' (requires Humpback Whale Oil)",
             "ilvl": 280
         },
         "bounds": [

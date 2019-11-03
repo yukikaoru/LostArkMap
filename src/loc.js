@@ -104,6 +104,22 @@
             console.log('LOC_REGISTER: ' + src + ' --> ' + localized);
             LAM.locData[lang][src] = localized;
         }
+
+        exportMissing() {
+            const filename = 'loc_missing_' + this.lang + '.json';
+            const jsonStr = JSON.stringify(LAM.locMissing, null, 4);
+
+            let element = document.createElement('a');
+            element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(jsonStr));
+            element.setAttribute('download', filename);
+
+            element.style.display = 'none';
+            document.body.appendChild(element);
+
+            element.click();
+
+            document.body.removeChild(element);
+        }
     }
 
     LAM.locData = {};

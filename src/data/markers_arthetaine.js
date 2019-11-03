@@ -135,7 +135,7 @@
             "y": 154.52,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 18,
-            "popupText": "고뇌의 해답#4",
+            "popupText": "Answer of agony #4",
             "hintImage": "arthetaine/SternHiddenStoryHint1.jpg"
         },
         {
@@ -143,7 +143,7 @@
             "y": 176.01,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 19,
-            "popupText": "고뇌의 해답#1",
+            "popupText": "Answer of agony #1",
             "hintImage": "arthetaine/SternHiddenStoryHint2.jpg"
         },
         {
@@ -151,7 +151,7 @@
             "y": 225.38,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 20,
-            "popupText": "고뇌의 해답#2",
+            "popupText": "Answer of agony #2",
             "hintImage": "arthetaine/SternHiddenStoryHint3.jpg"
         },
         {
@@ -159,7 +159,7 @@
             "y": 249.25,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 21,
-            "popupText": "고뇌의 해답#3",
+            "popupText": "Answer of agony #3",
             "hintImage": "arthetaine/SternHiddenStoryHint4.jpg"
         },
         {
@@ -175,7 +175,7 @@
             "y": 244.38,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 23,
-            "popupText": "최고의 진화체 #2",
+            "popupText": "Ultimate evolution #2",
             "hintImage": "arthetaine/SternHiddenStoryHint5.jpg"
         },
         {
@@ -183,7 +183,7 @@
             "y": 245.38,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 24,
-            "popupText": "최고의 진화체 #3",
+            "popupText": "Ultimate evolution #3",
             "hintImage": "arthetaine/SternHiddenStoryHint6.jpg"
         },
         {
@@ -191,7 +191,7 @@
             "y": 238.63,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 25,
-            "popupText": "최고의 진화체 #1",
+            "popupText": "Ultimate evolution #1",
             "hintImage": "arthetaine/SternHiddenStoryHint7.jpg"
         },
         {
@@ -380,7 +380,7 @@
             "y": 216.5,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 50,
-            "popupText": "상자(낡은 금열쇠)"
+            "popupText": "Box (old Gold Key)"
         },
         {
             "x": -166.91,
@@ -512,7 +512,7 @@
             "y": 165.95,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 69,
-            "popupText": "상자(일반)",
+            "popupText": "Box (General)",
             "hintImage": "arthetaine/NestTreasureHint1.jpg"
         },
         {
@@ -623,7 +623,7 @@
             "y": 65.01,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 85,
-            "popupText": "집념의 끝 #1",
+            "popupText": "End of Commitment #1",
             "hintText": "Has a time limit of 10 minutes to get to boss #2 in the Air Gate Dungeon",
             "hintImage": "arthetaine/NebelhornHiddenStoryHint2.jpg"
         },
@@ -702,7 +702,7 @@
             "y": 469.13,
             "type": MarkerTypeEnum.Boss,
             "id": 97,
-            "popupText": "벨치 우두머리",
+            "popupText": "Belchi Chieftain",
             "hintImage": "arthetaine/TotrerichBossHint2.jpg"
         },
         {
@@ -1027,7 +1027,7 @@
             "y": 284.51,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 145,
-            "popupText": "집념의 끝#2",
+            "popupText": "End of Commitment #2",
             "hintImage": "arthetaine/AirGateHiddenStoryHint1.jpg"
         },
         {
@@ -1131,7 +1131,7 @@
             "y": 432.88,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 160,
-            "popupText": "상자(일반)",
+            "popupText": "Box (General)",
             "hintImage": "arthetaine/AishmanTreasureHint1.jpg"
         },
         {

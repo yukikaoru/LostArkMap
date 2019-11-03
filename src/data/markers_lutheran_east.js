@@ -110,7 +110,7 @@
         {
             "x": -344.65549802010355,
             "y": 16.75235928903168,
-            "popupText": "상자 #1",
+            "popupText": "Box #1",
             "type": MarkerTypeEnum.TreasureBox,
             "id": 15
         },
@@ -228,7 +228,7 @@
         {
             "x": -346.68647197685044,
             "y": 110.84610928903169,
-            "popupText": "상자(낡은 금열쇠)",
+            "popupText": "Box (old Gold Key)",
             "type": MarkerTypeEnum.TreasureBox,
             "hintImage": "lutheran/DiorikaTreasureHint1.jpg",
             "id": 32
@@ -236,7 +236,7 @@
         {
             "x": -345.59282668291195,
             "y": 110.12730800013969,
-            "popupText": "덩치 큰 까마귀",
+            "popupText": "Big crow",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/DiorikaBossHint1.jpg",
             "id": 33
@@ -462,7 +462,7 @@
         {
             "x": -366.656392780993,
             "y": 210.99998290370266,
-            "popupText": "나무에 담긴 마음 #3",
+            "popupText": "Contained in a wooden heart #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/NurseryHiddenStoryHint1.jpg",
             "id": 65
@@ -470,7 +470,7 @@
         {
             "x": -366.46845491928116,
             "y": 217.156096133324,
-            "popupText": "나무에 담긴 마음 #1",
+            "popupText": "Contained in a wooden heart #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintText": "시간제한이 40초로 굉장히 빡빡하니<br>서두르시는게 좋습니다",
             "hintImage": "lutheran/NurseryHiddenStoryHint2.jpg",
@@ -479,7 +479,7 @@
         {
             "x": -362.593607219007,
             "y": 218.31287611854128,
-            "popupText": "나무에 담긴 마음 #2",
+            "popupText": "Contained in a wooden heart #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/NurseryHiddenStoryHint3.jpg",
             "id": 67
@@ -798,7 +798,7 @@
         {
             "x": -292.18886117879987,
             "y": 272.0312329037027,
-            "popupText": "아제나포리움",
+            "popupText": "Azenarporium",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/RiaVistaHint1.jpg",
             "id": 111
@@ -1013,7 +1013,7 @@
         {
             "x": -276.31341379835516,
             "y": 387.75119674081316,
-            "popupText": "귀족의 삶",
+            "popupText": "Aristocratic life",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/ManeWavesHiddenStoryHint1.jpg",
             "id": 141
@@ -1173,7 +1173,7 @@
         {
             "x": -359.43743336886996,
             "y": 398.3432713036747,
-            "popupText": "아름다운 해변가",
+            "popupText": "Beautiful beach",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/CrocniceVistaHint2.jpg",
             "id": 164

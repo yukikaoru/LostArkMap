@@ -144,7 +144,7 @@
         {
             "x": -416.37,
             "y": 444.32,
-            "popupText": "상자(랜덤)",
+            "popupText": "Box (Random)",
             "type": MarkerTypeEnum.TreasureBox,
             "hintImage": "lutheran/ZagorasTreasureHint1.jpg",
             "id": 19
@@ -152,7 +152,7 @@
         {
             "x": -416.69,
             "y": 415.13,
-            "popupText": "우물 기담 #2",
+            "popupText": "Gidam Well #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/ZagorasHiddenStoryHint1.jpg",
             "id": 20
@@ -168,7 +168,7 @@
         {
             "x": -409.56,
             "y": 423.69,
-            "popupText": "우물 기담 #1",
+            "popupText": "Gidam Well #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/ZagorasHiddenStoryHint3.jpg",
             "id": 22
@@ -176,7 +176,7 @@
         {
             "x": -384.5,
             "y": 461.5,
-            "popupText": "우물 기담 #3",
+            "popupText": "Gidam Well #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/ZagorasHiddenStoryHint4.jpg",
             "id": 23
@@ -302,7 +302,7 @@
         {
             "x": -422.25,
             "y": 268.28,
-            "popupText": "영웅의 조건 #1",
+            "popupText": "Condition of the Hero #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/LakeBarsHiddenStoryHint1.jpg",
             "id": 40
@@ -326,7 +326,7 @@
         {
             "x": -498.87,
             "y": 254.28,
-            "popupText": "황금상자 #1",
+            "popupText": "Golden box #1",
             "type": MarkerTypeEnum.TreasureBox,
             "hintImage": "lutheran/LakeBarsTreasureHint1.jpg",
             "id": 43
@@ -500,16 +500,16 @@
         {
             "x": -267.25,
             "y": 259.75,
-            "popupText": "특제 계란덮밥 레시피",
+            "popupText": "Eppen special Egg bowl recipe",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "레이크바 요리사NPC - 헬렌<br>에펜 계란덮밥 재료",
+            "hintText": "Lake Bars Chef NPC - Helen <br> Eppen egg rice bowl ingredient",
             "hintImage": "lutheran/MedlinicFoodIngredientHint1.jpg",
             "id": 67
         },
         {
             "x": -265.81,
             "y": 265.63,
-            "popupText": "영웅의 조건 #2",
+            "popupText": "Condition of the Hero #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/MedlinicHiddenStory1.jpg",
             "id": 68
@@ -665,7 +665,7 @@
         {
             "x": -90.56,
             "y": 213.38,
-            "popupText": "로블롬",
+            "popupText": "Roblom",
             "type": MarkerTypeEnum.WorldBoss,
             "hintImage": "lutheran/VilblinWorldBossHint1.jpg",
             "id": 89
@@ -673,9 +673,9 @@
         {
             "x": -138.69,
             "y": 277.88,
-            "popupText": "식인곰의 웅담",
+            "popupText": "Cannibal Bear",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "레이크바 요리사NPC - 헬렌<br>식인곰의 웅담 꼬치",
+            "hintText": "Lake Bars Chef NPC - Helen <br> Bear skewers",
             "hintImage": "lutheran/VilblinFoodIngredientHint1.jpg",
             "id": 90
         },
@@ -691,7 +691,7 @@
         {
             "x": -110.37,
             "y": 294.19,
-            "popupText": "잃어버린 편지 #2",
+            "popupText": "Lost letters #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/VilblinHiddenStoryHint1.jpg",
             "id": 92
@@ -699,7 +699,7 @@
         {
             "x": -116.37,
             "y": 226.19,
-            "popupText": "영웅의 조건 #3",
+            "popupText": "Condition of the Hero #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/VilblinHiddenStoryHint2.jpg",
             "id": 93
@@ -707,7 +707,7 @@
         {
             "x": -110.87,
             "y": 223.13,
-            "popupText": "잃어버린 편지 #1",
+            "popupText": "Lost letters #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/VilblinHiddenStoryHint3.jpg",
             "id": 94
@@ -813,7 +813,7 @@
         {
             "x": -72.5,
             "y": 436.32,
-            "popupText": "격전의 평야",
+            "popupText": "Battle of the Plains",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/PlainsVistaHint1.jpg",
             "id": 109
@@ -821,7 +821,7 @@
         {
             "x": -72.69,
             "y": 442.88,
-            "popupText": "영웅의 조건 #4",
+            "popupText": "Condition of the Hero #4",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/PlainsHiddenStoryHint1.jpg",
             "id": 110
@@ -894,7 +894,7 @@
         {
             "x": -413.62,
             "y": 24.7,
-            "popupText": "상자(랜덤)",
+            "popupText": "Box (Random)",
             "type": MarkerTypeEnum.TreasureBox,
             "hintImage": "lutheran/RidgeTreasureHint1.jpg",
             "id": 121
@@ -1055,7 +1055,7 @@
         {
             "x": -148.51,
             "y": 56.48,
-            "popupText": "손은 눈보다 빠르다 #1",
+            "popupText": "Hands are faster than eyes #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintText": "시간제한 10분",
             "hintImage": "lutheran/GrayHammerHiddenStory1.jpg",
@@ -1064,7 +1064,7 @@
         {
             "x": -120.14,
             "y": 105.22,
-            "popupText": "손은 눈보다 빠르다 #2",
+            "popupText": "Hands are faster than eyes #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/GrayHammerHiddenStory2.jpg",
             "id": 145
@@ -1072,7 +1072,7 @@
         {
             "x": -25.15,
             "y": 94.91,
-            "popupText": "손은 눈보다 빠르다 #5",
+            "popupText": "Hands are faster than eyes #5",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/GrayHammerHiddenStory3.jpg",
             "id": 146
@@ -1080,7 +1080,7 @@
         {
             "x": -22.02,
             "y": 78.05,
-            "popupText": "손은 눈보다 빠르다 #3",
+            "popupText": "Hands are faster than eyes #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/GrayHammerHiddenStory4.jpg",
             "id": 147
@@ -1088,7 +1088,7 @@
         {
             "x": -15.46,
             "y": 93.79,
-            "popupText": "손은 눈보다 빠르다 #4",
+            "popupText": "Hands are faster than eyes #4",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/GrayHammerHiddenStory5.jpg",
             "id": 148
@@ -1096,9 +1096,9 @@
         {
             "x": -85.88,
             "y": 121.9,
-            "popupText": "열리지 않는 럼주",
+            "popupText": "Unopened rum",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "레이크바 요리사NPC - 헬렌<br>모험의 서 요리로 제작 가능",
+            "hintText": "Lake Bars Chef NPC - Helen <br> Can be produced with an adventure book",
             "hintImage": "lutheran/GrayHammerFoodIngredientHint1.jpg",
             "id": 149
         },
