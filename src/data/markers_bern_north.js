@@ -65,7 +65,7 @@
             "y": 318.64,
             "type": MarkerTypeEnum.Vista,
             "id": 7,
-            "popupText": "항구",
+            "popupText": "Harbor",
             "hintImage": "bern/CronaVistaHint1.jpg"
         },
         {
@@ -303,7 +303,7 @@
             "y": 338.88,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 40,
-            "popupText": "베른 건국 기념주",
+            "popupText": "Bern National Memorial",
             "hintText": "라니아 마을 - 로이의 와인바 - NPC로이에게 구매 가능<br>18000실링",
             "hintImage": "bern/RaniaCookingIngredientHint1.jpg"
         },
@@ -454,7 +454,7 @@
             "y": 201.49,
             "type": MarkerTypeEnum.Boss,
             "id": 61,
-            "popupText": "우두머리 악성 변이체",
+            "popupText": "Boss Vicious Mutant",
             "hintImage": "bern/BalancarBossHint2.jpg"
         },
         {
@@ -462,7 +462,7 @@
             "y": 212.24,
             "type": MarkerTypeEnum.Boss,
             "id": 62,
-            "popupText": "강화된 사령 전투술사",
+            "popupText": "Enhanced Magic Commander",
             "hintImage": "bern/BalancarBossHint4.jpg"
         },
         {
@@ -540,14 +540,14 @@
             "y": 320.76,
             "type": MarkerTypeEnum.Boss,
             "id": 74,
-            "popupText": "우두머리 방패뿔 순록"
+            "popupText": "Boss Horned Reindeer"
         },
         {
             "x": -184,
             "y": 350.8124647314493,
             "type": MarkerTypeEnum.Boss,
             "id": 75,
-            "popupText": "우두머리 숲 멧돼지"
+            "popupText": "Boss Forest Boar"
         },
         {
             "x": -190.81,
@@ -568,7 +568,7 @@
             "y": 315.51,
             "type": MarkerTypeEnum.Vista,
             "id": 78,
-            "popupText": "베르닐 가도"
+            "popupText": "Bernyl Highway"
         },
         {
             "x": -221.75,
@@ -724,7 +724,7 @@
             "y": 454.13,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 103,
-            "popupText": "고블린이 잡은 생선",
+            "popupText": "Goblin caught fish",
             "hintText": "베른성 요리사NPC - 스텔리아<br>고블린의 생선 수프 식재료",
             "hintImage": "bern/ParnaFoodIngredientHint2.jpg"
         },
@@ -888,7 +888,7 @@
             "y": 176.38,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 127,
-            "popupText": "페스나르 독버섯",
+            "popupText": "Pesnar Poison Mushroom",
             "hintText": "베른성 요리사NPC - 스텔리아<br>페스나르 독버섯 전골",
             "hintImage": "bern/PesnarFoodIngredientHint1.jpg"
         },
@@ -953,7 +953,7 @@
             "y": 185.39,
             "type": MarkerTypeEnum.Boss,
             "id": 135,
-            "popupText": "어둠의 사령술사",
+            "popupText": "Dark Necromancer",
             "hintImage": "bern/PesnarBossHint2.jpg"
         },
         {
@@ -961,7 +961,7 @@
             "y": 222.88,
             "type": MarkerTypeEnum.Boss,
             "id": 136,
-            "popupText": "도망친 마적단 전투마",
+            "popupText": "Runaway Demon Warhorse",
             "hintImage": "bern/PesnarBossHint3.jpg"
         },
         {

@@ -6,7 +6,7 @@
             "y": 108.97,
             "type": MarkerTypeEnum.Vista,
             "id": 0,
-            "title": "빛바랜 채석장",
+            "title": "Faded quarry",
             "hintImage": "yon/BeginningsVistaHint1.jpg"
         },
         {
@@ -49,7 +49,7 @@
             "y": 172.31,
             "type": MarkerTypeEnum.Vista,
             "id": 6,
-            "title": "금빛 찬란한 항구 광장",
+            "title": "Brilliant Golden Harbor Square",
             "hintImage": "yon/BeginningsVistaHint2.jpg"
         },
         {
@@ -312,7 +312,7 @@
             "y": 245.76,
             "type": MarkerTypeEnum.Boss,
             "id": 39,
-            "title": "Head Telpa Miner",
+            "title": "Boss Telpa Miner",
             "hintImage": "yon/BlackAnvilBossHint1.jpg"
         },
         {

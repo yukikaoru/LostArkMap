@@ -117,7 +117,7 @@
             "y": 170,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 14,
-            "popupText": "욕쟁이 제빵사",
+            "popupText": "Foul-mouthed baker",
             "hintImage": "shushire/RegensHiddenStoryHint3.jpg"
         },
         {
@@ -206,7 +206,7 @@
             "y": 66,
             "type": MarkerTypeEnum.Boss,
             "id": 26,
-            "popupText": "찬서리 거미",
+            "popupText": "Cold Frost Spider Boss",
             "hintImage": "shushire/LakeBossHint1.jpg"
         },
         {
@@ -214,7 +214,7 @@
             "y": 52.26,
             "type": MarkerTypeEnum.Boss,
             "id": 27,
-            "popupText": "늙은 서리 백곰",
+            "popupText": "Old Polar Bear",
             "hintImage": "shushire/LakeBossHint2.jpg"
         },
         {
@@ -222,7 +222,7 @@
             "y": 54.82,
             "type": MarkerTypeEnum.Boss,
             "id": 28,
-            "popupText": "거대한 서리갈기 멧돼지",
+            "popupText": "Giant Frost Mane Boar",
             "hintImage": "shushire/LakeBossHint3.jpg"
         },
         {
@@ -333,7 +333,7 @@
             "y": 264.38,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 42,
-            "popupText": "신앙의 끝",
+            "popupText": "The End of Faith",
             "hintImage": "shushire/PrisonHiddenStoryHint3.jpg"
         },
         {
@@ -348,7 +348,7 @@
             "y": 265,
             "type": MarkerTypeEnum.Boss,
             "id": 44,
-            "popupText": "단단한 얼음 바위 골렘",
+            "popupText": "Solid Ice Golem",
             "hintImage": "shushire/PrisonBossHint1.jpg"
         },
         {
@@ -356,7 +356,7 @@
             "y": 235.38,
             "type": MarkerTypeEnum.Boss,
             "id": 45,
-            "popupText": "죽지 않는 역병망자",
+            "popupText": "Undead Plague",
             "hintImage": "shushire/PrisonBossHint2.jpg"
         },
         {
@@ -364,7 +364,7 @@
             "y": 272.63,
             "type": MarkerTypeEnum.Vista,
             "id": 46,
-            "popupText": "질병악마와 늑대단의 전장"
+            "popupText": "Battlefield of the Demon and the Werewolf"
         },
         {
             "x": -276.16,
@@ -466,7 +466,7 @@
             "y": 23.39,
             "type": MarkerTypeEnum.Vista,
             "id": 61,
-            "popupText": "얼어붙은 분수대",
+            "popupText": "Frozen fountain",
             "hintImage": "shushire/SeaVistaHint1.jpg"
         },
         {
@@ -610,7 +610,7 @@
             "y": 328.45,
             "type": MarkerTypeEnum.Boss,
             "id": 82,
-            "popupText": "아름다운 얼음나비",
+            "popupText": "Beautiful Ice Butterfly",
             "hintImage": "shushire/ButterflyBossHint3.jpg"
         },
         {
@@ -618,7 +618,7 @@
             "y": 346.64,
             "type": MarkerTypeEnum.Boss,
             "id": 83,
-            "popupText": "질병군단 정예 악마 사제",
+            "popupText": "Elite Legionnaire Priest",
             "hintImage": "shushire/ButterflyBossHint4.jpg"
         },
         {
@@ -726,35 +726,35 @@
             "y": 193.25,
             "type": MarkerTypeEnum.Boss,
             "id": 99,
-            "popupText": "추노꾼 행동대장"
+            "popupText": "Vulture Leader"
         },
         {
             "x": -360.19,
             "y": 128.51,
             "type": MarkerTypeEnum.Boss,
             "id": 100,
-            "popupText": "윤기나는 서리 늑대"
+            "popupText": "Shiny Frost Wolf"
         },
         {
             "x": -348.06,
             "y": 114.89,
             "type": MarkerTypeEnum.Vista,
             "id": 101,
-            "popupText": "눈보라 신전"
+            "popupText": "Blizzard Temple"
         },
         {
             "x": -341.94,
             "y": 129.88,
             "type": MarkerTypeEnum.Boss,
             "id": 102,
-            "popupText": "윤기나는 서리 늑대"
+            "popupText": "Shiny Frost Wolf"
         },
         {
             "x": -333.31,
             "y": 147.26,
             "type": MarkerTypeEnum.Boss,
             "id": 103,
-            "popupText": "찬서리 늑대 우두머리"
+            "popupText": "Cold Frost Wolf Boss"
         },
         {
             "x": -371.06,

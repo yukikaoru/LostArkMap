@@ -58,7 +58,7 @@
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "anich/ChangchunCookingIngredientHint2.jpg",
             "id": 7,
-            "popupText": "완벽한 설탕 공예",
+            "popupText": "Perfect sugar craft",
             "hintText": "공보에게 설탕을 사서 우클릭을 하다보면<br>아주 낮은 확률로 완벽한 설탕 공예가 나온다."
         },
         {
@@ -191,7 +191,7 @@
             "y": 134.86,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 29,
-            "popupText": "사슴 뒷발굽",
+            "popupText": "Deer hooves",
             "hintText": "항구도시 창천 요리사NPC - 소빈<br>사슴 뒷발굽 전골 식재료"
         },
         {
@@ -645,7 +645,7 @@
             "y": 40.35,
             "type": MarkerTypeEnum.Vista,
             "id": 95,
-            "popupText": "구름절벽",
+            "popupText": "Cloud Cliff",
             "hintImage": "anich/MirrorVistaHint1.jpg"
         },
         {
@@ -1059,7 +1059,7 @@
             "y": 40.79,
             "type": MarkerTypeEnum.Vista,
             "id": 152,
-            "popupText": "관문",
+            "popupText": "Gateway",
             "hintImage": "anich/DelphiVistaHint1.jpg"
         },
         {

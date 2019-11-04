@@ -22,7 +22,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 3,
             "hintImage": "totoiku/OceanScentBossHint1.jpg",
-            "popupText": "단단한 숲속 로카록"
+            "popupText": "Solid Forest Golem"
         },
         {
             "x": -440.23,
@@ -30,7 +30,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 4,
             "hintImage": "totoiku/OceanScentBossHint2.jpg",
-            "popupText": "우두머리 난폭한 원숭이"
+            "popupText": "Boss Wild Monkey"
         },
         {
             "x": -430.48,
@@ -54,7 +54,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 7,
             "hintImage": "totoiku/OceanScentVistaHint2.jpg",
-            "popupText": "거대 캐슈나무"
+            "popupText": "Giant Cashew Tree"
         },
         {
             "x": -427.1,
@@ -154,7 +154,7 @@
             "y": 315.87,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 20,
-            "popupText": "모코코의 위대한 암호",
+            "popupText": "Mococo's Great Password",
             "hintImage": "totoiku/SweetForestHiddenStoryHint1.jpg"
         },
         {
@@ -253,7 +253,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 33,
             "hintImage": "totoiku/RockyForestBossHint3.jpg",
-            "popupText": "알 수 없는 나무 괴물"
+            "popupText": "Unknown tree monster"
         },
         {
             "x": -337.23,
@@ -277,7 +277,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 36,
             "hintImage": "totoiku/RockyForestHiddenStoryHint3.jpg",
-            "popupText": "무시무시한 괴물!"
+            "popupText": "Spooky Monsters!"
         },
         {
             "x": -312.97,
@@ -317,7 +317,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 41,
             "hintImage": "totoiku/RockyForestVistaHint1.jpg",
-            "popupText": "수호자의 안식처 길목"
+            "popupText": "Guardian's Rest"
         },
         {
             "x": -296.72,
@@ -357,7 +357,7 @@
             "type": MarkerTypeEnum.Boss,
             "hintImage": "totoiku/SilentGiantBossHint2.jpg",
             "id": 47,
-            "popupText": "충혈된 외눈괴물"
+            "popupText": "Bloodshot One-eyed Monster"
         },
         {
             "x": -178.64,
@@ -399,7 +399,7 @@
             "y": 188.85,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 54,
-            "popupText": "창조의 알 껍질",
+            "popupText": "Eggshells of Creation",
             "hintText": "모코코마을 요리사NPC - 수피피<br>와삭와삭 껍질 튀김 식재료",
             "hintImage": "totoiku/TotoikusBodyFoodIngredientHint1.jpg"
         },

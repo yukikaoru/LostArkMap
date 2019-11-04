@@ -709,7 +709,7 @@
         {
             "x": -284.12,
             "y": 243.26,
-            "popupText": "Head Moss Wolf #1",
+            "popupText": "Boss Moss Wolf #1",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint1.jpg",
             "id": 77
@@ -725,7 +725,7 @@
         {
             "x": -259.5,
             "y": 283.25,
-            "popupText": "Head Moss Wolf #2",
+            "popupText": "Boss Moss Wolf #2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint3.jpg",
             "id": 79
@@ -741,7 +741,7 @@
         {
             "x": -224.12,
             "y": 286.37,
-            "popupText": "Head Mystery Snake",
+            "popupText": "Boss Mystery Snake",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AngemosBossHint5.jpg",
             "id": 81
@@ -989,7 +989,7 @@
         {
             "x": -88.25,
             "y": 229.01,
-            "popupText": "우두머리 불완전 변이체",
+            "popupText": "Boss Defect Mutant",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/BorderlandsBossHint2.jpg",
             "id": 112
@@ -1081,7 +1081,7 @@
             "x": -423.06,
             "y": 416.76,
             "type": MarkerTypeEnum.SecretPassage,
-            "hintText": "해당구역 몬스터를 다 잡으면 부셔지게 바뀜",
+            "hintText": "Get access by eliminating all the monsters in the area",
             "hintImage": "artemis/PoisonclawCaveSecretHint1.jpg",
             "id": 125
         },
@@ -1146,7 +1146,7 @@
         {
             "x": -261.37,
             "y": 453.5,
-            "popupText": "우두머리 역병충 무리",
+            "popupText": "Boss Plague Beetle",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AgilothHeadBossHint1.jpg",
             "id": 135
@@ -1193,7 +1193,7 @@
             "y": 396.63,
             "popupText": "499 Year old Meraju",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "2시간이 지나면 500년된 메라주로 바뀜 그 때 마시면 된다. 미리 마시거나 유효기간이 지나고 마시면 모험의 서를 완료할 수 없다",
+            "hintText": "Changes into a 500 year old Meraju after 2 hours<br>If you drink it before or after the expiration date you can not complete the Adventure quest",
             "hintImage": "artemis/AgilothHeadFoodIngredientHint1.jpg",
             "id": 141
         },

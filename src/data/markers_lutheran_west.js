@@ -120,7 +120,7 @@
         {
             "x": -397.31,
             "y": 473.5,
-            "popupText": "원통한 망령의 기사",
+            "popupText": "Cylinder Wraith Knight",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/ZagorasBossHint3.jpg",
             "id": 16
@@ -128,7 +128,7 @@
         {
             "x": -467.25,
             "y": 449.38,
-            "popupText": "멧돼지 통 바비큐",
+            "popupText": "Wild Boar Barbecue Barrel",
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "lutheran/ZagorasCookingIngredientHint1.jpg",
             "id": 17
@@ -184,7 +184,7 @@
         {
             "x": -412.56,
             "y": 419.94,
-            "popupText": "비석에 새겨진 마음",
+            "popupText": "Heart engraved on a tombstone",
             "type": MarkerTypeEnum.OtherStory,
             "hintImage": "lutheran/ZagorasOtherStoryHint1.jpg",
             "id": 24
@@ -310,7 +310,7 @@
         {
             "x": -475.62,
             "y": 268.53,
-            "popupText": "정예 습격대 보급병",
+            "popupText": "Elite Raid Supply Soldier",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/LakeBarsBossHint1.jpg",
             "id": 41
@@ -318,7 +318,7 @@
         {
             "x": -425.5,
             "y": 187.52,
-            "popupText": "흉폭한 붉은 크란",
+            "popupText": "Vicious Red Crane",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/LakeBarsBossHint2.jpg",
             "id": 42
@@ -485,7 +485,7 @@
         {
             "x": -194.69,
             "y": 264.88,
-            "popupText": "우두머리 독 메뚜기 #2",
+            "popupText": "Elder Poison Grasshopper #2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/MedlinicBossHint4.jpg",
             "id": 65
@@ -625,7 +625,7 @@
         {
             "x": -133.19,
             "y": 246.63,
-            "popupText": "우두머리 붉은털 바위곰",
+            "popupText": "Boss Red-fur Rock Bear",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/VilblinBossHint1.jpg",
             "id": 84
@@ -1002,7 +1002,7 @@
         {
             "x": -57.13,
             "y": 113.61,
-            "popupText": "정예 회색망치 탐색꾼",
+            "popupText": "Elite Gray Hammer Seeker",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/GrayHammerBossHint2.jpg",
             "id": 137
@@ -1010,7 +1010,7 @@
         {
             "x": -28.51,
             "y": 53.62,
-            "popupText": "정예 회색 망치 강도",
+            "popupText": "Elite Gray Hammer Robber",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/GrayHammerBossHint3.jpg",
             "id": 138
@@ -1026,7 +1026,7 @@
             "x": -91.76,
             "y": 126.14,
             "type": MarkerTypeEnum.SecretPassage,
-            "hintText": "주변 적 처리 후 부숴서 들어갈 수 있음<br>단상위에있는 반딧불을 들고 비밀길#2로 가자",
+            "hintText": "Destroy the nearby enemies to get access to the secret passage #2",
             "hintImage": "lutheran/GrayHammerSecretHint2.jpg",
             "id": 140
         },
@@ -1047,7 +1047,7 @@
         {
             "x": -56.13,
             "y": 98.8,
-            "popupText": "회색망치 광산",
+            "popupText": "Gray Hammer Mine",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/GrayHammerVistaHint1.jpg",
             "id": 143

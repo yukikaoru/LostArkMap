@@ -125,7 +125,7 @@
         {
             "x": -335.77975555894,
             "y": 31.348434385468703,
-            "popupText": "흙 묻은 칠색사탕",
+            "popupText": "Dirty oily Rainbow Candy",
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "lutheran/LutheranCastleCookingIngredientHint1.jpg",
             "id": 17
@@ -244,7 +244,7 @@
         {
             "x": -328.1882900548279,
             "y": 96.31713309657671,
-            "popupText": "딱딱한 붉은 귀 이새",
+            "popupText": "Solid Red Bird",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/DiorikaBossHint2.jpg",
             "id": 34
@@ -454,7 +454,7 @@
         {
             "x": -368.31257614986293,
             "y": 210.34349355554002,
-            "popupText": "징그러운 과수원 바구미",
+            "popupText": "Nasty Orchard weevils",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/NurseryBossHint1.jpg",
             "id": 64
@@ -472,7 +472,7 @@
             "y": 217.156096133324,
             "popupText": "Contained in a wooden heart #1",
             "type": MarkerTypeEnum.HiddenStory,
-            "hintText": "시간제한이 40초로 굉장히 빡빡하니<br>서두르시는게 좋습니다",
+            "hintText": "The time limit is very tight with 40 seconds",
             "hintImage": "lutheran/NurseryHiddenStoryHint2.jpg",
             "id": 66
         },
@@ -613,7 +613,7 @@
         {
             "x": -287.7501998933902,
             "y": 239.69023540757297,
-            "popupText": "거대 흑장미무늬 거미",
+            "popupText": "Giant Black Rose Spider",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/BlackRoseBossHint1.jpg",
             "id": 86
@@ -621,7 +621,7 @@
         {
             "x": -275.12501903746573,
             "y": 201.1877735407573,
-            "popupText": "음흉한 사교도 전도자",
+            "popupText": "Sinister Cult Preacher",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/BlackRoseBossHint2.jpg",
             "id": 87
@@ -644,7 +644,7 @@
         {
             "x": -263.5324303228754,
             "y": 226.2822928741372,
-            "popupText": "절벽 무덤",
+            "popupText": "Cliff Tomb",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/BlackRoseVistaHint1.jpg",
             "id": 90
@@ -727,7 +727,7 @@
         {
             "x": -288.6568401614377,
             "y": 285.3754445037306,
-            "popupText": "광기에 물든 홍학 우두머리",
+            "popupText": "Mad Crimson Flamingo Boss",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/RiaBossHint1.jpg",
             "id": 102
@@ -735,7 +735,7 @@
         {
             "x": -300.687642780993,
             "y": 296.0296942369429,
-            "popupText": "마군단 거인병 우두머리",
+            "popupText": "Demon Legionnaire Boss",
             "type": MarkerTypeEnum.Boss,
             "id": 103
         },
@@ -750,7 +750,7 @@
         {
             "x": -272.59375951873284,
             "y": 291.65754931859715,
-            "popupText": "지배당한 거대 푸름 전사",
+            "popupText": "Dominating Giant Blue Warrior",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/RiaBossHint4.jpg",
             "id": 105
@@ -806,7 +806,7 @@
         {
             "x": -273.2193687176363,
             "y": 270.5941774074333,
-            "popupText": "푸름의 땅 폭포",
+            "popupText": "Azure Land Waterfall",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/RiaVistaHint2.jpg",
             "id": 112
@@ -894,7 +894,7 @@
         {
             "x": -288.5632900548279,
             "y": 330.71774131845746,
-            "popupText": "잔인한 트릴",
+            "popupText": "Brutal Trill",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/BoreaManorBossHint1.jpg",
             "id": 125
@@ -902,7 +902,7 @@
         {
             "x": -275.3445210173622,
             "y": 333.3432542073774,
-            "popupText": "폭주한 마법사 임프",
+            "popupText": "Runaway Wizard Imp",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/BoreaManorBossHint2.jpg",
             "id": 126
@@ -910,7 +910,7 @@
         {
             "x": -272.5629949741091,
             "y": 343.5305832444041,
-            "popupText": "폭주한 이카루스",
+            "popupText": "Runaway Icarus",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/BoreaManorBossHint3.jpg",
             "id": 127
@@ -1157,7 +1157,7 @@
         {
             "x": -360.3125095187329,
             "y": 404.3121751703507,
-            "popupText": "포식자 크록",
+            "popupText": "Predator Crocodile",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/CrocniceBossHint1.jpg",
             "id": 162
@@ -1189,7 +1189,7 @@
         {
             "x": -351.0004473804447,
             "y": 420.2184080740534,
-            "popupText": "바위동굴 조개",
+            "popupText": "Rock Cave Shell",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "루테란성 요리사NPC - 하이드<br>최고급 해산물 스튜 식재료",
             "hintImage": "lutheran/CrocniceFoodIngredientHint1.jpg",

@@ -1159,7 +1159,7 @@
             "y": 380.9922250240154,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 167,
-            "popupText": "협동 : 공명의 노래",
+            "popupText": "Co-op: Songs of Resonance",
             "hintImage": "islands/SleepingSongInstrument1.jpg"
         },
         {
@@ -1358,7 +1358,7 @@
             "y": 331.6798676152738,
             "type": MarkerTypeEnum.Mokoko,
             "id": 195,
-            "hintText": "우측으로 들어간 첫방 위쪽문 우측",
+            "hintText": "Right side of the first door above the first room",
             "hintImage": "islands/WisdomMokoko4.jpg"
         },
         {
@@ -1366,7 +1366,7 @@
             "y": 331.617390129683,
             "type": MarkerTypeEnum.Mokoko,
             "id": 196,
-            "hintText": "우측으로 들어간 첫방 좌측",
+            "hintText": "First room on the right, left side",
             "hintImage": "islands/WisdomMokoko3.jpg"
         },
         {
@@ -1382,7 +1382,7 @@
             "y": 330.16407750960616,
             "type": MarkerTypeEnum.Mokoko,
             "id": 198,
-            "hintText": "좌측으로 들어간 첫방 입구 바로 위",
+            "hintText": "First room on your left just above the entrance",
             "hintImage": "islands/WisdomMokoko1.jpg"
         },
         {
@@ -2026,7 +2026,7 @@
             "y": 158.31250995857235,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 286,
-            "hintText": "보통 : 고블린 금화x5\n\n관심 : 고블린 금화x10\n\n우호 : 고블린 금화x25 / 낡은 금열쇠\n\n신뢰 : 고블린 금화x50 / 에테르 강화 각인서Ⅰ",
+            "hintText": "Normal: Goblin Coins x5<br>Interest: Goblin Coins x10<br>Friendly: Goblin Coins x25 & Worn Gold Key<br>Reliable: Goblin Coins x50 & Strenghtened Ether Engraving I",
             "popupText": "24 year old Gobius",
             "hintImage": "islands/GoblinFavorNPC1.jpg"
         },
@@ -2425,7 +2425,7 @@
             "y": 358.6249474663785,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 343,
-            "popupText": "친절 증가 물약",
+            "popupText": "Kindness increase Potion",
             "hintImage": "islands/EstellaGroupQuest1.jpg"
         },
         {
@@ -2842,7 +2842,7 @@
             "y": 297.63,
             "type": MarkerTypeEnum.Barter,
             "id": 401,
-            "popupText": "그릇된 조각",
+            "popupText": "Wrong piece",
             "hintImage": "islands/MisguidedBarter1.jpg"
         },
         {
@@ -2858,7 +2858,7 @@
             "y": 346.3,
             "type": MarkerTypeEnum.Reward,
             "id": 403,
-            "popupText": "감정표현:할라할라",
+            "popupText": "Emote: Hala Hala",
             "hintImage": "islands/OceanParadisePaytoReward1.jpg"
         },
         {
@@ -2882,8 +2882,8 @@
             "y": 345.39,
             "type": MarkerTypeEnum.Epilogue,
             "id": 406,
-            "popupText": "에필-위대한 미술품#29",
-            "hintText": "선행퀘스트를 진행하다보면 수락 가능",
+            "popupText": "Epilogue - Great Artwork #29",
+            "hintText": "Advance quest to accept",
             "hintImage": "islands/SunflowerEpilogue1.jpg"
         },
         {
@@ -2961,7 +2961,7 @@
             "y": 331.01,
             "type": MarkerTypeEnum.Barter,
             "id": 416,
-            "popupText": "거인의 심장 스샷"
+            "popupText": "Giant's Heart"
         },
         {
             "x": -442.34,

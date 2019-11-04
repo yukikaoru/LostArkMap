@@ -23,7 +23,7 @@
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 2,
             "hintImage": "rohendel/SilverLakeQuest1.jpg",
-            "popupText": "히든-마법서,은빛 항구"
+            "popupText": "Hidden Book - Silver harbor"
         },
         {
             "x": -352.87,
@@ -50,7 +50,7 @@
             "y": 430.42,
             "type": MarkerTypeEnum.Mokoko,
             "id": 6,
-            "hintText": "해당 위치에서 허니버터 맥주 먹어야 \n오브젝트가 활성화됨"
+            "hintText": "Eat Honey Butter Beer at that location<br>The object will be activated"
         },
         {
             "x": -329.37,
@@ -101,7 +101,7 @@
             "y": 468.62,
             "type": MarkerTypeEnum.Vista,
             "id": 13,
-            "popupText": "실린 거주지",
+            "popupText": "Shilling Residence",
             "hintImage": "rohendel/SilverLakeVista2.jpg"
         },
         {
@@ -131,7 +131,7 @@
             "y": 435.8,
             "type": MarkerTypeEnum.Boss,
             "id": 17,
-            "popupText": "우두머리 사카울",
+            "popupText": "Boss Sakaul",
             "hintImage": "rohendel/SilverLakeBoss1.jpg"
         },
         {
@@ -140,7 +140,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 18,
             "hintImage": "rohendel/SilverLakeBoss2.jpg",
-            "popupText": "강화된 정령 가루 나방"
+            "popupText": "Enhanced Spirit Powder Moth"
         },
         {
             "x": -280.69,
@@ -360,7 +360,7 @@
             "y": 312.01,
             "type": MarkerTypeEnum.OtherStory,
             "id": 50,
-            "popupText": "엘조윈에 울려퍼지는 음악",
+            "popupText": "Resonant Music for Eljowin",
             "hintText": "연계퀘스트의 마지막 퀘스트입니다.",
             "hintImage": "rohendel/RoarunStory1.jpg"
         },
@@ -446,7 +446,7 @@
             "y": 195.81,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 59,
-            "popupText": "오염된 두번째 정령식",
+            "popupText": "Tainted second elemental",
             "hintText": "광폭한 사카울이 드랍",
             "hintImage": "rohendel/GlassLotusLakeFood2.jpg"
         },
@@ -455,7 +455,7 @@
             "y": 186.94,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 60,
-            "popupText": "히든-습격받은 성소",
+            "popupText": "Hidden Book - Assaulted Sanctuary",
             "hintImage": "rohendel/GlassLotusLakeOtherStory1.jpg"
         },
         {
@@ -471,7 +471,7 @@
             "y": 175.88,
             "type": MarkerTypeEnum.Boss,
             "id": 62,
-            "popupText": "우두머리 물방울 정령",
+            "popupText": "Boss Drip Spirit",
             "hintImage": "rohendel/GlassLotusLakeBoss2.jpg"
         },
         {
@@ -512,7 +512,7 @@
             "y": 186.75,
             "type": MarkerTypeEnum.Boss,
             "id": 68,
-            "popupText": "분노한 트렌트",
+            "popupText": "Enraged Treant",
             "hintImage": "rohendel/GlassLotusLakeBoss3.jpg"
         },
         {
@@ -539,7 +539,7 @@
             "y": 214.19,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 72,
-            "popupText": "히든-숲 속의 참크리",
+            "popupText": "Hidden Book - Charm of the Forest",
             "hintText": "선행퀘스트 있습니다.",
             "hintImage": "rohendel/GlassLotusLakeOtherStory2.jpg"
         },
@@ -578,8 +578,8 @@
             "y": 180.69,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 77,
-            "popupText": "히든-마법서, 로헨델의 마력",
-            "hintText": "폭주하는 마력 골렘 처치 시 일정 확률로\n\n퀘스트 시작 아이템 드랍",
+            "popupText": "Hidden Book - Rohendel's Spell",
+            "hintText": "Chance to encounter a Runaway Magic Golem<br>Starts quest by item drop",
             "hintImage": "rohendel/WindScentHillOtherStory1.jpg"
         },
         {
@@ -618,7 +618,7 @@
             "y": 212.88,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 82,
-            "popupText": "히든-불 속에서 찾은 것",
+            "popupText": "Hidden Book - found in the fire",
             "hintImage": "rohendel/WindScentHillOtherStory2.jpg"
         },
         {
@@ -627,7 +627,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 83,
             "hintImage": "rohendel/WindScentHillBoss2.jpg",
-            "popupText": "분노한 불의 정령"
+            "popupText": "Enraged Fire Elemental"
         },
         {
             "x": -312.75,
@@ -722,7 +722,7 @@
             "y": 75.38,
             "type": MarkerTypeEnum.Mokoko,
             "id": 96,
-            "popupText": "건물 안"
+            "popupText": "Inside the Building"
         },
         {
             "x": -345.75,
@@ -736,7 +736,7 @@
             "y": 43.95,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 98,
-            "popupText": "하르마게돈"
+            "popupText": "Haremagedon"
         },
         {
             "x": -336.31,
@@ -751,7 +751,7 @@
             "y": 43.45,
             "type": MarkerTypeEnum.Boss,
             "id": 100,
-            "popupText": "분노한 제나일 골렘",
+            "popupText": "Enraged Jenail golem",
             "hintImage": "rohendel/DevastatedJannaBoss2.jpg"
         },
         {
@@ -760,7 +760,7 @@
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 101,
             "hintImage": "rohendel/DevastatedJannaOtherStory1.jpg",
-            "popupText": "히든-마법서, 조화의 서"
+            "popupText": "Hidden Book - Book of Harmony"
         },
         {
             "x": -322.37,
@@ -835,7 +835,7 @@
             "y": 72.95,
             "type": MarkerTypeEnum.Mokoko,
             "id": 111,
-            "popupText": "에테르의 정수를 마실 시 습득가능"
+            "popupText": "Drink Essence of Ether to enter"
         },
         {
             "x": -298.81,
@@ -870,7 +870,7 @@
             "y": 34.07,
             "type": MarkerTypeEnum.Vista,
             "id": 115,
-            "popupText": "피폭 중심지 마을",
+            "popupText": "Exposed town center",
             "hintImage": "rohendel/DevastatedJannaVista1.jpg"
         },
         {
@@ -885,7 +885,7 @@
             "y": 25.01,
             "type": MarkerTypeEnum.Boss,
             "id": 117,
-            "popupText": "우두머리 제나일의 야수",
+            "popupText": "Boss Nile Beast",
             "hintImage": "rohendel/DevastatedJannaBoss4.jpg"
         },
         {
@@ -933,7 +933,7 @@
             "y": 317.75,
             "type": MarkerTypeEnum.Boss,
             "id": 123,
-            "popupText": "우두머리 이끼바위 골렘",
+            "popupText": "Boss Mossrock Golem",
             "hintImage": "rohendel/ElzowinsShadowBoss1.jpg"
         },
         {
@@ -942,7 +942,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 124,
             "hintImage": "rohendel/ElzowinsShadowBoss2.jpg",
-            "popupText": "우두머리 드라이어드"
+            "popupText": "Boss Dryad"
         },
         {
             "x": -90.31,
@@ -976,7 +976,7 @@
             "y": 336.06,
             "type": MarkerTypeEnum.Vista,
             "id": 129,
-            "popupText": "협곡과 폭포지대",
+            "popupText": "Canyons and Waterfalls",
             "hintImage": "rohendel/ElzowinsShadowVista1.jpg"
         },
         {
@@ -1085,7 +1085,7 @@
             "y": 304.33,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 144,
-            "popupText": "히든-마법서, 시간의 서",
+            "popupText": "Hidden Book - Book of Time",
             "hintImage": "rohendel/ElzowinsShadowOtherStory1.jpg"
         },
         {
@@ -1093,7 +1093,7 @@
             "y": 293.58,
             "type": MarkerTypeEnum.Boss,
             "id": 145,
-            "popupText": "타락한 몽환의 악마개",
+            "popupText": "Corrupted Demon Dog",
             "hintImage": "rohendel/ElzowinsShadowBoss4.jpg"
         },
         {
@@ -1163,7 +1163,7 @@
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 155,
             "popupText": "Hidden achievement",
-            "hintText": "히든 없적\n\n\n정령 구출 대작전\n\n정령에땅에서 정령의 횟불 밝히기\n\n\n정령들의 벗 칭호줍니다"
+            "hintText": "Hidden Achievement<br>Elemental Rescue<br>Unveil the Elemental Flame in the spirit realm<br>Awards Title 'Friend of the Spirits'"
         },
         {
             "x": -398,

@@ -6,7 +6,7 @@
             "y": 30.79,
             "type": MarkerTypeEnum.Vista,
             "id": 2,
-            "popupText": "항구",
+            "popupText": "Harbor",
             "hintImage": "arthetaine/BarrenVistaHint1.jpg"
         },
         {
@@ -364,7 +364,7 @@
             "y": 229,
             "type": MarkerTypeEnum.Boss,
             "id": 48,
-            "popupText": "DIS _MK-Ⅱ 프로토타입",
+            "popupText": "DIS MK-Ⅱ Prototype",
             "hintImage": "arthetaine/CrackedBossHint1.jpg"
         },
         {
@@ -640,7 +640,7 @@
             "y": 74.82,
             "type": MarkerTypeEnum.Boss,
             "id": 88,
-            "popupText": "진액이 흐르는 왈루 선인장",
+            "popupText": "Running Sap Walu Cactus",
             "hintImage": "arthetaine/NebelhornBossHint2.jpg"
         },
         {
@@ -648,7 +648,7 @@
             "y": 80.76,
             "type": MarkerTypeEnum.Boss,
             "id": 89,
-            "popupText": "치명적인 맹독 스콜피온",
+            "popupText": "Deadly Venom Scorpion",
             "hintImage": "arthetaine/NebelhornBossHint3.jpg"
         },
         {
@@ -686,7 +686,7 @@
             "y": 454.38,
             "type": MarkerTypeEnum.Vista,
             "id": 95,
-            "popupText": "시계 광장",
+            "popupText": "Clock Square",
             "hintImage": "arthetaine/TotrerichVistaHint1.jpg"
         },
         {
@@ -702,7 +702,7 @@
             "y": 469.13,
             "type": MarkerTypeEnum.Boss,
             "id": 97,
-            "popupText": "Belchi Chieftain",
+            "popupText": "Belchi Boss",
             "hintImage": "arthetaine/TotrerichBossHint2.jpg"
         },
         {
@@ -792,7 +792,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 111,
             "popupText": "소용돌이 관측소",
-            "hintText": "뜰때까지 계속 소용돌이로 이동",
+            "hintText": "Continuous Whirlpool",
             "hintImage": "arthetaine/RizaVistaHint1.jpg"
         },
         {
@@ -822,7 +822,7 @@
             "y": 275.76,
             "type": MarkerTypeEnum.Boss,
             "id": 115,
-            "popupText": "탐욕적인 친위대 지휘관",
+            "popupText": "Greedy Commander",
             "hintImage": "arthetaine/RizaBossHint1.jpg"
         },
         {
@@ -830,7 +830,7 @@
             "y": 303.125,
             "type": MarkerTypeEnum.Boss,
             "id": 116,
-            "popupText": "검붉은 집게 스콜피온",
+            "popupText": "Dark red Pincer Scorpion",
             "hintImage": "arthetaine/RizaBossHint2.jpg"
         },
         {

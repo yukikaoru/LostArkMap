@@ -191,7 +191,7 @@
         {
             "x": -336.5,
             "y": 469.19,
-            "title": "백발백중",
+            "title": "Perfect Marksmanship",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint14.jpg",
             "id": 25
@@ -241,7 +241,7 @@
         {
             "x": -438.69,
             "y": 401.88,
-            "popupText": "우두머리 뭉카",
+            "popupText": "Boss Munka",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint1.jpg",
             "id": 31
@@ -289,7 +289,7 @@
         {
             "x": -332,
             "y": 460.63,
-            "popupText": "우두머리 베티모스",
+            "popupText": "Boss Bettymoss",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint7.jpg",
             "id": 37
@@ -297,7 +297,7 @@
         {
             "x": -308,
             "y": 485.69,
-            "popupText": "더러운 소금웜",
+            "popupText": "Dirty Salt Worm",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint8.jpg",
             "id": 38
@@ -329,7 +329,7 @@
         {
             "x": -335.06,
             "y": 450.51,
-            "popupText": "유랑민 캠프",
+            "popupText": "Nomad camp",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "yudia/SalandVistaHint2.jpg",
             "id": 42
@@ -339,7 +339,7 @@
             "y": 459.94,
             "popupText": "그룹 퀘스트",
             "type": MarkerTypeEnum.GroupQuest,
-            "hintText": "보상 : 영구 스탯 증가",
+            "hintText": "Reward: permanent stat increase",
             "hintImage": "yudia/SalandGroupQuestHint1.jpg",
             "id": 43
         },
@@ -348,7 +348,7 @@
             "y": 444.13,
             "popupText": "소금사막의 천둥",
             "type": MarkerTypeEnum.NPCFavor,
-            "hintText": "시간의 파편x3 (카드)<br>천둥 (카드)<br>기우제를 위한 재료(모험의 서) / 친절 증가 물약",
+            "hintText": "Fragment of time x3 (Card)<br>Thunder (Card)<br>Materials for Rain Ritual (Adventure Book) / Kindness increase Potion",
             "hintImage": "yudia/SalandNPCFavorHint1.jpg",
             "id": 44
         },
@@ -448,7 +448,7 @@
         {
             "x": -125.25,
             "y": 227,
-            "popupText": "우두머리 베티모스",
+            "popupText": "Boss Bettymoss",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/OzhornBossHint3.jpg",
             "id": 58
@@ -472,7 +472,7 @@
         {
             "x": -126.37,
             "y": 363.13,
-            "popupText": "우두머리 하얀모래 벨치",
+            "popupText": "Boss White Sand Belji",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/OzhornBossHint6.jpg",
             "id": 61
@@ -496,7 +496,7 @@
         {
             "x": -257.12,
             "y": 320.5,
-            "popupText": "오래된 카바티안의 식량 상자",
+            "popupText": "Old Kabatian Food Box",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "살란드 구릉지 요리사NPC - 헬라<br>소금이 가득찬 식량 상자 식재료",
             "hintImage": "yudia/OzhornFoodIngredientHint1.jpg",
@@ -507,14 +507,14 @@
             "y": 431.75,
             "popupText": "Morina",
             "type": MarkerTypeEnum.NPCFavor,
-            "hintText": "고대의 금화x5 (5000실링)<br>루페온의 인장 100개 상자x5<br>생활 포인트 물약(+4)",
+            "hintText": "Ancient Gold Coin x5 (5000 Shilling)<br>Luperon's Signet x100<br>Health Point Potion (+4)",
             "hintImage": "yudia/OzhornNPCFavorHint1.jpg",
             "id": 65
         },
         {
             "x": -163.75,
             "y": 239.39,
-            "popupText": "악마의 근원",
+            "popupText": "Devil's origin",
             "type": MarkerTypeEnum.OtherStory,
             "hintImage": "yudia/OzhornOtherStoryHint1.jpg",
             "id": 66
@@ -585,7 +585,7 @@
         {
             "x": -234.87,
             "y": 97.01,
-            "popupText": "더러운 점액 덩어리",
+            "popupText": "Dirty slime chunk",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SapiraBossHint1.jpg",
             "id": 77
@@ -593,7 +593,7 @@
         {
             "x": -187.25,
             "y": 103.13,
-            "popupText": "타락한 붉은눈 바위악마",
+            "popupText": "Corrupted Red-Eyed Rock Demon",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SapiraBossHint2.jpg",
             "id": 78
@@ -623,7 +623,7 @@
         {
             "x": -230.75,
             "y": 99.63,
-            "popupText": "숨겨진 카바티안의 술병",
+            "popupText": "Veiled Kabatian Bottle",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "살란드 구릉지 요리사NPC - 헬라<br>카바티안의 오래된 술 식재료",
             "hintImage": "yudia/SapiraFoodIngredientHint1.jpg",
@@ -734,7 +734,7 @@
             "x": -401.44,
             "y": 300.5,
             "type": MarkerTypeEnum.SecretPassage,
-            "hintText": "쭉 가면 모코코2개",
+            "hintText": "Go straight for 2 mokoko seeds",
             "hintImage": "yudia/MoraiSecretHint1.jpg",
             "id": 97
         },
