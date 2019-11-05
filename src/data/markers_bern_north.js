@@ -295,7 +295,7 @@
             "y": 337.87485892579735,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 39,
-            "popupText": "취미에 국경은 없다",
+            "popupText": "Hobby without boundaries",
             "hintImage": "bern/RaniaHiddenStoryHint3.jpg"
         },
         {
@@ -561,7 +561,7 @@
             "y": 357,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 77,
-            "popupText": "최후의 임무"
+            "popupText": "A final mission"
         },
         {
             "x": -210.56,

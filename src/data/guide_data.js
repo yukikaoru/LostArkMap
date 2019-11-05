@@ -42,7 +42,7 @@
             preview: 'KoreanCheatSheet.jpg'
         },
         {
-            title: "Lost Ark Map (KR)",
+            title: "Lost Ark Map (KO)",
             url: "http://bbs.ruliweb.com/family/4659/gamemap/lostark/103",
             preview: 'LostArkMapKR.jpg'
         },
@@ -82,7 +82,7 @@
             preview: 'DarkalordUnofficialGuide.jpg'
         },
         {
-            title: "Interactive Island Map (KR)",
+            title: "Interactive Island Map (KO)",
             url: "https://loahae.com/wmap/",
             preview: "islandmap.jpg"
         },
@@ -97,7 +97,7 @@
             preview: "roadmap50.jpg"
         },
         {
-            title: "World treasure lookup (KR)",
+            title: "World treasure lookup (KO)",
             url: "http://www.inven.co.kr/board/lostark/4821/4885",
             preview: "worldtreasures.jpg"
         },
@@ -117,12 +117,12 @@
             preview: "civo2.jpg"
         },
         {
-            title: "Event Calendar (KR)",
+            title: "Event Calendar (KO)",
             url: "https://loahae.com/calendar/",
             preview: "calendar.jpg"
         },
         {
-            title: "Card Info (KR)",
+            title: "Card Info (KO)",
             url: "http://lostark.inven.co.kr/dataninfo/card/",
             preview: "cardinfo.jpg"
         }

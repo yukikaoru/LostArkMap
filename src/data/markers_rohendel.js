@@ -336,7 +336,7 @@
             "y": 335.88,
             "type": MarkerTypeEnum.Vista,
             "id": 47,
-            "popupText": "로아룬 전경",
+            "popupText": "Loarun Panorama",
             "hintImage": "rohendel/RoarunVista1.jpg"
         },
         {
@@ -447,7 +447,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 59,
             "popupText": "Tainted second elemental",
-            "hintText": "광폭한 사카울이 드랍",
+            "hintText": "Broad Sakaul Drop",
             "hintImage": "rohendel/GlassLotusLakeFood2.jpg"
         },
         {
@@ -479,7 +479,7 @@
             "y": 174.5,
             "type": MarkerTypeEnum.Vista,
             "id": 63,
-            "popupText": "물의 성소",
+            "popupText": "Water Sanctuary",
             "hintImage": "rohendel/GlassLotusLakeVista2.jpg"
         },
         {
@@ -552,7 +552,7 @@
                 -447.5,
                 319.27
             ],
-            "title": "##To 공허의 미궁"
+            "title": "##To Void Labyrinth"
         },
         {
             "x": -356.37,
@@ -714,7 +714,7 @@
             "y": 85.32,
             "type": MarkerTypeEnum.Boss,
             "id": 95,
-            "popupText": "오래된 제나일 유물",
+            "popupText": "Old Jenail Relic",
             "hintImage": "rohendel/DevastatedJannaBoss1.jpg"
         },
         {
@@ -862,7 +862,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 114,
             "popupText": "오염된 첫번째 정령식",
-            "hintText": "부패한 덩어리를 조사하면 획득 가능",
+            "hintText": "Can be obtained by investigating putrid chunks",
             "hintImage": "rohendel/DevastatedJannaFood1.jpg"
         },
         {
@@ -1071,7 +1071,7 @@
             "y": 311.95,
             "type": MarkerTypeEnum.Mokoko,
             "id": 142,
-            "popupText": "에테르의 정수 필요"
+            "popupText": "Ether Essence required"
         },
         {
             "x": -50.94,

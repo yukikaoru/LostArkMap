@@ -5004,7 +5004,7 @@
             ],
             "img": "61.jpg",
             "grade": 3,
-            "name": "수신 아포라스",
+            "name": "Receiving Aporas",
             "attr": 2,
             "line": 7,
             "cost": 5,

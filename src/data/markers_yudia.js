@@ -199,7 +199,7 @@
         {
             "x": -456.25,
             "y": 413.88,
-            "popupText": "자연산 뭉카 육포",
+            "popupText": "Natural Munca Beef Jerky",
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "yudia/SalandCookingIngredientHint1.jpg",
             "id": 26

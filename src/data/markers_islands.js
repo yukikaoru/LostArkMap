@@ -1390,7 +1390,7 @@
             "y": 330.53913004322766,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 199,
-            "popupText": "좌측 방 가는 곳",
+            "popupText": "Left room",
             "hintImage": "islands/WisdomSecret1.jpg"
         },
         {
@@ -1459,7 +1459,7 @@
             "type": MarkerTypeEnum.Note,
             "id": 208,
             "popupText": "Aristocrat",
-            "hintText": "귀족 사칭범",
+            "hintText": "Aristocrat Impersonator",
             "hintImage": "islands/FugitiveSlaveHint1.jpg"
         },
         {
@@ -1483,7 +1483,7 @@
             "y": 392.14057022785215,
             "type": MarkerTypeEnum.Note,
             "id": 211,
-            "hintText": "귀족 사칭범",
+            "hintText": "Aristocrat Impersonator",
             "popupText": "Aristocrat"
         },
         {
@@ -1500,7 +1500,7 @@
             "y": 394.67,
             "type": MarkerTypeEnum.Note,
             "id": 213,
-            "hintText": "귀족 사칭범",
+            "hintText": "Aristocrat Impersonator",
             "popupText": "Aristocrat"
         },
         {
@@ -2478,7 +2478,7 @@
             "y": 405.28215808117193,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 350,
-            "popupText": "생활 포인트 물약",
+            "popupText": "Life Point Potion",
             "hintImage": "islands/FreedomGroupQuest1.jpg"
         },
         {
@@ -2500,7 +2500,7 @@
             "y": 378.99211245196926,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 353,
-            "popupText": "생활 포인트 물약",
+            "popupText": "Life Point Potion",
             "hintImage": "islands/ForgottenGroupQuest1.jpg"
         },
         {
@@ -2592,7 +2592,7 @@
             "y": 86.56265435787125,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 367,
-            "popupText": "생활 포인트 물약",
+            "popupText": "Life Point Potion",
             "hintImage": "islands/DreamsGroupQuest1.jpg"
         },
         {
@@ -2754,7 +2754,7 @@
             "type": MarkerTypeEnum.GroupQuest,
             "id": 389,
             "popupText": "그룹 퀘스트",
-            "hintText": "능력치 증가 물약"
+            "hintText": "Stat Increase Potion"
         },
         {
             "x": -106.7421875,
@@ -2775,7 +2775,7 @@
             "y": 419.24209289356276,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 392,
-            "popupText": "수신 아포라스",
+            "popupText": "Receiving Aporas",
             "hintImage": "islands/DeathValleyWorldBoss1.jpg"
         },
         {
@@ -2850,7 +2850,7 @@
             "y": 181.16,
             "type": MarkerTypeEnum.Barter,
             "id": 402,
-            "popupText": "작은 보석조개",
+            "popupText": "Small Jeweled Shells",
             "hintImage": "islands/BlueHoleBarter1.jpg"
         },
         {
@@ -2891,7 +2891,7 @@
             "y": 390.56,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 407,
-            "hintText": "닭으로 변신해야 입장가능",
+            "hintText": "Can access by turning into a Chicken",
             "hintImage": "islands/ForpeSecret1.jpg"
         },
         {
@@ -2907,7 +2907,7 @@
             "y": 393.9,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 409,
-            "hintText": "닭으로 변신해야 입장가능",
+            "hintText": "Can access by turning into a Chicken",
             "hintImage": "islands/ForpeSecret2.jpg"
         },
         {
@@ -2990,7 +2990,7 @@
             "y": 151.69,
             "type": MarkerTypeEnum.Reward,
             "id": 420,
-            "popupText": "능력치 증가 물약",
+            "popupText": "Stat Increase Potion",
             "hintImage": "islands/GravisReward1.jpg"
         },
         {
@@ -2998,7 +2998,7 @@
             "y": 152.43,
             "type": MarkerTypeEnum.Epilogue,
             "id": 421,
-            "popupText": "능력치 증가 물약",
+            "popupText": "Stat Increase Potion",
             "hintImage": "islands/GravisEpilogue1.jpg"
         },
         {
@@ -3066,7 +3066,7 @@
             "y": 404.03,
             "type": MarkerTypeEnum.Epilogue,
             "id": 430,
-            "popupText": "능력치 증가 물약",
+            "popupText": "Stat Increase Potion",
             "hintText": "알트아이젠 입장 시 입구에 있는 에필로그 퀘스트를 연계해서 진행하다보면 해당 퀘스트가 열림",
             "hintImage": "islands/AlteisenEpilogue1.jpg"
         },

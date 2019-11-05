@@ -213,7 +213,7 @@
             "y": 136.92,
             "type": MarkerTypeEnum.Vista,
             "id": 32,
-            "popupText": "왕등나무",
+            "popupText": "Large Wisteria",
             "hintImage": "anich/WisteriaHillsVistaHint1.jpg"
         },
         {
@@ -334,7 +334,7 @@
             "y": 126.79,
             "type": MarkerTypeEnum.Vista,
             "id": 49,
-            "popupText": "요문구덩이",
+            "popupText": "Torture Pit",
             "hintImage": "anich/SoundVistaHint1.jpg"
         },
         {
@@ -418,7 +418,7 @@
             "y": 143.46,
             "type": MarkerTypeEnum.Boss,
             "id": 61,
-            "popupText": "뒤틀린 악몽의 시선",
+            "popupText": "Twisted Nightmare Gaze",
             "hintImage": "anich/SoundBossHint1.jpg"
         },
         {
@@ -629,7 +629,7 @@
             "y": 31.59,
             "type": MarkerTypeEnum.Boss,
             "id": 93,
-            "popupText": "거대한 불도깨비",
+            "popupText": "Giant Fire Goblin",
             "hintImage": "anich/MirrorBossHint2.jpg"
         },
         {
@@ -637,7 +637,7 @@
             "y": 32.78,
             "type": MarkerTypeEnum.Boss,
             "id": 94,
-            "popupText": "거대한 붉은 사자탈",
+            "popupText": "Giant Red Masked Lion",
             "hintImage": "anich/MirrorBossHint3.jpg"
         },
         {
@@ -1067,7 +1067,7 @@
             "y": 75.71,
             "type": MarkerTypeEnum.Boss,
             "id": 153,
-            "popupText": "게으른 정착지 서리꾼",
+            "popupText": "Lazy Village Frostman",
             "hintImage": "anich/DelphiBossHint1.jpg"
         },
         {
@@ -1075,7 +1075,7 @@
             "y": 49.1,
             "type": MarkerTypeEnum.Boss,
             "id": 154,
-            "popupText": "거대한 올락",
+            "popupText": "Giant Ollag",
             "hintImage": "anich/DelphiBossHint2.jpg"
         },
         {
@@ -1083,7 +1083,7 @@
             "y": 18.37,
             "type": MarkerTypeEnum.Boss,
             "id": 155,
-            "popupText": "거대한 하얀 사자탈",
+            "popupText": "Giant White Masked Lion",
             "hintImage": "anich/DelphiBossHint3.jpg"
         },
         {

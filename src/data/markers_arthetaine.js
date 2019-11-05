@@ -30,7 +30,7 @@
             "y": 92.64,
             "type": MarkerTypeEnum.Boss,
             "id": 5,
-            "popupText": "불법 개조 무기 푸로토타입",
+            "popupText": "Outlaw Prototype Weapon",
             "hintImage": "arthetaine/BarrenBossHint2.jpg"
         },
         {
@@ -167,7 +167,7 @@
             "y": 250.25,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 22,
-            "hintText": "별 거 없다. 심심하면 가보시라",
+            "hintText": "Not much here, go if you are bored",
             "hintImage": "arthetaine/SternSecretHint1.jpg"
         },
         {
@@ -838,7 +838,7 @@
             "y": 339.25,
             "type": MarkerTypeEnum.Boss,
             "id": 117,
-            "popupText": "악랄한 불법 용병 검사",
+            "popupText": "Vicious Outlaw Mercenary Prosecutor",
             "hintImage": "arthetaine/RizaBossHint3.jpg"
         },
         {
@@ -1036,7 +1036,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 146,
             "hintImage": "arthetaine/HeartFoodIngredientHint1.jpg",
-            "popupText": "크라테르 처방전",
+            "popupText": "Crater Prescription",
             "hintText": "슈테른 요리사NPC - 만능 조리기<br>크라테르팜정 3mg 식재료"
         },
         {

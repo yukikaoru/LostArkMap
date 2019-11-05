@@ -104,7 +104,7 @@
         {
             "x": -463.37,
             "y": 443.44,
-            "popupText": "우두머리 호수 멧돼지",
+            "popupText": "Boss Lake Boar",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/ZagorasBossHint1.jpg",
             "id": 14
@@ -136,7 +136,7 @@
         {
             "x": -429.5,
             "y": 436.94,
-            "popupText": "자고라스 요새 입구",
+            "popupText": "Zagoras Fortress Entrance",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/ZagorasVistaHint1.jpg",
             "id": 18
@@ -366,7 +366,7 @@
         {
             "x": -393.62,
             "y": 290.43,
-            "popupText": "레이크바 고목",
+            "popupText": "Lake Bar Old Tree",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/LakeBarsVistaHint1.jpg",
             "id": 48
@@ -684,7 +684,7 @@
             "y": 215.26,
             "popupText": "로블롬의 촉수",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "로블롬을 잡고 나온 촉수를 인벤토리에서 일정 시간동안 보유하고 있으면 파닥거리는 촉수 회로 변환된다.<br>이 때 먹으면 모험의 서가 등록된다.",
+            "hintText": "Keep a Roblom Tentacle in your inventory for a while and it will be converted to a Fluttering Tentacle Circuit<br>Eating it will complete the Quest",
             "hintImage": "lutheran/VilblinFoodIngredientHint2.jpg",
             "id": 91
         },
@@ -722,7 +722,7 @@
         {
             "x": -114.31,
             "y": 291.13,
-            "popupText": "라쿠니 숲",
+            "popupText": "Rakuni Forest",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/VilblinVistaHint1.jpg",
             "id": 96

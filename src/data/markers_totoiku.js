@@ -101,7 +101,7 @@
             "title": "Boss",
             "hintImage": "totoiku/MokokoVillageHiddenStoryHint1.jpg",
             "popupText": "Going to be a pirate king! #2",
-            "hintText": "제한시간 30분"
+            "hintText": "30 Minutes time limit"
         },
         {
             "x": -442.98,

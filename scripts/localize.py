@@ -37,6 +37,7 @@ def localizeFile(data, srcLang, destLang):
     print("Translating " + str(len(data)) + " Lines from " + srcLang + " to " + destLang)
 
     result = {}
+    result[srcLang] = {}
     counter = 0
     errors = 0
     batchSize = 50
@@ -45,16 +46,16 @@ def localizeFile(data, srcLang, destLang):
     for key in data:
         translated = data[key]
         if translated != "":
-            result[key] = translated
+            result[srcLang][key] = translated
             continue
 
         batch.append(key)
         if len(batch) >= batchSize:
             if blocked:
-                copyBatch(batch, result)
+                copyBatch(batch, result[srcLang])
             else:
-                if not translateBatch(batch, srcLang, destLang, result):
-                    copyBatch(batch, result)
+                if not translateBatch(batch, srcLang, destLang, result[srcLang]):
+                    copyBatch(batch, result[srcLang])
                     blocked = True
             batch = []
 
@@ -63,29 +64,33 @@ def localizeFile(data, srcLang, destLang):
             print (" - " + str(counter))
 
     if blocked:
-        copyBatch(batch, result)
+        copyBatch(batch, result[srcLang])
     else:
-        translateBatch(batch, srcLang, destLang, result)
+        translateBatch(batch, srcLang, destLang, result[srcLang])
 
     print("Complete with " + str(errors) + " Errors")
     return result
 
 filePath = sys.argv[1]
 fileName = filePath.replace('.json', '')
+srcLang = sys.argv[2]
+destLang = sys.argv[3]
+
 with open(filePath, encoding="utf8") as json_file:
     data = json.load(json_file)
-    localizedData = localizeFile(data[sys.argv[2]], sys.argv[2], sys.argv[3])
+    localizedData = localizeFile(data[srcLang], srcLang, destLang)
 
-#with open(fileName + '_L.json', 'w', encoding='utf8') as out_file:
-#    json.dump(localizedData, out_file, ensure_ascii=False, indent=4, sort_keys=True)
+with open(filePath, 'w', encoding='utf8') as out_file:
+    json.dump(localizedData, out_file, ensure_ascii=False, indent=4, sort_keys=True)
 
 reverseData = {}
-for key in localizedData:
-    value = localizedData[key]
+reverseData[srcLang] = {}
+for key in localizedData[srcLang]:
+    value = localizedData[srcLang][key]
     if value == "":
         continue
 
-    reverseData[value] = key
+    reverseData[srcLang][value] = key
 
 with open(fileName + '_R.json', 'w', encoding='utf8') as out_file:
     json.dump(reverseData, out_file, ensure_ascii=False, indent=4, sort_keys=True)

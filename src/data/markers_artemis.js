@@ -1162,7 +1162,7 @@
         {
             "x": -216.62,
             "y": 388.63,
-            "popupText": "악취나는 역병지기",
+            "popupText": "Blight Plague Keeper",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AgilothHeadBossHint3.jpg",
             "id": 137

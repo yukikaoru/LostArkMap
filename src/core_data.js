@@ -135,7 +135,7 @@ const MapClickMode = Object.freeze({
 
 const LocalizationLanguage = Object.freeze({
     English: 'en',
-    Korean: 'kr'
+    Korean: 'ko'
 });
 
 /**

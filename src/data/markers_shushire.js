@@ -93,7 +93,7 @@
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 11,
             "popupText": "모험의서 요리제작",
-            "hintText": "거대한 얼음 조각 - 얼어붙은 바다의 요리사 헬레나에게 가져가면 갈은 얼음으로 만들 수 있다. 완성된 요리가 나올 확률이 낮으니 넉넉히 50개이상은 들고가자.<br>시리우스의 눈물 - 100만실링에 판매(장난하냐...)",
+            "hintText": "Huge Ice Shard - Take it to Chef Helena in the Frozen Sea to create crushed ice<br>The chance to make it is very low so bring around 50",
             "hintImage": "shushire/RegensCookingIngredientHint1.jpg"
         },
         {
@@ -230,7 +230,7 @@
             "y": 59.062547024734215,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 29,
-            "popupText": "얼음 거미 알",
+            "popupText": "Ice Spider Egg",
             "hintImage": "shushire/LakeCookingIngredientHint1.jpg"
         },
         {
@@ -442,7 +442,7 @@
             "y": 83.76,
             "type": MarkerTypeEnum.Boss,
             "id": 58,
-            "popupText": "거대한 얼음 수정 골렘",
+            "popupText": "Giant Ice Crystal Golem",
             "hintImage": "shushire/SeaBossHint1.jpg"
         },
         {
@@ -458,7 +458,7 @@
             "y": 47.14,
             "type": MarkerTypeEnum.Boss,
             "id": 60,
-            "popupText": "거대한 항구 톱니쥐",
+            "popupText": "Giant Harbor Sawtooth Rat",
             "hintImage": "shushire/SeaBossHint3.jpg"
         },
         {
@@ -595,7 +595,7 @@
             "y": 374.32,
             "type": MarkerTypeEnum.Boss,
             "id": 80,
-            "popupText": "얼음절벽 정예 리빙아머"
+            "popupText": "Elite Ice cliff Living Armor"
         },
         {
             "x": -277.41,
@@ -642,7 +642,7 @@
             "y": 353.02,
             "type": MarkerTypeEnum.Vista,
             "id": 86,
-            "popupText": "얼음 대폭포",
+            "popupText": "Ice Waterfall",
             "hintImage": "shushire/ButterflyVistaHint1.jpg"
         },
         {
@@ -666,7 +666,7 @@
             "y": 320.65,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 89,
-            "popupText": "얼음 나비 유충",
+            "popupText": "Ice butterfly larvae",
             "hintImage": "shushire/ButterflyCookingIngredientHint1.jpg"
         },
         {

@@ -46,7 +46,7 @@
         bounds: [[-12, 259], [-122, 381]]
     });
 
-    area.registerMap("공허의 미궁", {
+    area.registerMap("Void Labyrinth", {
         type: MapTypeEnum.Dungeon,
         bounds: [[-385, 250], [-508, 383]]
     });
