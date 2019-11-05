@@ -38,7 +38,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 5,
             "hintImage": "totoiku/OceanScentBossHint3.jpg",
-            "popupText": "정의로운 하이비 정찰대"
+            "popupText": "Righteous Haibi Scouts"
         },
         {
             "x": -397.22,
@@ -46,7 +46,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 6,
             "hintImage": "totoiku/OceanScentHiddenStoryHint2.jpg",
-            "popupText": "카울의 움직이는 로카록 #1"
+            "popupText": "Cowl's moving Lokarog #1"
         },
         {
             "x": -421.48,
@@ -70,7 +70,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 9,
             "hintImage": "totoiku/OceanScentFoodIgredientHint1.jpg",
-            "popupText": "정의로운 하이비 정찰대"
+            "popupText": "Righteous Haibi Scouts"
         },
         {
             "x": -488.73,
@@ -147,7 +147,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 19,
             "hintImage": "totoiku/SweetForestVistaHint2.jpg",
-            "popupText": "해적 소굴 가는 길"
+            "popupText": "Pirate's Lair"
         },
         {
             "x": -373.1,
@@ -162,7 +162,7 @@
             "y": 332.24,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 21,
-            "popupText": "사랑의 모양 #2",
+            "popupText": "Shape of love #2",
             "hintImage": "totoiku/SweetForestHiddenStoryHint2.jpg"
         },
         {
@@ -170,7 +170,7 @@
             "y": 302.13,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 22,
-            "popupText": "사랑의 모양 #1",
+            "popupText": "Shape of love #1",
             "hintImage": "totoiku/SweetForestHiddenStoryHint3.jpg"
         },
         {
@@ -186,7 +186,7 @@
             "y": 337.74,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 24,
-            "popupText": "듬뿍듬뿍 모코코 선물세트",
+            "popupText": "Plentiful Mokoko Gift Set",
             "hintImage": "totoiku/SweetForestCookingIngredientHint1.jpg"
         },
         {
@@ -194,7 +194,7 @@
             "y": 346.98,
             "type": MarkerTypeEnum.Boss,
             "id": 25,
-            "popupText": "충성스러운 하이비 수호자",
+            "popupText": "Loyal Haibi Guardian",
             "hintImage": "totoiku/SweetForestBossHint1.jpg"
         },
         {
@@ -202,7 +202,7 @@
             "y": 335.11,
             "type": MarkerTypeEnum.Boss,
             "id": 26,
-            "popupText": "붉은 안개 해적단 정예병",
+            "popupText": "Red Mist Elite Pirate",
             "hintImage": "totoiku/SweetForestBossHint2.jpg"
         },
         {
@@ -237,7 +237,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 31,
             "hintImage": "totoiku/RockyForestBossHint1.jpg",
-            "popupText": "우두머리 붉은 부리 바위 새         바다향기 숲     모코코 마을[마을]     달콤한 숲     성큼바위 숲     침묵하는 거인의 숲     해적 소굴[던전]"
+            "popupText": "Boss Red Beak Rockbird"
         },
         {
             "x": -360.42,
@@ -245,7 +245,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 32,
             "hintImage": "totoiku/RockyForestBossHint2.jpg",
-            "popupText": "붉은 안개 순찰자"
+            "popupText": "Red Mist Ranger"
         },
         {
             "x": -333.92,
@@ -261,7 +261,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 34,
             "hintImage": "totoiku/RockyForestHiddenStoryHint1.jpg",
-            "popupText": "카울의 움직이는 로카록 #2"
+            "popupText": "Cowl's moving Lokarog #2"
         },
         {
             "x": -332.35,
@@ -269,7 +269,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 35,
             "hintImage": "totoiku/RockyForestHiddenStoryHint2.jpg",
-            "popupText": "사랑의 모양 #3"
+            "popupText": "Shape of love #3"
         },
         {
             "x": -318.91,
@@ -309,7 +309,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 40,
             "hintImage": "totoiku/RockyForestBossHint4.jpg",
-            "popupText": "붉은 안개 포격수"
+            "popupText": "Red Mist Gunner"
         },
         {
             "x": -302.09,
@@ -349,7 +349,7 @@
             "type": MarkerTypeEnum.Boss,
             "hintImage": "totoiku/SilentGiantBossHint1.jpg",
             "id": 46,
-            "popupText": "단단한 붉은 바위 페블링"
+            "popupText": "Hard Red Rock Pebbling"
         },
         {
             "x": -202.71,
@@ -373,7 +373,7 @@
             "type": MarkerTypeEnum.Boss,
             "hintImage": "totoiku/SilentGiantBossHint3.jpg",
             "id": 49,
-            "popupText": "붉은 안개 사술사"
+            "popupText": "Red Mist Witch"
         },
         {
             "x": -156.06,
@@ -400,7 +400,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 54,
             "popupText": "Eggshells of Creation",
-            "hintText": "모코코마을 요리사NPC - 수피피<br>와삭와삭 껍질 튀김 식재료",
+            "hintText": "Mokoko town Chef NPC - Supipi<br>Crunchy Fried Bark Ingredients",
             "hintImage": "totoiku/TotoikusBodyFoodIngredientHint1.jpg"
         },
         {

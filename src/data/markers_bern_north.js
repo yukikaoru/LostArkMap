@@ -264,7 +264,7 @@
             "y": 299.64,
             "type": MarkerTypeEnum.Vista,
             "id": 35,
-            "popupText": "주택가",
+            "popupText": "Residential Area",
             "hintImage": "bern/RaniaVistaHint1.jpg"
         },
         {
@@ -280,7 +280,7 @@
             "y": 298.39,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 37,
-            "popupText": "기사의 맹세",
+            "popupText": "Knight's Oath",
             "hintImage": "bern/RaniaHiddenStoryHint1.jpg"
         },
         {
@@ -288,7 +288,7 @@
             "y": 302.88,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 38,
-            "popupText": "기사의 맹세"
+            "popupText": "Knight's Oath"
         },
         {
             "x": -308.375,
@@ -304,7 +304,7 @@
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 40,
             "popupText": "Bern National Memorial",
-            "hintText": "라니아 마을 - 로이의 와인바 - NPC로이에게 구매 가능<br>18000실링",
+            "hintText": "Rania Village - Roy's Wine Bar<br>Available for purchase from NPC Roy<br>18000 shillings",
             "hintImage": "bern/RaniaCookingIngredientHint1.jpg"
         },
         {
@@ -320,8 +320,8 @@
             "y": 344.88,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 42,
-            "popupText": "프록시마 줄기, 프록시마 뿌리",
-            "hintText": "라니아 마을 요리상인NPC - 루이지아<br>프록시마 줄기, 프록시마 뿌리 구매가능<br>베른성 요리사NPC - 스텔리아<br>프록시마 샐러드, 프록시마 뿌리 완자(둘 다 절대 먹지마세요), 자연산 프록시마 외피(필드보스 프록시마가 드랍)로 요리 제작가능",
+            "popupText": "Proxima stem, Proxima root",
+            "hintText": "Rania Village - Chef NPC Luisia<br>Proxima Stem, Proxima Root available<br>Bern - Chef NPC Stella<br>Proxima Salad, Proxima Dumplings (Don't eat both) or Natural Proxima Skin (can be made with Field Boss Proxima Drop)",
             "hintImage": "bern/RaniaFoodIngredientHint1.jpg"
         },
         {
@@ -430,7 +430,7 @@
             "y": 195.62,
             "type": MarkerTypeEnum.Vista,
             "id": 57,
-            "popupText": "사령술 의식지",
+            "popupText": "Necromancer Ritual",
             "hintImage": "bern/BalancarVistaHint2.jpg"
         },
         {
@@ -438,7 +438,7 @@
             "y": 235.11,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 59,
-            "popupText": "카스릭",
+            "popupText": "Kasrik",
             "hintImage": "bern/BalancarWorldBossHint1.jpg"
         },
         {
@@ -526,14 +526,14 @@
             "y": 281.76,
             "type": MarkerTypeEnum.Boss,
             "id": 72,
-            "popupText": "능숙한 표범 사냥꾼"
+            "popupText": "Skilled Leopard Hunter"
         },
         {
             "x": -197.56,
             "y": 286.51,
             "type": MarkerTypeEnum.Boss,
             "id": 73,
-            "popupText": "우두머리 숲표범"
+            "popupText": "Boss Forest Leopard"
         },
         {
             "x": -174.94,
@@ -554,7 +554,7 @@
             "y": 303.39,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 76,
-            "popupText": "프록시마"
+            "popupText": "Proxima"
         },
         {
             "x": -214.56,
@@ -575,7 +575,7 @@
             "y": 348.12523512367113,
             "type": MarkerTypeEnum.Vista,
             "id": 79,
-            "popupText": "레인저 본부"
+            "popupText": "Ranger Headquarters"
         },
         {
             "x": -208.375,
@@ -683,7 +683,7 @@
             "y": 440.63,
             "type": MarkerTypeEnum.Boss,
             "id": 98,
-            "popupText": "오래된 드라이어드",
+            "popupText": "Elder Dryad",
             "hintImage": "bern/ParnaBossHint2.jpg"
         },
         {
@@ -707,7 +707,7 @@
             "y": 457.88,
             "type": MarkerTypeEnum.Vista,
             "id": 101,
-            "popupText": "파르나 나무",
+            "popupText": "Parna Tree",
             "hintImage": "bern/ParnaVistaHint1.jpg"
         },
         {
@@ -716,7 +716,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 102,
             "popupText": "덩굴",
-            "hintText": "베른성 요리사NPC - 스텔리아<br>발란카르 레인저식 샐러드 식재료",
+            "hintText": "Bern - Chef NPC Stelia<br>Balankar Ranger Salad Ingredients",
             "hintImage": "bern/ParnaFoodIngredientHint3.jpg"
         },
         {
@@ -725,7 +725,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 103,
             "popupText": "Goblin caught fish",
-            "hintText": "베른성 요리사NPC - 스텔리아<br>고블린의 생선 수프 식재료",
+            "hintText": "Bern - Chef NPC Stelia<br>Goblin Fish Soup Ingredients",
             "hintImage": "bern/ParnaFoodIngredientHint2.jpg"
         },
         {
@@ -733,8 +733,8 @@
             "y": 442.51,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 104,
-            "popupText": "알 수 없는 수프",
-            "hintText": "베른성 요리사NPC - 스텔리아<br>고블린의 생선 수프 식재료",
+            "popupText": "Unknown Soup",
+            "hintText": "Bern - Chef NPC Stelia<br>Goblin Fish Soup Ingredients",
             "hintImage": "bern/ParnaFoodIngredientHint1.jpg"
         },
         {
@@ -742,7 +742,7 @@
             "y": 463.57,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 105,
-            "hintText": "Play 'Minuet of the forest' (숲의 미뉴에트)",
+            "hintText": "Play 'Minuet of the forest'",
             "popupText": "Minuet of the forest"
         },
         {
@@ -889,7 +889,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 127,
             "popupText": "Pesnar Poison Mushroom",
-            "hintText": "베른성 요리사NPC - 스텔리아<br>페스나르 독버섯 전골",
+            "hintText": "Bern - Chef NPC Stelia<br>Pesnar Poisonous Mushroom Hotpot",
             "hintImage": "bern/PesnarFoodIngredientHint1.jpg"
         },
         {
@@ -897,7 +897,7 @@
             "y": 189.76,
             "type": MarkerTypeEnum.OtherStory,
             "id": 128,
-            "hintText": "Catching a messenger here will have a chance to start a quest ('Nabegal's Destiny' - '나베갈의 운명')",
+            "hintText": "Catching a messenger here will have a chance to start a quest ('Nabegal's Destiny')",
             "hintImage": "bern/PesnarOtherStoryHint1.jpg"
         },
         {

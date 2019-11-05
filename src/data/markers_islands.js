@@ -313,7 +313,7 @@
             "y": 393.5156050828553,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 44,
-            "hintText": "you have to play \"Song of Resonance\" in front of the Statue<br>\nProvides access to the 3 seeds at the right",
+            "hintText": "you have to play 'Song of Resonance' in front of the Statue<br>Provides access to the 3 seeds at the right",
             "popupText": "Song of Resonance",
             "hintImage": "islands/FugitiveInstrument1.jpg"
         },
@@ -490,7 +490,7 @@
             "y": 370.1168439292543,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 70,
-            "hintText": "오브젝트를 부수면 열림",
+            "hintText": "Opens when breaking an object",
             "hintImage": "islands/GoldenWaveSecret1.jpg"
         },
         {
@@ -728,7 +728,7 @@
             "y": 381.0160227545629,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 106,
-            "popupText": "숲의 미뉴에트",
+            "popupText": "Minuet of the forest",
             "hintImage": "islands/LushReedInstrument1.jpg"
         },
         {
@@ -757,7 +757,7 @@
             "y": 365.2964772454371,
             "type": MarkerTypeEnum.NPCFavor,
             "id": 110,
-            "popupText": "Elder Toto (토토장로)"
+            "popupText": "Elder Toto"
         },
         {
             "x": -229.7578125,
@@ -871,7 +871,7 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 126,
             "hintImage": "islands/SunflowerInstrument1.jpg",
-            "popupText": "숲의 미뉴에트"
+            "popupText": "Minuet of the forest"
         },
         {
             "x": -261.1796875,
@@ -1089,7 +1089,7 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 157,
             "hintImage": "islands/MerciaInstrument1.jpg",
-            "popupText": "숲의 미뉴에트"
+            "popupText": "Minuet of the forest"
         },
         {
             "x": -315.109375,
@@ -1343,14 +1343,14 @@
             "type": MarkerTypeEnum.SecretPassage,
             "id": 193,
             "hintImage": "islands/ForgottenSecret2.jpg",
-            "popupText": "오브젝트를 부수면 길이 열림"
+            "popupText": "Smash objects for a while to open"
         },
         {
             "x": -431.3984375,
             "y": 378.62488742795387,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 194,
-            "popupText": "레버를 당기면 길이 활성화됨",
+            "popupText": "Pull the lever for a while to activate",
             "hintImage": "islands/ForgottenSecret1.jpg"
         },
         {
@@ -1374,7 +1374,7 @@
             "y": 330.6171499759846,
             "type": MarkerTypeEnum.Mokoko,
             "id": 197,
-            "hintText": "좌측으로 들어간 첫 방 11시에서 약간 우측",
+            "hintText": "Slightly right at 11 o clock of the first room on the left",
             "hintImage": "islands/WisdomMokoko2.jpg"
         },
         {
@@ -1449,7 +1449,6 @@
             "y": 391.8671227692798,
             "type": MarkerTypeEnum.Note,
             "id": 207,
-            "hintText": "노예 매매범",
             "popupText": "Slave Trader",
             "hintImage": "islands/FugitiveSlaveHint2.jpg"
         },
@@ -1458,8 +1457,7 @@
             "y": 391.66398283142127,
             "type": MarkerTypeEnum.Note,
             "id": 208,
-            "popupText": "Aristocrat",
-            "hintText": "Aristocrat Impersonator",
+            "popupText": "Aristocrat Impersonator",
             "hintImage": "islands/FugitiveSlaveHint1.jpg"
         },
         {
@@ -1467,15 +1465,13 @@
             "y": 392.3280602692798,
             "type": MarkerTypeEnum.Note,
             "id": 209,
-            "hintText": "금고 털이범",
-            "popupText": "Safe Beater"
+            "popupText": "Safe Cracker"
         },
         {
             "x": -106.53125,
             "y": 392.2421426864245,
             "type": MarkerTypeEnum.Note,
             "id": 210,
-            "hintText": "노예 매매범",
             "popupText": "Slave Trader"
         },
         {
@@ -1483,16 +1479,14 @@
             "y": 392.14057022785215,
             "type": MarkerTypeEnum.Note,
             "id": 211,
-            "hintText": "Aristocrat Impersonator",
-            "popupText": "Aristocrat"
+            "popupText": "Aristocrat Impersonator"
         },
         {
             "x": -105.96,
             "y": 393.73,
             "type": MarkerTypeEnum.Note,
             "id": 212,
-            "hintText": "금고 털이범",
-            "popupText": "Safe Beater",
+            "popupText": "Safe Cracker",
             "hintImage": "islands/FugitiveSlaveHint3.jpg"
         },
         {
@@ -1500,23 +1494,20 @@
             "y": 394.67,
             "type": MarkerTypeEnum.Note,
             "id": 213,
-            "hintText": "Aristocrat Impersonator",
-            "popupText": "Aristocrat"
+            "popupText": "Aristocrat Impersonator"
         },
         {
             "x": -107.28,
             "y": 394.14,
             "type": MarkerTypeEnum.Note,
             "id": 214,
-            "hintText": "금고 털이범",
-            "popupText": "Safe Beater"
+            "popupText": "Safe Cracker"
         },
         {
             "x": -105.453125,
             "y": 394.9765973550032,
             "type": MarkerTypeEnum.Note,
             "id": 215,
-            "hintText": "노예 매매범",
             "popupText": "Slave Trader"
         },
         {
@@ -1524,8 +1515,7 @@
             "y": 394.8594198135755,
             "type": MarkerTypeEnum.Note,
             "id": 216,
-            "hintText": "금고 털이범",
-            "popupText": "Safe Beater"
+            "popupText": "Safe Cracker"
         },
         {
             "x": -104.5078125,
@@ -2389,7 +2379,7 @@
             "y": 342.36706742315084,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 338,
-            "popupText": "공명의 노래",
+            "popupText": "Song of Resonance",
             "hintImage": "islands/SlimeInstrumentHint1.jpg"
         },
         {
@@ -2461,8 +2451,8 @@
             "y": 405.49207492795387,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 348,
-            "popupText": "공명의 노래",
-            "hintText": "비밀길",
+            "popupText": "Song of Resonance",
+            "hintText": "Secret Path",
             "hintImage": "islands/PandaPupuInstrument1.jpg"
         },
         {
@@ -2471,7 +2461,7 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 349,
             "hintImage": "islands/PirateTownInstrument1.jpg",
-            "popupText": "공명의 노래"
+            "popupText": "Song of Resonance"
         },
         {
             "x": -356.8984375,
@@ -2716,7 +2706,7 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 384,
             "hintImage": "islands/NewMoonInstrument1.jpg",
-            "popupText": "숲의 미뉴에트"
+            "popupText": "Minuet of the forest"
         },
         {
             "x": -189,
@@ -2745,7 +2735,7 @@
             "y": 407.18,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 388,
-            "popupText": "솔 그랑데",
+            "popupText": "Sol Grande",
             "hintImage": "islands/AlteisenWorldBoss1.jpg"
         },
         {
@@ -2753,7 +2743,7 @@
             "y": 391.89053039356276,
             "type": MarkerTypeEnum.GroupQuest,
             "id": 389,
-            "popupText": "그룹 퀘스트",
+            "popupText": "Group Quest",
             "hintText": "Stat Increase Potion"
         },
         {
@@ -2790,7 +2780,7 @@
             "y": 336.3045381214149,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 394,
-            "popupText": "숲의 미뉴에트",
+            "popupText": "Minuet of the forest",
             "hintImage": "islands/ArgonInstrument1.jpg"
         },
         {
@@ -2812,7 +2802,7 @@
             "y": 324.68,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 397,
-            "hintText": "The Golden Box is in this position every 5-10 minutes\n\nOpening it will open up the secret passage",
+            "hintText": "The Golden Box is in this position every 5-10 minutes<br>Opening it will open up the secret passage",
             "hintImage": "islands/FortunaSecret1.jpg"
         },
         {
@@ -2827,7 +2817,7 @@
             "y": 356.68,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 399,
-            "hintText": "이동 시 자동으로 점프",
+            "hintText": "Jump automatically while moving",
             "hintImage": "islands/EstellaSecret1.jpg"
         },
         {
@@ -2923,7 +2913,7 @@
             "type": MarkerTypeEnum.Barter,
             "id": 411,
             "hintImage": "islands/FreedomBarter1.jpg",
-            "popupText": "검은이빨의 증표"
+            "popupText": "Black Tooth Mark"
         },
         {
             "x": -359.7,
@@ -2931,7 +2921,7 @@
             "type": MarkerTypeEnum.Barter,
             "id": 412,
             "hintImage": "islands/FreedomBarter2.jpg",
-            "popupText": "해적 암거래상"
+            "popupText": "Pirate Black Market"
         },
         {
             "x": -355.97,
@@ -2968,7 +2958,7 @@
             "y": 340.01,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 417,
-            "popupText": "공명의 노래",
+            "popupText": "Song of Resonance",
             "hintImage": "islands/OrbisInstrument1.jpg"
         },
         {
@@ -2983,7 +2973,7 @@
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 419,
             "popupText": "Hidden Quest",
-            "hintText": "보상 : 능력치 증가물약"
+            "hintText": "Reward: Stat Increase Potion"
         },
         {
             "x": -312.26,

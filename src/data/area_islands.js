@@ -292,7 +292,7 @@
     area.registerMap("Pirate Town Atlas", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Exchange 15000 Pirate Coins with 암상인",
+            "heart": "Exchange 15000 Pirate Coins with Black Market",
             "ilvl": 400
         },
         "bounds": [
@@ -381,7 +381,7 @@
     area.registerMap("Totopia", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Linked Adventure Quest: 'Totopia's Missing Case'.<br>Follow up quest from 'Totopia's Teacher for a Day'.<br>Requires reputation with 클리어로",
+            "heart": "Linked Adventure Quest: 'Totopia's Missing Case'.<br>Follow up quest from 'Totopia's Teacher for a Day'.<br>Requires reputation with Clearo",
             "ilvl": 250
         },
         "bounds": [
@@ -428,7 +428,7 @@
     area.registerMap("Pomona Island", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Adventure quest: '사나이의 순정' or  '사랑의 고민 상담'",
+            "heart": "Adventure quest: 'Man's Pure Love' or  'Love Counseling'",
             "ilvl": 250
         },
         "bounds": [
@@ -481,7 +481,7 @@
     area.registerMap("Bikini Island", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Adventure Quest: '꿈이 가득한 섬으로'",
+            "heart": "Adventure Quest: 'Island of Dreams'",
             "ilvl": 250
         },
         "bounds": [
@@ -624,7 +624,7 @@
     area.registerMap("Gravis Resort", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Adventure Quest: '궁극의 휴양'",
+            "heart": "Adventure Quest: 'Ultimate Recreation'",
             "ilvl": 250
         },
         "bounds": [
@@ -1315,7 +1315,7 @@
     area.registerMap("New Moon Island", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Life Skill: Hunting, Exchange 20 결정 (requires level 5)",
+            "heart": "Life Skill: Hunting, Exchange 20 Crystal (requires level 5)",
             "ilvl": 250,
             "entry": "3:20 / 7:20 / 11:20 / 15:20 / 19:20 / 23:20",
             "entryTimes": [
@@ -1739,7 +1739,7 @@
     area.registerMap("Broken Glacier Island", {
         "type": MapTypeEnum.Island,
         "meta": {
-            "heart": "Complete the Quest 'He is Watching' in Stern (그는 지켜보고 있다)<br>월드 퀘스트 후 페이토에서 선행 퀘스트 진행 (고요의 엘리지 획득)",
+            "heart": "Complete the Quest 'He is Watching' in Stern and then proceed to quest in Payto (Acquisition of Ally)",
             "ilvl": 270
         },
         "bounds": [

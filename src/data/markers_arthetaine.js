@@ -22,7 +22,7 @@
             "y": 64.84,
             "type": MarkerTypeEnum.Boss,
             "id": 4,
-            "popupText": "고철먹는 이새 우두머리",
+            "popupText": "Scrap Metal Bird Boss",
             "hintImage": "arthetaine/BarrenBossHint1.jpg"
         },
         {
@@ -120,7 +120,7 @@
             "y": 191.77,
             "type": MarkerTypeEnum.Vista,
             "id": 16,
-            "popupText": "대도시 전경",
+            "popupText": "Metropolis View",
             "hintImage": "arthetaine/SternVistaHint1.jpg"
         },
         {
@@ -330,8 +330,8 @@
             "y": 183.26,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 44,
-            "popupText": "진공 건조 가루 X-3",
-            "hintText": "아르데타인 요리사NPC - 만능 조리기<br>케나인 전투식량 C형 식재료",
+            "popupText": "Vacuum dry Powder X-3",
+            "hintText": "Arthetaine Chef NPC - Generalist Cook<br> Kenain Combat Food Type C Ingredients",
             "hintImage": "arthetaine/CrackedFoodIngredientHint1.jpg"
         },
         {
@@ -339,8 +339,8 @@
             "y": 196.63,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 45,
-            "popupText": "진공 건조 가루 X-1",
-            "hintText": "아르데타인 요리사NPC - 만능 조리기<br>케나인 전투식량 C형 식재료",
+            "popupText": "Vacuum dry Powder X-1",
+            "hintText": "Arthetaine Chef NPC - Generalist Cook<br> Kenain Combat Food Type C Ingredients",
             "hintImage": "arthetaine/CrackedFoodIngredientHint2.jpg"
         },
         {
@@ -372,7 +372,7 @@
             "y": 214.19,
             "type": MarkerTypeEnum.Boss,
             "id": 49,
-            "popupText": "노련한 밀거래꾼 행동 대장",
+            "popupText": "Veteran Millman Leader",
             "hintImage": "arthetaine/CrackedBossHint2.jpg"
         },
         {
@@ -387,14 +387,14 @@
             "y": 198.38,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 51,
-            "popupText": "시그나투스"
+            "popupText": "Cygnathus"
         },
         {
             "x": -167.34,
             "y": 189.82,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 52,
-            "popupText": "RGM 리포트 (Unforeseen Disaster)",
+            "popupText": "RGM Report (Unforeseen Disaster)",
             "hintImage": "arthetaine/CrackedHiddenStoryHint1.jpg"
         },
         {
@@ -423,7 +423,7 @@
             "y": 167.19,
             "type": MarkerTypeEnum.Mokoko,
             "id": 56,
-            "hintText": "Have to complete quest 'Unforeseen Disaster' (\"RGM 리포트\" near the world boss in this zone)",
+            "hintText": "Have to complete quest 'Unforeseen Disaster' ('RGM Report' near the world boss in this zone)",
             "hintImage": "arthetaine/CrackedMokokoHint4.jpg"
         },
         {
@@ -632,7 +632,7 @@
             "y": 54.51,
             "type": MarkerTypeEnum.Boss,
             "id": 87,
-            "popupText": "고독한 고라온",
+            "popupText": "Lone Garaon",
             "hintImage": "arthetaine/NebelhornBossHint1.jpg"
         },
         {
@@ -694,7 +694,7 @@
             "y": 465.13,
             "type": MarkerTypeEnum.Boss,
             "id": 96,
-            "popupText": "친위대 행정보급관",
+            "popupText": "Guard Service Officer",
             "hintImage": "arthetaine/TotrerichBossHint1.jpg"
         },
         {
@@ -800,7 +800,7 @@
             "y": 323.38,
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 112,
-            "hintText": "뷰포인트를 얻으로 갈 수 있는 선행퀘스트",
+            "hintText": "Complete earlier quests to get to the viewpoint",
             "hintImage": "arthetaine/RizaHiddenQuestHint1.jpg"
         },
         {
@@ -926,7 +926,7 @@
             "y": 274.27,
             "type": MarkerTypeEnum.Boss,
             "id": 130,
-            "popupText": "기계 군단병 프로토타입",
+            "popupText": "Machine Legionnaire Prototype",
             "hintImage": "arthetaine/WindBossHint1.jpg"
         },
         {
@@ -934,7 +934,7 @@
             "y": 303.51,
             "type": MarkerTypeEnum.Boss,
             "id": 131,
-            "popupText": "뾰족이빨 크로커다일",
+            "popupText": "Sharp Tooth Crocodile",
             "hintImage": "arthetaine/WindBossHint2.jpg"
         },
         {
@@ -1037,7 +1037,7 @@
             "id": 146,
             "hintImage": "arthetaine/HeartFoodIngredientHint1.jpg",
             "popupText": "Crater Prescription",
-            "hintText": "슈테른 요리사NPC - 만능 조리기<br>크라테르팜정 3mg 식재료"
+            "hintText": "Stern - Chef NPC Generalist cook<br>Craterpalm 3mg ingredients"
         },
         {
             "x": -58.97,
@@ -1114,7 +1114,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 158,
             "popupText": "아이히만의 노란 물약",
-            "hintText": "슈테른 요리사NPC - 만능 조리기<br>아이히만 드링크 식재료",
+            "hintText": "Stern - Chef NPC Generalist cook<br>Eichmann drink ingredients",
             "hintImage": "arthetaine/AishmanFoodIngredientHint1.jpg"
         },
         {
@@ -1123,7 +1123,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 159,
             "popupText": "아이히만의 투명 물약",
-            "hintText": "슈테른 요리사NPC - 만능 조리기<br>아이히만 드링크 재료",
+            "hintText": "Stern - Chef NPC Generalist cook<br>Eichmann drink ingredients",
             "hintImage": "arthetaine/AishmanFoodIngredientHint2.jpg"
         },
         {

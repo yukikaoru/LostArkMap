@@ -117,7 +117,7 @@
         {
             "x": -338.2178552391106,
             "y": 15.690508948330262,
-            "popupText": "하녀장의 은밀한...",
+            "popupText": "The Maid's Secret ...",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/LutheranCastleHiddenStoryHint1.jpg",
             "id": 16
@@ -220,7 +220,7 @@
         {
             "x": -349.6862816021931,
             "y": 112.47056220751709,
-            "popupText": "절벽 위에서 바라본 로나운의 생가",
+            "popupText": "View of Lonaun's Birthplace from the top of the Cliff",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/DiorikaVistaHint1.jpg",
             "id": 31
@@ -358,7 +358,7 @@
         {
             "x": -352.1563547060615,
             "y": 137.56126906659216,
-            "popupText": "호박당의 숭고한 의식",
+            "popupText": "Noble Ritual of Amber",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/SolarHiddenStoryHint1.jpg",
             "id": 50
@@ -766,7 +766,7 @@
         {
             "x": -276.9693020865062,
             "y": 282.75109416302917,
-            "popupText": "푸름의 기원#2",
+            "popupText": "Blue Origins #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/RiaHiddenStoryHint2.jpg",
             "id": 107
@@ -774,7 +774,7 @@
         {
             "x": -271.9696542796223,
             "y": 276.5020002667877,
-            "popupText": "푸름의 기원 #1",
+            "popupText": "Blue Origins #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/RiaHiddenStoryHint3.jpg",
             "id": 108
@@ -782,7 +782,7 @@
         {
             "x": -271.0005616052391,
             "y": 281.4081134964091,
-            "popupText": "푸름의 기원 #3",
+            "popupText": "Blue Origins #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/RiaHiddenStoryHint4.jpg",
             "id": 109
@@ -790,7 +790,7 @@
         {
             "x": -264.7816878617119,
             "y": 282.7211605779237,
-            "popupText": "푸름의 기원 #4",
+            "popupText": "Blue Origins #4",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/RiaHiddenStoryHint5.jpg",
             "id": 110
@@ -918,7 +918,7 @@
         {
             "x": -270.90606914407556,
             "y": 360.21716004434825,
-            "popupText": "고독한 게르드",
+            "popupText": "Lone Gerd",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/BoreaManorBossHint4.jpg",
             "id": 128
@@ -928,7 +928,7 @@
             "y": 355.7792155406176,
             "popupText": "Minuet of the Forest",
             "type": MarkerTypeEnum.PlayInstrument,
-            "hintText": "Play Minuet of the forest at this location (숲의 미뉴에트)",
+            "hintText": "Play 'Minuet of the forest' at this location",
             "hintImage": "lutheran/BoreaManorPlayInstrumentHint1.jpg",
             "id": 129
         },
@@ -1198,7 +1198,7 @@
         {
             "x": -353.65654508071884,
             "y": 419.6870554962694,
-            "popupText": "바위동굴 새우",
+            "popupText": "Rock Cave Shrimp",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "루테란성 요리사NPC - 하이드<br>최고급 해산물 스튜 식재료",
             "hintImage": "lutheran/CrocniceFoodIngredientHint2.jpg",

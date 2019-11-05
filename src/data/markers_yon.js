@@ -561,7 +561,7 @@
             "y": 342.32,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 70,
-            "title": "공명의 노래",
+            "title": "Song of Resonance",
             "hintText": "Path to hidden Mokoko opens at 2:30",
             "hintImage": "yon/CastIronInstrumentHint1.jpg"
         },
@@ -1026,7 +1026,7 @@
             "type": MarkerTypeEnum.Mokoko,
             "id": 129,
             "hintImage": "yon/ArkMokokoHint1.jpg",
-            "hintText": "비밀길#1로 이동 시 획득 가능"
+            "hintText": "Obtained by going to Secret Path #1"
         },
         {
             "x": -69.5,

@@ -160,7 +160,7 @@
         {
             "x": -408,
             "y": 418.82,
-            "popupText": "기사의 맹세",
+            "popupText": "Knight's Oath",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/ZagorasHiddenStoryHint2.jpg",
             "id": 21
@@ -344,7 +344,7 @@
             "y": 222.16,
             "popupText": "Minuet of the forest #1",
             "type": MarkerTypeEnum.PlayInstrument,
-            "hintText": "Play 'Minuet of the forest' (숲의 미뉴에트)",
+            "hintText": "Play 'Minuet of the forest'",
             "hintImage": "lutheran/LakeBarsPlayInstrumentHint1.jpg",
             "id": 45
         },
@@ -461,7 +461,7 @@
         {
             "x": -298.19,
             "y": 273.69,
-            "popupText": "광기어린 어둠의 바위",
+            "popupText": "Mad Dark Rocks",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/MedlinicBossHint1.jpg",
             "id": 62
@@ -469,7 +469,7 @@
         {
             "x": -260,
             "y": 235.82,
-            "popupText": "광기어린 정령",
+            "popupText": "Mad Spirit",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/MedlinicBossHint2.jpg",
             "id": 63
@@ -477,7 +477,7 @@
         {
             "x": -235.19,
             "y": 282.13,
-            "popupText": "우두머리 붉은 독 메뚜기 #1",
+            "popupText": "Boss Red Poison Grasshopper #1",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/MedlinicBossHint3.jpg",
             "id": 64
@@ -633,7 +633,7 @@
         {
             "x": -114.31,
             "y": 284.19,
-            "popupText": "날렵한 라쿠니",
+            "popupText": "Agile Rakuni",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/VilblinBossHint2.jpg",
             "id": 85
@@ -641,7 +641,7 @@
         {
             "x": -74.56,
             "y": 289.26,
-            "popupText": "우두머리 달빛 늑대",
+            "popupText": "Boss Moonwolf",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/VilblinBossHint3.jpg",
             "id": 86
@@ -649,7 +649,7 @@
         {
             "x": -48.25,
             "y": 226.44,
-            "popupText": "붉은손 마도사",
+            "popupText": "Red Hand Sorcerer",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/VilblinBossHint4.jpg",
             "id": 87
@@ -657,7 +657,7 @@
         {
             "x": -19.62,
             "y": 258.25,
-            "popupText": "붉은손 마도사",
+            "popupText": "Red Hand Sorcerer",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/VilblinBossHint5.jpg",
             "id": 88
@@ -790,7 +790,7 @@
         {
             "x": -85.5,
             "y": 367.31,
-            "popupText": "광기어린 정령",
+            "popupText": "Mad Spirit",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/PlainsBossHint1.jpg",
             "id": 106
@@ -798,7 +798,7 @@
         {
             "x": -85.87,
             "y": 471.32,
-            "popupText": "가려진 혼돈의 지옥개",
+            "popupText": "Shrouded Chaos Fel Dog",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/PlainsBossHint2.jpg",
             "id": 107
@@ -829,7 +829,7 @@
         {
             "x": -84.06,
             "y": 468.13,
-            "popupText": "섭정님 귀는 당나귀 귀",
+            "popupText": "Regent's ears are donkey ears",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/PlainsHiddenStoryHint2.jpg",
             "id": 111
@@ -902,7 +902,7 @@
         {
             "x": -364.37,
             "y": 86.94,
-            "popupText": "루테란 대왕비",
+            "popupText": "Lutheran Queen",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/RidgeVistaHint1.jpg",
             "id": 122
@@ -994,7 +994,7 @@
         {
             "x": -94.14,
             "y": 122.71,
-            "popupText": "광기어린 어둠의 바위",
+            "popupText": "Mad Dark Rocks",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/GrayHammerBossHint1.jpg",
             "id": 136

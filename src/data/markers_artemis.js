@@ -975,13 +975,13 @@
             "y": 235.82,
             "popupText": "Rudrick",
             "type": MarkerTypeEnum.WorldBoss,
-            "hintText": "활동범위가 매우 넓으니 공동묘지 주변을 잘 찾아보자",
+            "hintText": "The patrol area is very wide, look around the cemetery",
             "id": 110
         },
         {
             "x": -99.56,
             "y": 253.81,
-            "popupText": "끔찍한 역병충 #1",
+            "popupText": "Terrible Plague #1",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/BorderlandsBossHint1.jpg",
             "id": 111
@@ -997,7 +997,7 @@
         {
             "x": -68.69,
             "y": 241.25,
-            "popupText": "끔찍한 역병충 #2",
+            "popupText": "Terrible Plague #2",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/BorderlandsBossHint3.jpg",
             "id": 113
@@ -1005,7 +1005,7 @@
         {
             "x": -57,
             "y": 254.25,
-            "popupText": "우두머리 시체거미",
+            "popupText": "Boss Corpse Spider",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/BorderlandsBossHint4.jpg",
             "id": 114
@@ -1088,7 +1088,7 @@
         {
             "x": -427.75,
             "y": 427.88,
-            "popupText": "독발톱 도굴단 탐색가",
+            "popupText": "Poison Claw Graveyard Explorer",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/PoisonclawCaveBossHint1.jpg",
             "id": 126
@@ -1096,7 +1096,7 @@
         {
             "x": -430.5,
             "y": 407.76,
-            "popupText": "독발톱 도굴단 궁수",
+            "popupText": "Poison Claw Grave Archer",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/PoisonclawCaveBossHint2.jpg",
             "id": 127
@@ -1154,7 +1154,7 @@
         {
             "x": -295.37,
             "y": 406.63,
-            "popupText": "늙은 메라뱀",
+            "popupText": "Elder Mera Snake",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AgilothHeadBossHint2.jpg",
             "id": 136
@@ -1246,7 +1246,7 @@
         {
             "x": -81.37,
             "y": 66.82,
-            "popupText": "늙은 메라뱀",
+            "popupText": "Elder Mera Snake",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AgilothTailBossHint1.jpg",
             "id": 149
@@ -1254,7 +1254,7 @@
         {
             "x": -43.12,
             "y": 77.19,
-            "popupText": "썩어문드러진 감염자",
+            "popupText": "Rotten infected",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "artemis/AgilothTailBossHint2.jpg",
             "id": 150

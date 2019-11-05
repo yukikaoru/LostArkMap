@@ -92,7 +92,7 @@
             "y": 176.63,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 11,
-            "popupText": "모험의서 요리제작",
+            "popupText": "Adventure Cooking",
             "hintText": "Huge Ice Shard - Take it to Chef Helena in the Frozen Sea to create crushed ice<br>The chance to make it is very low so bring around 50",
             "hintImage": "shushire/RegensCookingIngredientHint1.jpg"
         },
@@ -150,7 +150,7 @@
             "y": 38.250011756183554,
             "type": MarkerTypeEnum.Vista,
             "id": 19,
-            "popupText": "벌목지 거점과 작은 폭포",
+            "popupText": "Logging Base and a small waterfall",
             "hintImage": "shushire/LakeVistaHint3.jpg"
         },
         {
@@ -197,7 +197,7 @@
             "y": 61.07,
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 25,
-            "hintText": "Play 'Minuet of the forest' (숲의 미뉴에트)",
+            "hintText": "Play 'Minuet of the forest'",
             "popupText": "Minuet of the forest",
             "hintImage": "shushire/LakePlayInstrumentHint1.jpg"
         },
@@ -317,7 +317,7 @@
             "y": 239.88,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 40,
-            "popupText": "사냥꾼의 마지막 #1",
+            "popupText": "The last Hunter #1",
             "hintImage": "shushire/PrisonHiddenStoryHint1.jpg"
         },
         {
@@ -325,7 +325,7 @@
             "y": 279.62,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 41,
-            "popupText": "사냥꾼의 마지막 #2",
+            "popupText": "The last Hunter #2",
             "hintImage": "shushire/PrisonHiddenStoryHint2.jpg"
         },
         {
@@ -450,7 +450,7 @@
             "y": 66.76,
             "type": MarkerTypeEnum.Boss,
             "id": 59,
-            "popupText": "서릿발 강도단 유기견",
+            "popupText": "Frostpaw Robber Dog",
             "hintImage": "shushire/SeaBossHint2.jpg"
         },
         {
@@ -474,7 +474,7 @@
             "y": 30.57,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 62,
-            "popupText": "오래된 통조림",
+            "popupText": "Old Canned Food",
             "hintImage": "shushire/SeaCookingIngredientHint1.jpg"
         },
         {
@@ -483,7 +483,7 @@
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 63,
             "popupText": "Skill Point Potion Quest",
-            "hintText": "Kill a rat here has a chance to drop  '낡은 목걸이' (\"Old Necklace\") which you can use to start the quest.",
+            "hintText": "Kill a rat here has a chance to drop 'Old Necklace' which you can use to start the quest.",
             "hintImage": "shushire/SeaHiddenQuest1.jpg"
         },
         {
@@ -634,7 +634,7 @@
             "y": 356.14,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 85,
-            "popupText": "사냥꾼의 마지막 #3",
+            "popupText": "The last Hunter #3",
             "hintImage": "shushire/ButterflyHidenStory1.jpg"
         },
         {
@@ -658,7 +658,7 @@
             "y": 383.39,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 88,
-            "popupText": "마네스",
+            "popupText": "Manes",
             "hintImage": "shushire/ButterflyWorldBossHint1.jpg"
         },
         {

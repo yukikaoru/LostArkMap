@@ -1657,7 +1657,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 177,
             "title": "Polar Mammoth",
-            "hintText": "2 Giena's Tears\n4000 Shilling"
+            "hintText": "2 Giena's Tears<br>4000 Shilling"
         },
         {
             "x": -113.12,
@@ -1665,7 +1665,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 178,
             "title": "Cravas",
-            "hintText": "1 Bomb Decal\n6000 Shilling"
+            "hintText": "1 Bomb Decal<br>6000 Shilling"
         },
         {
             "x": -98.75,
@@ -1673,7 +1673,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 179,
             "title": "Aurora",
-            "hintText": "5 Barkstrom Blueprints\n4000 Shilling"
+            "hintText": "5 Barkstrom Blueprints<br>4000 Shilling"
         },
         {
             "x": -207.37,
@@ -1681,7 +1681,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 180,
             "title": "Red Camel",
-            "hintText": "2 Giena's Tears\n4000 Shilling"
+            "hintText": "2 Giena's Tears<br>4000 Shilling"
         },
         {
             "x": -204.37,
@@ -1689,7 +1689,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 181,
             "title": "Dolphin",
-            "hintText": "5 Fragments of the Island\n2000 Shilling"
+            "hintText": "5 Fragments of the Island<br>2000 Shilling"
         },
         {
             "x": -183.62,
@@ -1703,7 +1703,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 183,
             "title": "North Sea Eye",
-            "hintText": "5 Fragments of the Island\n2000 Shilling"
+            "hintText": "5 Fragments of the Island<br>2000 Shilling"
         },
         {
             "x": -215.75,
@@ -1711,7 +1711,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 184,
             "title": "Moon Tower",
-            "hintText": "2 Giena's Tears\n4000 Shilling"
+            "hintText": "2 Giena's Tears<br>4000 Shilling"
         },
         {
             "x": -220.75,
@@ -1719,7 +1719,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 185,
             "title": "Forgotten Lake",
-            "hintText": "5 Fragments of the Island\n4000 Shilling"
+            "hintText": "5 Fragments of the Island<br>4000 Shilling"
         },
         {
             "x": -182,
@@ -1735,7 +1735,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 187,
             "title": "Ghost Lizard",
-            "hintText": "2 Giena's Tears\n4000 Shilling"
+            "hintText": "2 Giena's Tears<br>4000 Shilling"
         },
         {
             "x": -257.25,
@@ -1743,7 +1743,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 188,
             "title": "Colorful Parrot",
-            "hintText": "1 Small Lucky Essence\n6000 Shilling"
+            "hintText": "1 Small Lucky Essence<br>6000 Shilling"
         },
         {
             "x": -233.12,
@@ -1751,7 +1751,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 189,
             "title": "Star Fruit",
-            "hintText": "2 Giena's Tears\n4000 Shilling"
+            "hintText": "2 Giena's Tears<br>4000 Shilling"
         },
         {
             "x": -230.87,
@@ -1767,7 +1767,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 191,
             "title": "Mandrel",
-            "hintText": "1 Small Lucky Essence\n6000 Shilling"
+            "hintText": "1 Small Lucky Essence<br>6000 Shilling"
         },
         {
             "x": -279.25,
@@ -1783,7 +1783,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 193,
             "title": "Dolmen",
-            "hintText": "5 Fragments of the Island\n2000 Shilling"
+            "hintText": "5 Fragments of the Island<br>2000 Shilling"
         },
         {
             "x": -254.5,
@@ -1799,7 +1799,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 195,
             "title": "Magic Circle",
-            "hintText": "1 Ancient Manastone\n4000 Shilling"
+            "hintText": "1 Ancient Manastone<br>4000 Shilling"
         },
         {
             "x": -250.87,
@@ -1807,7 +1807,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 196,
             "title": "Sea Flower",
-            "hintText": "5 Fragments of the Island\n4000 Shilling"
+            "hintText": "5 Fragments of the Island<br>4000 Shilling"
         },
         {
             "x": -235,
@@ -1815,7 +1815,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 197,
             "title": "Rama",
-            "hintText": "5 Fragments of the Island\n2000 Shilling"
+            "hintText": "5 Fragments of the Island<br>2000 Shilling"
         },
         {
             "x": -224.62,
@@ -1831,7 +1831,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 199,
             "title": "Swirl",
-            "hintText": "5 Fragments of the Island\n2000 Shilling"
+            "hintText": "5 Fragments of the Island<br>2000 Shilling"
         },
         {
             "x": -353.37,
@@ -1847,7 +1847,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 201,
             "title": "Divine Window",
-            "hintText": "1 SG7 Core\n4000 Shilling"
+            "hintText": "1 SG7 Core<br>4000 Shilling"
         },
         {
             "x": -306.12,
@@ -1855,7 +1855,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 202,
             "title": "Ship of Toe Torque",
-            "hintText": "Estor Blueprint Chapter 5\n2000 Shilling"
+            "hintText": "Estor Blueprint Chapter 5<br>2000 Shilling"
         },
         {
             "x": -297.12,
@@ -1863,7 +1863,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 203,
             "title": "Mokoko Mushroom",
-            "hintText": "5 Fragments of the Island\n2000 Shilling"
+            "hintText": "5 Fragments of the Island<br>2000 Shilling"
         },
         {
             "x": -294.75,
@@ -1871,7 +1871,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 204,
             "title": "Ghost Stingray",
-            "hintText": "2 Drifting Souls\n6000 Shilling"
+            "hintText": "2 Drifting Souls<br>6000 Shilling"
         },
         {
             "x": -349.87,
@@ -1886,7 +1886,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 206,
             "title": "Dragon",
-            "hintText": "1 Small Lucky Essence\n6000 Shilling"
+            "hintText": "1 Small Lucky Essence<br>6000 Shilling"
         },
         {
             "x": -392.5,
@@ -1894,7 +1894,7 @@
             "type": MarkerTypeEnum.AdventureStory,
             "id": 207,
             "title": "South Sea's Eye",
-            "hintText": "1 Awakening Card Material\n4000 Shilling"
+            "hintText": "1 Awakening Card Material<br>4000 Shilling"
         }
     ];
 

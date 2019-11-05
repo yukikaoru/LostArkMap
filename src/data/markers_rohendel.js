@@ -7,7 +7,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 0,
             "hintImage": "rohendel/SilverLakeVista1.jpg",
-            "popupText": "무지개 다리"
+            "popupText": "Rainbow Bridge"
         },
         {
             "x": -352.62,
@@ -57,7 +57,7 @@
             "y": 462.61,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 7,
-            "popupText": "맛집의 비밀#1",
+            "popupText": "Restaurant Secrets #1",
             "hintImage": "rohendel/SilverLakeStory1.jpg"
         },
         {
@@ -65,7 +65,7 @@
             "y": 457.49,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 8,
-            "popupText": "맛집의 비밀#2",
+            "popupText": "Restaurant Secrets #2",
             "hintImage": "rohendel/SilverLakeStory2.jpg"
         },
         {
@@ -73,7 +73,7 @@
             "y": 455.55,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 9,
-            "title": "비밀길-매력250",
+            "title": "Secret Path - 250 Charm",
             "hintImage": "rohendel/SilverLakeSecret1.jpg"
         },
         {
@@ -101,7 +101,7 @@
             "y": 468.62,
             "type": MarkerTypeEnum.Vista,
             "id": 13,
-            "popupText": "Shilling Residence",
+            "popupText": "Cilin Residence",
             "hintImage": "rohendel/SilverLakeVista2.jpg"
         },
         {
@@ -117,7 +117,7 @@
             "y": 416.92,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 15,
-            "popupText": "맛집의 비밀#4",
+            "popupText": "Restaurant Secrets #4",
             "hintImage": "rohendel/SilverLakeStory3.jpg"
         },
         {
@@ -174,7 +174,7 @@
             "type": MarkerTypeEnum.SecretPassage,
             "id": 22,
             "hintImage": "rohendel/SilverLakeSecret2.jpg",
-            "popupText": "비밀길-담력250"
+            "popupText": "Secret Path - 250 Courage"
         },
         {
             "x": -278.25,
@@ -276,8 +276,8 @@
             "y": 329.64,
             "type": MarkerTypeEnum.Mokoko,
             "id": 38,
-            "popupText": "영원의 노래 필요",
-            "hintText": "달콤한 허니버터 맥주를 먹었을 시\n오브젝트 활성화"
+            "popupText": "'Song of Eternity' required",
+            "hintText": "달콤한 허니버터 맥주를 먹었을 시<br>오브젝트 활성화"
         },
         {
             "x": -180,
@@ -323,7 +323,7 @@
             "y": 338.88,
             "type": MarkerTypeEnum.Mokoko,
             "id": 45,
-            "hintText": "영원의 노래 필요"
+            "hintText": "'Song of Eternity' required"
         },
         {
             "x": -182.75,
@@ -408,7 +408,7 @@
             "y": 175.38,
             "type": MarkerTypeEnum.Mokoko,
             "id": 54,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -217.19,
@@ -423,14 +423,14 @@
             "y": 164.88,
             "type": MarkerTypeEnum.Mokoko,
             "id": 56,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -209.31,
             "y": 189.19,
             "type": MarkerTypeEnum.Vista,
             "id": 57,
-            "popupText": "물소리 마을",
+            "popupText": "Water Village",
             "hintImage": "rohendel/GlassLotusLakeVista1.jpg"
         },
         {
@@ -463,7 +463,7 @@
             "y": 174.69,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 61,
-            "popupText": "우리 할아버지 이야기",
+            "popupText": "My Grandfather's Story",
             "hintImage": "rohendel/GlassLotusLakeHiddenStory1.jpg"
         },
         {
@@ -540,7 +540,7 @@
             "type": MarkerTypeEnum.HiddenQuest,
             "id": 72,
             "popupText": "Hidden Book - Charm of the Forest",
-            "hintText": "선행퀘스트 있습니다.",
+            "hintText": "There is a prerequisite quest",
             "hintImage": "rohendel/GlassLotusLakeOtherStory2.jpg"
         },
         {
@@ -565,7 +565,7 @@
             "y": 189.19,
             "type": MarkerTypeEnum.Mokoko,
             "id": 75,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -351.87,
@@ -596,7 +596,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 79,
             "popupText": "사로잡힌 두키의 눈물",
-            "hintText": "약 5분간격으로 리젠되는\n\n두키를 처치 시 일정확률로 획득 가능",
+            "hintText": "약 5분간격으로 리젠되는<br>두키를 처치 시 일정확률로 획득 가능",
             "hintImage": "rohendel/WindScentHillFood1.jpg"
         },
         {
@@ -604,7 +604,7 @@
             "y": 189.44,
             "type": MarkerTypeEnum.Boss,
             "id": 80,
-            "popupText": "우두머리 날개의 정령",
+            "popupText": "Boss Winged Spirit",
             "hintImage": "rohendel/WindScentHillBoss1.jpg"
         },
         {
@@ -640,7 +640,7 @@
             "y": 186.63,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 85,
-            "popupText": "비밀길",
+            "popupText": "Secret Path",
             "hintImage": "rohendel/WindScentHillSecret1.jpg"
         },
         {
@@ -700,7 +700,7 @@
             "y": 113.38,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 93,
-            "popupText": "몽환이 부른 노래#1",
+            "popupText": "A Dream Song #1",
             "hintImage": "rohendel/DevastatedJannaHiddenStory1.jpg"
         },
         {
@@ -729,7 +729,7 @@
             "y": 51.2,
             "type": MarkerTypeEnum.Mokoko,
             "id": 97,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -350.87,
@@ -773,7 +773,7 @@
             "y": 53.45,
             "type": MarkerTypeEnum.Mokoko,
             "id": 103,
-            "hintText": "영원의 노래 필요\n\n실외입니다"
+            "hintText": "'Song of Eternity' required<br>Outdoors"
         },
         {
             "x": -318.5,
@@ -795,8 +795,8 @@
             "y": 55.14,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 106,
-            "popupText": "몽환이 부른 노래#2",
-            "hintText": "달의 탑 하층부",
+            "popupText": "A Dream Song #2",
+            "hintText": "Lower Tower of the Moon",
             "hintImage": "rohendel/DevastatedJannaHiddenStory4.jpg"
         },
         {
@@ -842,7 +842,7 @@
             "y": 73.26,
             "type": MarkerTypeEnum.Boss,
             "id": 112,
-            "popupText": "되살아난 제나일 실린",
+            "popupText": "Resurrected Jenail Cilin",
             "hintImage": "rohendel/DevastatedJannaBoss3.jpg"
         },
         {
@@ -878,7 +878,7 @@
             "y": 27.26,
             "type": MarkerTypeEnum.Mokoko,
             "id": 116,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -307.44,
@@ -909,7 +909,7 @@
             "y": 304.32,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 120,
-            "popupText": "맛집의 비밀#3",
+            "popupText": "Restaurant Secrets #3",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory1.jpg"
         },
         {
@@ -925,7 +925,7 @@
             "y": 311.25,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 122,
-            "popupText": "마법 달팽이",
+            "popupText": "Magic Snail",
             "hintImage": "rohendel/ElzowinsShadowFood1.jpg"
         },
         {
@@ -949,21 +949,21 @@
             "y": 312.25,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 125,
-            "popupText": "마법 달팽이"
+            "popupText": "Magic Snail"
         },
         {
             "x": -78.62,
             "y": 326.88,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 126,
-            "popupText": "마법 달팽이"
+            "popupText": "Magic Snail"
         },
         {
             "x": -71.62,
             "y": 336,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 127,
-            "popupText": "마법 달팽이"
+            "popupText": "Magic Snail"
         },
         {
             "x": -70.25,
@@ -984,14 +984,14 @@
             "y": 340.44,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 130,
-            "popupText": "마법 달팽이"
+            "popupText": "Magic Snail"
         },
         {
             "x": -27.75,
             "y": 346.07,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 131,
-            "popupText": "마법 달팽이"
+            "popupText": "Magic Snail"
         },
         {
             "x": -30.19,
@@ -1004,7 +1004,7 @@
             "y": 335.63,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 133,
-            "popupText": "마법 달팽이"
+            "popupText": "Magic Snail"
         },
         {
             "x": -40.37,
@@ -1019,7 +1019,7 @@
             "y": 311.14,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 135,
-            "popupText": "Shilling Hunter #1",
+            "popupText": "Cilin Hunter #1",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory3.jpg"
         },
         {
@@ -1055,7 +1055,7 @@
             "y": 314.2,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 140,
-            "popupText": "Shilling Hunter #2",
+            "popupText": "Cilin Hunter #2",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory4.jpg"
         },
         {
@@ -1063,7 +1063,7 @@
             "y": 313.32,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 141,
-            "popupText": "Shilling Hunter #3",
+            "popupText": "Cilin Hunter #3",
             "hintImage": "rohendel/ElzowinsShadowHiddenStory5.jpg"
         },
         {
@@ -1078,7 +1078,7 @@
             "y": 304.83,
             "type": MarkerTypeEnum.Mokoko,
             "id": 143,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -53.12,
@@ -1101,7 +1101,7 @@
             "y": 284.95,
             "type": MarkerTypeEnum.Mokoko,
             "id": 146,
-            "popupText": "영원의 노래 필요"
+            "popupText": "'Song of Eternity' required"
         },
         {
             "x": -64.25,

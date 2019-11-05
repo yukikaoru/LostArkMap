@@ -95,7 +95,7 @@
         {
             "x": -417.87,
             "y": 420.7,
-            "popupText": "불길한 예언",
+            "popupText": "Ominous Prophecy",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint2.jpg",
             "id": 13
@@ -103,7 +103,7 @@
         {
             "x": -417.56,
             "y": 438.76,
-            "popupText": "태양소금 사탕 #2-1",
+            "popupText": "Solar Salty Candy #2-1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint3.jpg",
             "id": 14
@@ -119,7 +119,7 @@
         {
             "x": -339.81,
             "y": 427.82,
-            "title": "토도도가 #4",
+            "title": "Tododo Street #4",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint5.jpg",
             "id": 16
@@ -127,7 +127,7 @@
         {
             "x": -332.87,
             "y": 412.64,
-            "title": "토도도가 #3",
+            "title": "Tododo Street #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint6.jpg",
             "id": 17
@@ -135,7 +135,7 @@
         {
             "x": -315.56,
             "y": 418.01,
-            "title": "토도도가 #2",
+            "title": "Tododo Street #2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint7.jpg",
             "id": 18
@@ -143,7 +143,7 @@
         {
             "x": -315.06,
             "y": 434.45,
-            "title": "토도도가 #1",
+            "title": "Tododo Street #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint8.jpg",
             "id": 19
@@ -151,7 +151,7 @@
         {
             "x": -325.94,
             "y": 426.76,
-            "title": "태양소금 사탕 #1",
+            "title": "Solar Salty Candy #1",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint9.jpg",
             "id": 20
@@ -167,7 +167,7 @@
         {
             "x": -331.44,
             "y": 448.01,
-            "title": "이름의 유래",
+            "title": "Origin of the Name",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint11.jpg",
             "id": 22
@@ -175,7 +175,7 @@
         {
             "x": -329.56,
             "y": 445.57,
-            "title": "태양소금 사탕 #3",
+            "title": "Solar Salty Candy #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint12.jpg",
             "id": 23
@@ -183,7 +183,7 @@
         {
             "x": -322.37,
             "y": 446.76,
-            "title": "태양소금 사탕 #2-2",
+            "title": "Solar Salty Candy #2-2",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint13.jpg",
             "id": 24
@@ -207,7 +207,7 @@
         {
             "x": -421.19,
             "y": 457,
-            "popupText": "소금 과자",
+            "popupText": "Salty Sweets",
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "yudia/SalandCookingIngredientHint2.jpg",
             "id": 27
@@ -215,7 +215,7 @@
         {
             "x": -338.37,
             "y": 466.2,
-            "popupText": "소금벌레 소금구이",
+            "popupText": "Salt-grilled Salt Bug",
             "type": MarkerTypeEnum.CookingIngredient,
             "hintImage": "yudia/SalandCookingIngredientHint3.jpg",
             "id": 28
@@ -223,18 +223,18 @@
         {
             "x": -330.62,
             "y": 446.76,
-            "popupText": "남은 기우제 음식",
+            "popupText": "Leftover Food",
             "type": MarkerTypeEnum.CookingIngredient,
-            "hintText": "살란드 구릉지 NPC - 소금사막의 천둥<br>호감도 신뢰 달성 시 식재료 획득 가능",
+            "hintText": "Saland Hills - NPC Salt Desert Thunder<br>you can acquire ingredients when you achieve good standing",
             "hintImage": "yudia/SalandCookingIngredientHint4.jpg",
             "id": 29
         },
         {
             "x": -305.44,
             "y": 485.06,
-            "popupText": "소금 웜 똥",
+            "popupText": "Salt Worm Poop",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "살란드 구릉지 요리사NPC - 헬라<br>웜 똥 커피 식재료",
+            "hintText": "Saland Hills - Chef NPC - Hella<br>worm poop coffee ingredients",
             "hintImage": "yudia/SalandFoodIngredientHint1.jpg",
             "id": 30
         },
@@ -249,7 +249,7 @@
         {
             "x": -412.12,
             "y": 400.07,
-            "popupText": "소금사막 도적단 투사 #1",
+            "popupText": "Salt Desert Rogue Fighter",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint2.jpg",
             "id": 32
@@ -265,7 +265,7 @@
         {
             "x": -342.69,
             "y": 420.95,
-            "popupText": "날카로운 왈루 선인장",
+            "popupText": "Spiky Walu Cactus",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint4.jpg",
             "id": 34
@@ -273,7 +273,7 @@
         {
             "x": -344.56,
             "y": 446.44,
-            "popupText": "단단한 소금벌레",
+            "popupText": "Hard Salt Bug",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint5.jpg",
             "id": 35
@@ -281,7 +281,7 @@
         {
             "x": -342.94,
             "y": 501.87,
-            "popupText": "소금사막 도적단 투사",
+            "popupText": "Salt Desert Rogue Fighter",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SalandBossHint6.jpg",
             "id": 36
@@ -313,7 +313,7 @@
         {
             "x": -333.5,
             "y": 457.44,
-            "popupText": "소금거인",
+            "popupText": "Salt Giant",
             "type": MarkerTypeEnum.WorldBoss,
             "hintImage": "yudia/SalandWorldBossHint1.jpg",
             "id": 40
@@ -321,7 +321,7 @@
         {
             "x": -401.25,
             "y": 433.57,
-            "popupText": "소금 작업장",
+            "popupText": "Salt Workshop",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "yudia/SalandVistaHint1.jpg",
             "id": 41
@@ -337,7 +337,7 @@
         {
             "x": -357,
             "y": 459.94,
-            "popupText": "그룹 퀘스트",
+            "popupText": "Group Quest",
             "type": MarkerTypeEnum.GroupQuest,
             "hintText": "Reward: permanent stat increase",
             "hintImage": "yudia/SalandGroupQuestHint1.jpg",
@@ -346,7 +346,7 @@
         {
             "x": -323.81,
             "y": 444.13,
-            "popupText": "소금사막의 천둥",
+            "popupText": "Salt Desert Thunder",
             "type": MarkerTypeEnum.NPCFavor,
             "hintText": "Fragment of time x3 (Card)<br>Thunder (Card)<br>Materials for Rain Ritual (Adventure Book) / Kindness increase Potion",
             "hintImage": "yudia/SalandNPCFavorHint1.jpg",
@@ -432,7 +432,7 @@
         {
             "x": -158.5,
             "y": 174.51,
-            "popupText": "아름다운 현혹의 주술사",
+            "popupText": "Beautiful Deceiving Shaman",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/OzhornBossHint1.jpg",
             "id": 56
@@ -440,7 +440,7 @@
         {
             "x": -235.37,
             "y": 198.26,
-            "popupText": "강력한 웜주먹",
+            "popupText": "Powerful Fistworm",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/OzhornBossHint2.jpg",
             "id": 57
@@ -456,7 +456,7 @@
         {
             "x": -262,
             "y": 261.76,
-            "popupText": "날카로운 왈루 선인장",
+            "popupText": "Spiky Walu Cactus",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/OzhornBossHint4.jpg",
             "id": 59
@@ -464,7 +464,7 @@
         {
             "x": -197.62,
             "y": 353.99,
-            "popupText": "되살아난 피그미족 족장",
+            "popupText": "Resurrected Pygmy Chief",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/OzhornBossHint5.jpg",
             "id": 60
@@ -498,7 +498,7 @@
             "y": 320.5,
             "popupText": "Old Kabatian Food Box",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "살란드 구릉지 요리사NPC - 헬라<br>소금이 가득찬 식량 상자 식재료",
+            "hintText": "Saland Hills - Chef NPC - Hella<br>Salty Provision Box ingredients",
             "hintImage": "yudia/OzhornFoodIngredientHint1.jpg",
             "id": 64
         },
@@ -601,7 +601,7 @@
         {
             "x": -176.5,
             "y": 57.14,
-            "popupText": "되살아난 피그미족 족장",
+            "popupText": "Resurrected Pygmy Chief",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/SapiraBossHint3.jpg",
             "id": 79
@@ -625,7 +625,7 @@
             "y": 99.63,
             "popupText": "Veiled Kabatian Bottle",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "살란드 구릉지 요리사NPC - 헬라<br>카바티안의 오래된 술 식재료",
+            "hintText": "Saland Hills - Chef NPC - Hella<br>Kabatian old wine ingredients",
             "hintImage": "yudia/SapiraFoodIngredientHint1.jpg",
             "id": 82
         },
@@ -717,7 +717,7 @@
         {
             "x": -411.25,
             "y": 286.07,
-            "popupText": "우두머리 모라이 주술사 토병",
+            "popupText": "Boss Moray Shaman Native",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/MoraiBossHint1.jpg",
             "id": 95
@@ -725,7 +725,7 @@
         {
             "x": -390,
             "y": 323.19,
-            "popupText": "외로운 모라이 전사 토병",
+            "popupText": "Lone Moray Warrior Native",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "yudia/MoraiBossHint2.jpg",
             "id": 96

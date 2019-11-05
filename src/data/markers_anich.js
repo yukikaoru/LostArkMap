@@ -15,7 +15,7 @@
             "type": MarkerTypeEnum.Vista,
             "hintImage": "anich/ChangchunVistaHint2.jpg",
             "id": 1,
-            "popupText": "무투 대회장"
+            "popupText": "Mutu Conference Hall"
         },
         {
             "x": -497.8,
@@ -59,7 +59,7 @@
             "hintImage": "anich/ChangchunCookingIngredientHint2.jpg",
             "id": 7,
             "popupText": "Perfect sugar craft",
-            "hintText": "공보에게 설탕을 사서 우클릭을 하다보면<br>아주 낮은 확률로 완벽한 설탕 공예가 나온다."
+            "hintText": "If you buy Sugar and right click it there is a small chance to create Perfect Sugar"
         },
         {
             "x": -468.85,
@@ -221,7 +221,7 @@
             "y": 118.93,
             "type": MarkerTypeEnum.Vista,
             "id": 33,
-            "popupText": "폐가",
+            "popupText": "Deserted House",
             "hintImage": "anich/WisteriaHillsVistaHint2.jpg"
         },
         {
@@ -260,7 +260,7 @@
             "y": 125.84,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 38,
-            "popupText": "사모의 감정이란 #1",
+            "popupText": "Emotions of Desire #1",
             "hintImage": "anich/WisteriaHillsHiddenStoryHint2.jpg"
         },
         {
@@ -299,7 +299,7 @@
             "type": MarkerTypeEnum.PlayInstrument,
             "id": 43,
             "popupText": "Minuet of the forest",
-            "hintText": "Play 'Minuet of the forest' (숲의 미뉴에트)",
+            "hintText": "Play 'Minuet of the forest'",
             "hintImage": "anich/WisteriaHillsPlayInstrumentHint1.jpg"
         },
         {
@@ -342,7 +342,7 @@
             "y": 139.72,
             "type": MarkerTypeEnum.Vista,
             "id": 50,
-            "popupText": "공명의 샘",
+            "popupText": "Fountain of Resonance",
             "hintImage": "anich/SoundVistaHint2.jpg"
         },
         {
@@ -426,7 +426,7 @@
             "y": 134.91,
             "type": MarkerTypeEnum.Boss,
             "id": 62,
-            "popupText": "살아난 시체병사",
+            "popupText": "Resurrected Soldier",
             "hintImage": "anich/SoundBossHint2.jpg"
         },
         {
@@ -484,7 +484,7 @@
             "y": 130.5,
             "type": MarkerTypeEnum.Boss,
             "id": 72,
-            "popupText": "단단한 무덤돌",
+            "popupText": "Hard Gravestone",
             "hintImage": "anich/TwilightBossHint1.jpg"
         },
         {
@@ -595,7 +595,7 @@
             "y": 129.86,
             "type": MarkerTypeEnum.Boss,
             "id": 87,
-            "popupText": "악명높은 적의술사",
+            "popupText": "Notorious Enemy Shaman",
             "hintImage": "anich/TwilightBossHint2.jpg"
         },
         {
@@ -603,7 +603,7 @@
             "y": 142.92,
             "type": MarkerTypeEnum.Boss,
             "id": 88,
-            "popupText": "단단한 비조",
+            "popupText": "Hard Flying Bird",
             "hintImage": "anich/TwilightBossHint3.jpg"
         },
         {
@@ -667,7 +667,7 @@
             "y": 63.44,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 98,
-            "popupText": "사모의 감정이란 #3",
+            "popupText": "Emotions of Desire #3",
             "hintImage": "anich/MirrorHiddenStoryHint1.jpg"
         },
         {
@@ -748,8 +748,8 @@
             "y": 210.35,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 109,
-            "popupText": "비밀장소 필독",
-            "hintText": "1번 스크린샷 - 4방위 적들을 모두 처치<br>2번 스크린샷 - 부술수 없던 짐마차가 부술 수 있는 상태로 변경",
+            "popupText": "See Hint Test how to Access",
+            "hintText": "Kill all 4 Enemies<br>The Wagon can now be broken",
             "hintImage": "anich/YanSecretHint2.jpg"
         },
         {
@@ -757,7 +757,7 @@
             "y": 208.98,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 110,
-            "popupText": "봉인된 특제 양념",
+            "popupText": "Sealed Special Seasoning",
             "hintText": "항구도시 창천 요리사NPC - 소빈<br>연가문 비전의 양념 요리 식재료",
             "hintImage": "anich/YanFoodIngredientHint1.jpg"
         },
@@ -896,7 +896,7 @@
             "y": 234.02,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 129,
-            "popupText": "전설의 비법서",
+            "popupText": "Legendary Secret Book",
             "hintText": "항구도시 창천 요리사NPC - 소빈<br>경계를 초월한 탕 식재료",
             "hintImage": "anich/BoundaryFoodIngredientHint1.jpg"
         },
