@@ -1103,7 +1103,7 @@
             "y": 327.16522574447646,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 159,
-            "popupText": "오브젝트를 파괴하면 길이 열림",
+            "popupText": "Path opens after destroying the objects",
             "hintImage": "islands/BoomBlingSecret1.jpg"
         },
         {
@@ -1398,7 +1398,7 @@
             "y": 331.49238262487995,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 200,
-            "popupText": "우측 방 가는 곳",
+            "popupText": "Right Room",
             "hintImage": "islands/WisdomSecret2.jpg"
         },
         {
@@ -2683,7 +2683,7 @@
             "y": 235.30458293499044,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 381,
-            "hintText": "이 곳에 있는 돌을 부수면 모코코로 진입가능",
+            "hintText": "Destroy the Stone here to access the Mococo",
             "hintImage": "islands/MedeaSecret1.jpg"
         },
         {
@@ -2751,7 +2751,7 @@
             "y": 390.4060956421287,
             "type": MarkerTypeEnum.TreasureBox,
             "id": 390,
-            "popupText": "보물 상자"
+            "popupText": "Treasure Box"
         },
         {
             "x": -105.71875,
@@ -2889,7 +2889,7 @@
             "y": 394.11,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 408,
-            "hintText": "바리게이트를 부수면 길 활성화",
+            "hintText": "Path can be activated by breaking the barricade",
             "hintImage": "islands/ForpeSecret3.jpg"
         },
         {

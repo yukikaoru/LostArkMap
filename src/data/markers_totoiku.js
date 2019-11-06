@@ -14,7 +14,7 @@
             "y": 347.78,
             "type": MarkerTypeEnum.Notice,
             "id": 2,
-            "popupText": "토토이크는 모코코가 없습니다."
+            "popupText": "There are no Mococo seeds on Totoiku"
         },
         {
             "x": -464.87,
@@ -138,7 +138,7 @@
             "y": 318.62,
             "type": MarkerTypeEnum.Vista,
             "id": 18,
-            "popupText": "수직 순환식 엘리베이터",
+            "popupText": "Vertical circular Elevator",
             "hintImage": "totoiku/SweetForestVistaHint1.jpg"
         },
         {
@@ -210,7 +210,7 @@
             "y": 314.13,
             "type": MarkerTypeEnum.Boss,
             "id": 27,
-            "popupText": "사나운 멘티스",
+            "popupText": "Ferocious Mantis",
             "hintImage": "totoiku/SweetForestBossHint3.jpg"
         },
         {
@@ -218,7 +218,7 @@
             "y": 322.5,
             "type": MarkerTypeEnum.Boss,
             "id": 28,
-            "popupText": "매우 사나운 까마귀",
+            "popupText": "Very ferocious crow",
             "hintImage": "totoiku/SweetForestBossHint4.jpg"
         },
         {
@@ -333,7 +333,7 @@
             "type": MarkerTypeEnum.Boss,
             "id": 43,
             "hintImage": "totoiku/RockyForestBossHint5.jpg",
-            "popupText": "깨어난 플라피"
+            "popupText": "Waking up Flappy"
         },
         {
             "x": -216.56,
@@ -365,7 +365,7 @@
             "type": MarkerTypeEnum.Vista,
             "hintImage": "totoiku/SilentGiantVistaHint1.jpg",
             "id": 48,
-            "popupText": "토토이크의 손"
+            "popupText": "Hand of Totoiku"
         },
         {
             "x": -138.13,

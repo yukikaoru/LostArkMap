@@ -7,7 +7,7 @@
             "type": MarkerTypeEnum.Vista,
             "hintImage": "anich/ChangchunVistaHint1.jpg",
             "id": 0,
-            "popupText": "수로"
+            "popupText": "Channel"
         },
         {
             "x": -473.54,
@@ -192,7 +192,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 29,
             "popupText": "Deer hooves",
-            "hintText": "항구도시 창천 요리사NPC - 소빈<br>사슴 뒷발굽 전골 식재료"
+            "hintText": "Port City Changchun - Chef NPC Sobin<br>Deer Hoof Hot Pot ingredients"
         },
         {
             "x": -398.54,
@@ -229,7 +229,7 @@
             "y": 113.75,
             "type": MarkerTypeEnum.Boss,
             "id": 34,
-            "popupText": "뒤틀린 사술사의 유령",
+            "popupText": "Twisted Hexxer's Ghost",
             "hintImage": "anich/WisteriaHillsBossHint2.jpg"
         },
         {
@@ -237,7 +237,7 @@
             "y": 106.31,
             "type": MarkerTypeEnum.Boss,
             "id": 35,
-            "popupText": "뒤틀린 사술사의 유령",
+            "popupText": "Twisted Hexxer's Ghost",
             "hintImage": "anich/WisteriaHillsBossHint3.jpg"
         },
         {
@@ -252,7 +252,7 @@
             "y": 125.43,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 37,
-            "popupText": "십 년 뒤의 너에게",
+            "popupText": "Ten years later for you",
             "hintImage": "anich/WisteriaHillsHiddenStoryHint1.jpg"
         },
         {
@@ -350,7 +350,7 @@
             "y": 102.49,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 51,
-            "popupText": "적가문 계승 단약",
+            "popupText": "Enemy Line Succession",
             "hintImage": "anich/SoundCookingIngredientHint1.jpg",
             "title": "Vista"
         },
@@ -434,7 +434,7 @@
             "y": 143.53,
             "type": MarkerTypeEnum.Boss,
             "id": 63,
-            "popupText": "승천에 실패한 이무기",
+            "popupText": "Failed Ascended Weapon",
             "hintImage": "anich/SoundBossHint3.jpg"
         },
         {
@@ -621,7 +621,7 @@
             "y": 66.01,
             "type": MarkerTypeEnum.Boss,
             "id": 92,
-            "popupText": "바람여우 우두머리",
+            "popupText": "Boss Windfox",
             "hintImage": "anich/MirrorBossHint1.jpg"
         },
         {
@@ -758,7 +758,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 110,
             "popupText": "Sealed Special Seasoning",
-            "hintText": "항구도시 창천 요리사NPC - 소빈<br>연가문 비전의 양념 요리 식재료",
+            "hintText": "Port City Changchun - Chef NPC Sobin<br>Seasonal Spice Cooking ingredients",
             "hintImage": "anich/YanFoodIngredientHint1.jpg"
         },
         {
@@ -897,7 +897,7 @@
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 129,
             "popupText": "Legendary Secret Book",
-            "hintText": "항구도시 창천 요리사NPC - 소빈<br>경계를 초월한 탕 식재료",
+            "hintText": "Port City Changchun - Chef NPC Sobin<br>Guard Hot Meal ingredients",
             "hintImage": "anich/BoundaryFoodIngredientHint1.jpg"
         },
         {
@@ -1051,7 +1051,7 @@
             "y": 71.78,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 151,
-            "popupText": "세상의 모습",
+            "popupText": "View of the World",
             "hintImage": "anich/DelphiHiddenStoryHint1.jpg"
         },
         {

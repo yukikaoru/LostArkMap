@@ -112,7 +112,7 @@
         {
             "x": -419.5,
             "y": 453.94,
-            "popupText": "우두머리 갈기 호랑이",
+            "popupText": "Boss Mane Tiger",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/ZagorasBossHint2.jpg",
             "id": 15
@@ -334,7 +334,7 @@
         {
             "x": -456,
             "y": 246.28,
-            "popupText": "루테란의 보부상",
+            "popupText": "Lutheran Peddler",
             "type": MarkerTypeEnum.OtherStory,
             "hintImage": "lutheran/LakeBarsOtherStoryHint1.jpg",
             "id": 44
@@ -351,7 +351,7 @@
         {
             "x": -426.62,
             "y": 210.17,
-            "popupText": "천둥날개",
+            "popupText": "Thunderwing",
             "type": MarkerTypeEnum.WorldBoss,
             "hintImage": "lutheran/LakeBarsWorldBossHint1.jpg",
             "id": 46
@@ -525,7 +525,7 @@
         {
             "x": -221.87,
             "y": 221.75,
-            "popupText": "메드리닉 대교",
+            "popupText": "Mederic Bridge",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/MedlinicVistaHint1.jpg",
             "id": 70
@@ -682,7 +682,7 @@
         {
             "x": -89.5,
             "y": 215.26,
-            "popupText": "로블롬의 촉수",
+            "popupText": "Roblom's Tentacle",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "Keep a Roblom Tentacle in your inventory for a while and it will be converted to a Fluttering Tentacle Circuit<br>Eating it will complete the Quest",
             "hintImage": "lutheran/VilblinFoodIngredientHint2.jpg",
@@ -1057,7 +1057,7 @@
             "y": 56.48,
             "popupText": "Hands are faster than eyes #1",
             "type": MarkerTypeEnum.HiddenStory,
-            "hintText": "시간제한 10분",
+            "hintText": "10 Minutes Time Limit",
             "hintImage": "lutheran/GrayHammerHiddenStory1.jpg",
             "id": 144
         },

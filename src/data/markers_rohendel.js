@@ -277,7 +277,7 @@
             "type": MarkerTypeEnum.Mokoko,
             "id": 38,
             "popupText": "'Song of Eternity' required",
-            "hintText": "달콤한 허니버터 맥주를 먹었을 시<br>오브젝트 활성화"
+            "hintText": "Eat Honey Butter Beer at that location<br>The object will be activated"
         },
         {
             "x": -180,
@@ -361,7 +361,7 @@
             "type": MarkerTypeEnum.OtherStory,
             "id": 50,
             "popupText": "Resonant Music for Eljowin",
-            "hintText": "연계퀘스트의 마지막 퀘스트입니다.",
+            "hintText": "Last Quest in the Chain",
             "hintImage": "rohendel/RoarunStory1.jpg"
         },
         {
@@ -415,7 +415,7 @@
             "y": 178.19,
             "type": MarkerTypeEnum.Boss,
             "id": 55,
-            "popupText": "사나운 토디워러",
+            "popupText": "Ferocious Todiwoli",
             "hintImage": "rohendel/GlassLotusLakeBoss1.jpg"
         },
         {
@@ -438,7 +438,7 @@
             "y": 177.25,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 58,
-            "popupText": "정화된 연꽃수",
+            "popupText": "Purified Lotus Water",
             "hintImage": "rohendel/GlassLotusLakeFood1.jpg"
         },
         {
@@ -595,8 +595,8 @@
             "y": 192.26,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 79,
-            "popupText": "사로잡힌 두키의 눈물",
-            "hintText": "약 5분간격으로 리젠되는<br>두키를 처치 시 일정확률로 획득 가능",
+            "popupText": "Captured Duki's Tears",
+            "hintText": "Respawn of about 5 minutes<br>Chance to obtain by killing Duki",
             "hintImage": "rohendel/WindScentHillFood1.jpg"
         },
         {
@@ -648,7 +648,7 @@
             "y": 186.76,
             "type": MarkerTypeEnum.Mokoko,
             "id": 86,
-            "popupText": "달콤한 허니버터 맥주 필요"
+            "popupText": "Honey Butter Beer required"
         },
         {
             "x": -303.19,
@@ -661,7 +661,7 @@
             "y": 198.01,
             "type": MarkerTypeEnum.Vista,
             "id": 88,
-            "popupText": "요정 마을과 민들레 정거장",
+            "popupText": "Fairy Village and Dandelion Station",
             "hintImage": "rohendel/WindScentHillVista1.jpg"
         },
         {
@@ -780,7 +780,7 @@
             "y": 57.7,
             "type": MarkerTypeEnum.Mokoko,
             "id": 104,
-            "popupText": "달의 탑 하층"
+            "popupText": "Lower Tower of the Moon"
         },
         {
             "x": -323.12,
@@ -805,7 +805,7 @@
             "type": MarkerTypeEnum.HiddenStory,
             "id": 107,
             "popupText": "Words you could not say #5",
-            "hintText": "달의 탑 상층부",
+            "hintText": "Upper Tower of the Moon",
             "hintImage": "rohendel/DevastatedJannaHiddenStory5.jpg"
         },
         {
@@ -861,7 +861,7 @@
             "y": 46.07,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 114,
-            "popupText": "오염된 첫번째 정령식",
+            "popupText": "Tainted First Spirit",
             "hintText": "Can be obtained by investigating putrid chunks",
             "hintImage": "rohendel/DevastatedJannaFood1.jpg"
         },
@@ -1011,7 +1011,7 @@
             "y": 319.51,
             "type": MarkerTypeEnum.Boss,
             "id": 134,
-            "popupText": "우두머리 완드 가고일",
+            "popupText": "Chief Wand Gargoyle",
             "hintImage": "rohendel/ElzowinsShadowBoss3.jpg"
         },
         {
@@ -1034,7 +1034,7 @@
             "y": 314.01,
             "type": MarkerTypeEnum.Vista,
             "id": 137,
-            "popupText": "세계수 중심부",
+            "popupText": "World Tree",
             "hintImage": "rohendel/ElzowinsShadowVista2.jpg"
         },
         {
@@ -1131,7 +1131,7 @@
             "y": 43.64,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 150,
-            "hintText": "오브젝트, 정령구출, 몬스터 처치를 다 완료한 후에 활성화 된다는 제보가 있습니다."
+            "hintText": "Activated by killing all monsters, spirits and objects"
         },
         {
             "x": -488.62,
@@ -1182,7 +1182,7 @@
             "y": 93.26,
             "type": MarkerTypeEnum.SecretPassage,
             "id": 158,
-            "hintText": "중간 보스를 잡을 때 아제나가 시간을 끌어 달라고 하며 아제나가 졸개들을 모두 죽이는 씬이 나옵니다. 씬이 종료 되고 졸개들이 다 죽은 후 중간 보스를 잡으면 길이 활성화 됩니다."
+            "hintText": "When engaging Azen she kills all the kites, after the scene is over and the kites die engage the boss to activate the path"
         },
         {
             "x": -405.5,

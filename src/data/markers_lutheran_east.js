@@ -342,7 +342,7 @@
         {
             "x": -366.4365481267134,
             "y": 151.87421357032278,
-            "popupText": "슈헤리트단 검투사",
+            "popupText": "Shuheritodan Gladiator",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/SolarBossHint1.jpg",
             "id": 48
@@ -350,7 +350,7 @@
         {
             "x": -332.5938642247944,
             "y": 161.03369477051834,
-            "popupText": "윌리윌리",
+            "popupText": "Willy Willy",
             "type": MarkerTypeEnum.WorldBoss,
             "hintImage": "lutheran/SolarWorldBossHint1.jpg",
             "id": 49
@@ -366,7 +366,7 @@
         {
             "x": -344.99963828815106,
             "y": 160.00128222229984,
-            "popupText": "해바라기 밭",
+            "popupText": "Sunflower field",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/SolarVistaHint1.jpg",
             "id": 51
@@ -494,7 +494,7 @@
         {
             "x": -337.84474946695093,
             "y": 214.15924185203295,
-            "popupText": "폐허가 된 마을",
+            "popupText": "Ruined Village",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/NurseryVistaHint1.jpg",
             "id": 69
@@ -629,7 +629,7 @@
         {
             "x": -287.1247715504112,
             "y": 216.68900447416513,
-            "popupText": "흑장미의 이름",
+            "popupText": "The name of the black rose",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/BlackRoseHiddenStoryHint1.jpg",
             "id": 88
@@ -742,7 +742,7 @@
         {
             "x": -278.8444067925678,
             "y": 282.6884915852452,
-            "popupText": "지배당한 물 회오리 정령",
+            "popupText": "Dominating Water Whirlwind Elemental",
             "type": MarkerTypeEnum.Boss,
             "hintImage": "lutheran/RiaBossHint3.jpg",
             "id": 104
@@ -758,7 +758,7 @@
         {
             "x": -289.6574683978069,
             "y": 273.7504445037306,
-            "popupText": "천재의 비애",
+            "popupText": "The woes of genius",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "lutheran/RiaHiddenStoryHint1.jpg",
             "id": 106
@@ -935,7 +935,7 @@
         {
             "x": -276.1879759366433,
             "y": 338.6866622814308,
-            "popupText": "폐허가 된 요새",
+            "popupText": "Ruined Fortress",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/BoreaManorVistaHint1.jpg",
             "id": 130
@@ -1165,7 +1165,7 @@
         {
             "x": -344.0003426743832,
             "y": 416.3743332444041,
-            "popupText": "난파된 배",
+            "popupText": "The Wrecked Ship",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/CrocniceVistaHint1.jpg",
             "id": 163
@@ -1181,7 +1181,7 @@
         {
             "x": -348.3129854553762,
             "y": 427.40554905180943,
-            "popupText": "도적이 떠난 야영지",
+            "popupText": "Abandoned Rogue Campsite",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "lutheran/CrocniceVistaHint3.jpg",
             "id": 165
@@ -1191,7 +1191,7 @@
             "y": 420.2184080740534,
             "popupText": "Rock Cave Shell",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "루테란성 요리사NPC - 하이드<br>최고급 해산물 스튜 식재료",
+            "hintText": "Lutheran Castle - Chef NPC Hyde<br>Premium Seafood Stew Ingredients",
             "hintImage": "lutheran/CrocniceFoodIngredientHint1.jpg",
             "id": 166
         },
@@ -1200,7 +1200,7 @@
             "y": 419.6870554962694,
             "popupText": "Rock Cave Shrimp",
             "type": MarkerTypeEnum.FoodIngredient,
-            "hintText": "루테란성 요리사NPC - 하이드<br>최고급 해산물 스튜 식재료",
+            "hintText": "Lutheran Castle - Chef NPC Hyde<br>Premium Seafood Stew Ingredients",
             "hintImage": "lutheran/CrocniceFoodIngredientHint2.jpg",
             "id": 167
         },

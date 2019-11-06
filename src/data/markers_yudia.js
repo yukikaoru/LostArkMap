@@ -480,7 +480,7 @@
         {
             "x": -101.87,
             "y": 254.12,
-            "popupText": "피에 젖은 소금길",
+            "popupText": "Blood Soaked Salt Road",
             "type": MarkerTypeEnum.Vista,
             "hintImage": "yudia/OzhornVistaHint1.jpg",
             "id": 62
@@ -488,7 +488,7 @@
         {
             "x": -264.87,
             "y": 281.63,
-            "popupText": "신기루",
+            "popupText": "Mirage",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/OzhornHiddenStoryHint1.jpg",
             "id": 63

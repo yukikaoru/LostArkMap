@@ -84,7 +84,7 @@
             "y": 154.88,
             "type": MarkerTypeEnum.Vista,
             "id": 10,
-            "popupText": "종탑",
+            "popupText": "Belfry",
             "hintImage": "shushire/RegensVistaHint1.jpg"
         },
         {
@@ -142,7 +142,7 @@
             "y": 40.2,
             "type": MarkerTypeEnum.Vista,
             "id": 18,
-            "popupText": "얼음 호수에 잠긴 가디언의 흔적",
+            "popupText": "Guardian Vestige in an Icy Lake",
             "hintImage": "shushire/LakeVistaHint1.jpg"
         },
         {
@@ -158,7 +158,7 @@
             "y": 59.38,
             "type": MarkerTypeEnum.Vista,
             "id": 20,
-            "popupText": "타르실라의 얼음동굴",
+            "popupText": "Tarsila Ice Cave",
             "hintImage": "shushire/LakeVistaHint2.jpg"
         },
         {
@@ -166,7 +166,7 @@
             "y": 72.88,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 21,
-            "popupText": "타르실라"
+            "popupText": "Tarsila"
         },
         {
             "x": -452.03,
@@ -602,7 +602,7 @@
             "y": 344.45,
             "type": MarkerTypeEnum.Boss,
             "id": 81,
-            "popupText": "원혼서린 스펙터",
+            "popupText": "Enchanted Specter",
             "hintImage": "shushire/ButterflyBossHint2.jpg"
         },
         {
@@ -761,14 +761,14 @@
             "y": 188,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 104,
-            "popupText": "진정한 사랑"
+            "popupText": "True Love"
         },
         {
             "x": -350.94,
             "y": 153.76,
             "type": MarkerTypeEnum.CookingIngredient,
             "id": 105,
-            "popupText": "늑대 고기"
+            "popupText": "Wolf Meat"
         },
         {
             "x": -377.34,
@@ -891,7 +891,7 @@
             "type": MarkerTypeEnum.Vista,
             "id": 123,
             "hintImage": "shushire/ShadowsVistaHint1.jpg",
-            "popupText": "미궁"
+            "popupText": "Labyrinth"
         },
         {
             "x": -241.22,
@@ -905,8 +905,7 @@
             "x": -302.26,
             "y": 461.4,
             "type": MarkerTypeEnum.HiddenQuest,
-            "id": 125,
-            "hintText": "스크린샷의 설명이 잘못됐습니다.<br>첫 진입은 검은색 ① 이 아닌<br>빨간색 ① 입니다. "
+            "id": 125
         },
         {
             "x": -358.35,

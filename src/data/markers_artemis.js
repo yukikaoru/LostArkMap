@@ -560,7 +560,7 @@
         {
             "x": -460.62,
             "y": 258.76,
-            "popupText": "토악질 덩어리",
+            "popupText": "Soil Lump",
             "type": MarkerTypeEnum.FoodIngredient,
             "hintText": "Leonhard Chef NPC - Heli - High Protein White Horse Stew Food ingredients",
             "hintImage": "artemis/LoghillsFoodIngredientHint1.jpg",

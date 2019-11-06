@@ -272,7 +272,7 @@
             "y": 309.26,
             "type": MarkerTypeEnum.Vista,
             "id": 36,
-            "popupText": "뒷골목",
+            "popupText": "Back Street",
             "hintImage": "bern/RaniaVistaHint2.jpg"
         },
         {
@@ -422,7 +422,7 @@
             "y": 152.75,
             "type": MarkerTypeEnum.Vista,
             "id": 56,
-            "popupText": "타이론 요새",
+            "popupText": "Tyrone fortress",
             "hintImage": "bern/BalancarVistaHint1.jpg"
         },
         {
@@ -446,7 +446,7 @@
             "y": 152.56,
             "type": MarkerTypeEnum.Boss,
             "id": 60,
-            "popupText": "괴물이 된 티베트",
+            "popupText": "Tibet Monster",
             "hintImage": "bern/BalancarBossHint1.jpg"
         },
         {
@@ -470,7 +470,7 @@
             "y": 207.86,
             "type": MarkerTypeEnum.Boss,
             "id": 63,
-            "popupText": "강력한 모르그",
+            "popupText": "Powerful Morgue",
             "hintImage": "bern/BalancarBossHint3.jpg"
         },
         {
@@ -675,7 +675,7 @@
             "y": 433.64,
             "type": MarkerTypeEnum.Boss,
             "id": 97,
-            "popupText": "눈매가 날카로운 꼬리 슬라임",
+            "popupText": "Sharp Piercing Eyed Tail Slime",
             "hintImage": "bern/ParnaBossHint1.jpg"
         },
         {
@@ -691,7 +691,7 @@
             "y": 468.25,
             "type": MarkerTypeEnum.Boss,
             "id": 99,
-            "popupText": "능숙한 트롤 전투병",
+            "popupText": "Skilled Troll Fighter",
             "hintImage": "bern/ParnaBossHint3.jpg"
         },
         {
@@ -715,7 +715,7 @@
             "y": 464.38,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 102,
-            "popupText": "덩굴",
+            "popupText": "Vine",
             "hintText": "Bern - Chef NPC Stelia<br>Balankar Ranger Salad Ingredients",
             "hintImage": "bern/ParnaFoodIngredientHint3.jpg"
         },
@@ -937,7 +937,7 @@
             "y": 182.26,
             "type": MarkerTypeEnum.Vista,
             "id": 133,
-            "popupText": "협곡",
+            "popupText": "Gorge",
             "hintImage": "bern/PesnarVistaHint1.jpg"
         },
         {

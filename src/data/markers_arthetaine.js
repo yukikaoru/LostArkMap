@@ -14,7 +14,7 @@
             "y": 36.48,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 3,
-            "popupText": "작가의 고집",
+            "popupText": "Persistent Writers",
             "hintImage": "arthetaine/BarrenHiddenStoryHint1.jpg"
         },
         {
@@ -348,7 +348,7 @@
             "y": 192.69,
             "type": MarkerTypeEnum.Vista,
             "id": 46,
-            "popupText": "계곡 및 로봇 잔해",
+            "popupText": "Robot Wreck in the Valley",
             "hintImage": "arthetaine/CrackedVistaHint1.jpg"
         },
         {
@@ -607,7 +607,7 @@
             "y": 63.14,
             "type": MarkerTypeEnum.Vista,
             "id": 83,
-            "popupText": "연구소",
+            "popupText": "Laboratory",
             "hintImage": "arthetaine/NebelhornVistaHint1.jpg"
         },
         {
@@ -615,7 +615,7 @@
             "y": 65.64,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 84,
-            "popupText": "인간이 되기 위해선",
+            "popupText": "To be Human",
             "hintImage": "arthetaine/NebelhornHiddenStoryHint1.jpg"
         },
         {
@@ -656,7 +656,7 @@
             "y": 30.39,
             "type": MarkerTypeEnum.Boss,
             "id": 90,
-            "popupText": "현상수배된 밀거래꾼",
+            "popupText": "Wanted Trafficker",
             "hintImage": "arthetaine/NebelhornBossHint4.jpg"
         },
         {
@@ -678,7 +678,7 @@
             "y": 422.64,
             "type": MarkerTypeEnum.HiddenStory,
             "id": 94,
-            "popupText": "아르데타인에 온 것을 환영한다",
+            "popupText": "Welcome to Arthetaine",
             "hintImage": "arthetaine/TotrerichHiddenStoryHint1.jpg"
         },
         {
@@ -710,7 +710,7 @@
             "y": 475.25,
             "type": MarkerTypeEnum.WorldBoss,
             "id": 98,
-            "popupText": "불칸",
+            "popupText": "Vulcan",
             "hintImage": "arthetaine/TotrerichWorldBossHint1.jpg"
         },
         {
@@ -791,7 +791,7 @@
             "y": 322.5,
             "type": MarkerTypeEnum.Vista,
             "id": 111,
-            "popupText": "소용돌이 관측소",
+            "popupText": "Whirlpool Observatory",
             "hintText": "Continuous Whirlpool",
             "hintImage": "arthetaine/RizaVistaHint1.jpg"
         },
@@ -942,7 +942,7 @@
             "y": 300.51,
             "type": MarkerTypeEnum.Vista,
             "id": 132,
-            "popupText": "폐기물 처리장",
+            "popupText": "Waste disposal plant",
             "hintImage": "arthetaine/WindVistaHint1.jpg"
         },
         {
@@ -1113,7 +1113,7 @@
             "y": 464.5,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 158,
-            "popupText": "아이히만의 노란 물약",
+            "popupText": "Eichmann's Yellow Potion",
             "hintText": "Stern - Chef NPC Generalist cook<br>Eichmann drink ingredients",
             "hintImage": "arthetaine/AishmanFoodIngredientHint1.jpg"
         },
@@ -1122,7 +1122,7 @@
             "y": 464.88,
             "type": MarkerTypeEnum.FoodIngredient,
             "id": 159,
-            "popupText": "아이히만의 투명 물약",
+            "popupText": "Eichman Transparent Potion",
             "hintText": "Stern - Chef NPC Generalist cook<br>Eichmann drink ingredients",
             "hintImage": "arthetaine/AishmanFoodIngredientHint2.jpg"
         },
