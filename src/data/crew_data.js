@@ -1468,7 +1468,7 @@
             ],
             "img": "107.jpg",
             "grade": 0,
-            "name": "아후",
+            "name": "Ahu",
             "sailorn": 1,
             "sailort": "일반 선원",
             "rarity": -1
@@ -1481,7 +1481,7 @@
             ],
             "img": "108.jpg",
             "grade": 0,
-            "name": "에이놀드",
+            "name": "Aynold",
             "cmt": 1,
             "sailorn": 1,
             "sailort": "일반 선원",

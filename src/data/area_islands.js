@@ -68,7 +68,7 @@
             아르곤 - Argon
             부서진 빙하의 섬 - Broken Glacier Island
             얼음 미로의 섬 - Ice Maze Island
-            혹한의 안식처 - Cold Home
+            혹한의 안식처 - Cold Haven
 
          2_4
             세월의 섬 - Island of the Years
@@ -959,7 +959,7 @@
         ]
     });
 
-    area.registerMap("Lonely Island Oper", {
+    area.registerMap("Lonely Island Opera", {
         "type": MapTypeEnum.Island,
         "meta": {
             "heart": "Quest: 'Heart of the Island'",
