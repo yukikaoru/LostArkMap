@@ -891,7 +891,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 실리안",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -988,7 +988,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 칼스",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -1085,7 +1085,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 기드온",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -1182,7 +1182,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 루테란 성 네리아",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -1279,7 +1279,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[Achievement] Card Battle Challenger: Beatrice",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2055,7 +2055,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 카드장인 부르르",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2108,7 +2108,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 미워도 다시 한번",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2162,7 +2162,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 고니우스",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2216,7 +2216,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 토토마",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2269,7 +2269,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 명치왕 블루아이",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2322,7 +2322,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 자베른",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2375,7 +2375,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[업적] 카드 배틀 도전기 : 도박사 케이지",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -2422,7 +2422,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 리겐스 마을 - 이사벨",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2465,7 +2465,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[호감도] 레온하트 - 네리아",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2508,7 +2508,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2550,7 +2550,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2592,7 +2592,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2634,7 +2634,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2676,7 +2676,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2719,7 +2719,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2763,7 +2763,7 @@
                 "[상자] 로토의 낡은 행운 상자",
                 "[호감도] 살란드 구릉지 - 소금사막의 천둥",
                 "[카드 배틀-승리 보상] 베르닐 삼림 - 페일린",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2805,7 +2805,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2848,7 +2848,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 해상 낙원 페이토 - 도박사 케이지",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2891,7 +2891,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 루테란 성 - 실리안",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2934,7 +2934,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 해상 낙원 페이토 - 측백 도사",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -2978,7 +2978,7 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 슈테른 - 바스티안",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -3020,7 +3020,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -3064,7 +3064,7 @@
                 "[상자] 로토의 낡은 행운 상자",
                 "[호감도] 루테란 성 - 네리아",
                 "[카드 배틀-승리 보상] 루테란 성 - 네리아",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -4400,8 +4400,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4445,8 +4445,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4488,8 +4488,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4532,8 +4532,8 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 베르닐 삼림 - 페일린",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4576,8 +4576,8 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 해상 낙원 페이토 - 카드장인 부르르",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4620,8 +4620,8 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[호감도] 라니아 마을 - 기드온",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4663,8 +4663,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4707,8 +4707,8 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[호감도] 베르닐 삼림 - 페일린",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4750,8 +4750,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4795,8 +4795,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4839,8 +4839,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4883,8 +4883,8 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[모코코 씨앗] 모코코마을 - 토토마",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4927,8 +4927,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -4971,8 +4971,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -5015,8 +5015,8 @@
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 모코코마을 - 모카모카",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -5058,8 +5058,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -5102,8 +5102,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 칼슨의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 황금 보급품",
-                "[항해-부유물] 일반 보급품"
+                "[Sailing Floatsam] - Gold Supplies",
+                "[Sailing Floatsam] - General Supplies"
             ],
             "awake": [
                 [
@@ -5140,7 +5140,7 @@
             "obtain": [
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5173,7 +5173,7 @@
             "obtain": [
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5207,7 +5207,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 리베하임 - 연애 고수 헨리",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5243,7 +5243,7 @@
                 "[일반 퀘스트] 루테란 왕조실록",
                 "[호감도] 레이크바 - 장인 우르르",
                 "[카드 배틀-승리 보상] 루테란 성 - 네리아",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5277,7 +5277,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 슈테른 - 네리아",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5311,7 +5311,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 해상 낙원 페이토 - 카드장인 부르르",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5383,7 +5383,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 라니아 마을 - 아나벨",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5416,7 +5416,7 @@
             "obtain": [
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -5450,7 +5450,7 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[일반 퀘스트] 신의 한 수",
-                "[항해-보물인양] 인양 포인트"
+                "[Sailing Treasure] - Salvage Point"
             ],
             "awake": [
                 [
@@ -6005,8 +6005,8 @@
                 "[상자] 로토의 낡은 행운 상자",
                 "[일반 퀘스트] 전장을 빛낸 기사들",
                 "[호감도] 리겐스 마을 - 여명단 자베른",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6041,8 +6041,8 @@
                 "[상자] 로토의 낡은 행운 상자",
                 "[일반 퀘스트] 처음은 누구에게나 있다",
                 "[카드 배틀-승리 보상] 항구도시 창천 - 여울",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6075,8 +6075,8 @@
             "obtain": [
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6110,8 +6110,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[호감도] 얼음나비 절벽 - 포포",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6145,8 +6145,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 얼어붙은 바다 - 고니우스",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6179,8 +6179,8 @@
             "obtain": [
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6214,8 +6214,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 리겐스 마을 - 이사벨",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6249,8 +6249,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[카드 배틀-승리 보상] 슈테른 - 사샤",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6285,8 +6285,8 @@
                 "[상자] 로토의 낡은 행운 상자",
                 "[일반 퀘스트] 교양있고 우아하게",
                 "[호감도] 리베하임 - 연애 고수 헨리",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [
@@ -6320,8 +6320,8 @@
                 "[상자] 행운의 카드 상자",
                 "[상자] 로토의 낡은 행운 상자",
                 "[일반 퀘스트] 악마의 유혹",
-                "[항해-부유물] 일반 보급품",
-                "[항해-부유물] 황금 보급품"
+                "[Sailing Floatsam] - General Supplies",
+                "[Sailing Floatsam] - Gold Supplies"
             ],
             "awake": [
                 [

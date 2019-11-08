@@ -118,7 +118,7 @@
         "19": {
             "name": "특화:무한 동력 레벨 2",
             "type": "2",
-            "text": "쾌속운항 사용 시 10% 확률로 쾌속운항 게이지를 200 회복 한다.",
+            "text": "10% chance of recovering 200 Quick Guide Gauge",
             "id": 19
         },
         "20": {
@@ -322,7 +322,7 @@
         "53": {
             "name": "특화:무한 동력 레벨 3",
             "type": "2",
-            "text": "쾌속운항 사용 시 10% 확률로 쾌속운항 게이지를 300 회복 한다.",
+            "text": "10% chance of recovering 300 Quick Guide Gauge",
             "id": 53
         },
         "54": {
@@ -424,13 +424,13 @@
         "70": {
             "name": "순풍 레벨 3",
             "type": "2",
-            "text": "일정 거리마다 획득하는 쾌속운항 게이지 회복량이 15 증가 한다.",
+            "text": "increases the recovery rate of Rapid Flight Gauge by 15 after certain distance",
             "id": 70
         },
         "71": {
             "name": "특화:무한 동력 레벨 3",
             "type": "2",
-            "text": "쾌속운항 사용 시 10% 확률로 쾌속운항 게이지를 300 회복 한다.",
+            "text": "10% chance of recovering 300 Quick Guide Gauge",
             "id": 71
         },
         "72": {
@@ -490,7 +490,7 @@
         "81": {
             "name": "순풍 레벨 3",
             "type": "2",
-            "text": "일정 거리마다 획득하는 쾌속운항 게이지 회복량이 15 증가 한다.",
+            "text": "increases the recovery rate of Rapid Flight Gauge by 15 after certain distance",
             "id": 81
         },
         "82": {
@@ -526,7 +526,7 @@
         "87": {
             "name": "탐색:난파선 잔해 레벨 1",
             "type": "1",
-            "text": "'모험물: 난파선 잔해'를 발견할 수 있게 된다.",
+            "text": "Acquired by Adventure: Shipwreck Debris",
             "id": 87
         },
         "88": {
@@ -646,19 +646,19 @@
         "107": {
             "name": "탐색:유령 가오리 레벨 1",
             "type": "1",
-            "text": "'모험물: 유령 가오리'를 발견할 수 있게 된다.",
+            "text": "Acquired by Adventure: Ghost Stingray",
             "id": 107
         },
         "108": {
             "name": "순풍 레벨 3",
             "type": "2",
-            "text": "일정 거리마다 획득하는 쾌속운항 게이지 회복량이 15 증가 한다.",
+            "text": "increases the recovery rate of Rapid Flight Gauge by 15 after certain distance",
             "id": 108
         },
         "109": {
             "name": "탐색:스타더스트 레벨 1",
             "type": "1",
-            "text": "'모험물: 스타더스트'를 발견할 수 있게 된다.",
+            "text": "Acquired by Adventure: Stardust",
             "id": 109
         },
         "110": {
@@ -676,7 +676,7 @@
         "112": {
             "name": "선상 만찬 레벨 2",
             "type": "1",
-            "text": "5분동안 선박의 이동 속도를 1.5 노트 증가 시킨다.<br>상선에서 판매하는 선상 만찬용 아이템 1개가 필요 하다.",
+            "text": "Increases your ship's movement speed by 1.5 knots for 5 minutes",
             "id": 112
         },
         "113": {
@@ -706,7 +706,7 @@
         "117": {
             "name": "탐색:오색앵무새 레벨 1",
             "type": "1",
-            "text": "'모험물: 오색앵무새'를 발견할 수 있게 된다.",
+            "text": "Adventure story: Colorful Parrot",
             "id": 117
         },
         "118": {
@@ -940,7 +940,7 @@
         "156": {
             "name": "탐색:유령 도마뱀 레벨 1",
             "type": "1",
-            "text": "'모험물: 유령 도마뱀'을 발견할 수 있게 된다.",
+            "text": "Acquired by Adventure: Ghost Lizard",
             "id": 156
         },
         "157": {
@@ -964,7 +964,7 @@
         "160": {
             "name": "순풍 레벨 2",
             "type": "2",
-            "text": "일정 거리마다 획득하는 쾌속운항 게이지 회복량이 10 증가 한다.",
+            "text": "increases the recovery rate of Rapid Flight Gauge by 10 after certain distance",
             "id": 160
         },
         "161": {
@@ -1006,7 +1006,7 @@
         "167": {
             "name": "선상 만찬 레벨 2",
             "type": "1",
-            "text": "5분동안 선박의 이동 속도를 1.5 노트 증가 시킨다.<br>상선에서 판매하는 선상 만찬용 아이템 1개가 필요 하다.",
+            "text": "Increases your ship's movement speed by 1.5 knots for 5 minutes",
             "id": 167
         },
         "168": {
@@ -1096,7 +1096,7 @@
         "182": {
             "name": "탐색:바다꽃 레벨 1",
             "type": "1",
-            "text": "'모험물: 바다꽃'을 발견할 수 있게 된다.",
+            "text": "Acquired by Adventure: Sea Flower",
             "id": 182
         },
         "183": {

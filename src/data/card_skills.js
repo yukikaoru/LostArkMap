@@ -82,7 +82,7 @@
             "name": "욕망의 저주",
             "img": "4.png",
             "var": [
-                "매 턴마다 적의 생명력을 1 감소시킵니다."
+                "Decreases enemy's Health by 1 every turn"
             ]
         },
         "12": {
@@ -621,7 +621,7 @@
             "name": "응보",
             "img": "1.png",
             "var": [
-                "패배 시 상대의 공격력을 1 감소시킵니다."
+                "Decreases opponent's damage by 1 when defeated"
             ]
         },
         "89": {
@@ -1591,7 +1591,7 @@
             ]
         },
         "227": {
-            "name": "공명 I",
+            "name": "Resonance I",
             "img": "2.png",
             "var": [
                 "양 옆 카드의 코스트가 홀수라면 세 카드 모두 공격력이 1 증가합니다."
@@ -1766,7 +1766,7 @@
             ]
         },
         "252": {
-            "name": "공명 II",
+            "name": "Resonance II",
             "img": "5.png",
             "var": [
                 "양 옆 카드의 코스트가 홀수라면 세 카드 모두 생명력이 2 증가합니다."
@@ -2089,14 +2089,14 @@
             ]
         },
         "299": {
-            "name": "공명 I",
+            "name": "Resonance I",
             "img": "2.png",
             "var": [
                 "양 옆 카드의 코스트가 홀수라면 세 카드 모두 공격력이 1 증가합니다."
             ]
         },
         "300": {
-            "name": "공명 II",
+            "name": "Resonance II",
             "img": "5.png",
             "var": [
                 "양 옆 카드의 코스트가 홀수라면 세 카드 모두 생명력이 2 증가합니다."
@@ -2166,7 +2166,7 @@
             ]
         },
         "310": {
-            "name": "공명 II",
+            "name": "Resonance II",
             "img": "5.png",
             "var": [
                 "양 옆 카드의 코스트가 홀수라면 세 카드 모두 생명력이 2 증가합니다."
