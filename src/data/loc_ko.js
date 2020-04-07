@@ -1192,6 +1192,14 @@
         "Light net Level 3": "가벼운 그물 레벨 3",
         "Literary girl Annabel": "문학소녀 아나벨",
         "Lonely Island Opera": "외로운 섬 오페르",
+        "Peyton": "페이튼",
+        "No Name Canyon": "이름 없는 협곡",
+        "Calaza Village": "칼라자 마을",
+        "Howling Swamp": "울부짖는 늪지대",
+        "Shady Cliff": "그늘진 절벽",
+        "Old Castle Ruins": "폐허가 된 고성",
+        "Red Moon Trail": "붉은 달의 흔적",
+        "Cave of Sin": "죄악의 동굴"
     };
 
     console.log("Registered Localization: " + LocalizationLanguage.Korean);
