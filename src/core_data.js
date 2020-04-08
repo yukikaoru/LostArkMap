@@ -4,12 +4,13 @@ const Constants = Object.freeze({
     "ErrorImagePath": 'maps/areas/blank.png',
     'AchievementMarkerColor': '#ff9900',
     'FPS': 30,
-    'SettingsVersion': 11,
+    'SettingsVersion': 12,
     'SettingsKey': 'LAM_SETTINGS',
     'MaxSearchResults': 50,
     'SeoulMomentTZName': 'Asia/Seoul',
     'SeoulMomentTZ': "Asia/Seoul|LMT KST JST KST KDT KDT|-8r.Q -8u -90 -90 -9u -a0|0123141414141414135353|-2um8r.Q 97XV.Q 1m1zu kKo0 2I0u OL0 1FB0 Rb0 1qN0 TX0 1tB0 TX0 1tB0 TX0 1tB0 TX0 2ap0 12FBu 11A0 1o00 11A0|23e6",
-    'LocalizedTextClass': 'loc-txt'
+    'LocalizedTextClass': 'loc-txt',
+    'CheckSum': 1509300449
 });
 
 const ContentTypeEnum = Object.freeze({
@@ -84,7 +85,9 @@ const MarkerTypeEnum = Object.freeze({
     "Reward": "reward.png",
     "Epilogue": "epilogue.png",
     "TravelingMerchant": "traveling_merchant.png",
-    "AdventureStory": "adventure.png"
+    "AdventureStory": "adventure.png",
+    "GhostShip": "ghostship.png",
+    "Achievement": "achievement.png"
 });
 
 const SearchResultTypeEnum = Object.freeze({
@@ -383,6 +386,14 @@ MarkerTypeDefaultTitle = function(markerType) {
 
         case MarkerTypeEnum.AdventureStory: {
             return "Adventure Story";
+        }
+
+        case MarkerTypeEnum.GhostShip: {
+            return "Ghost Ship";
+        }
+
+        case MarkerTypeEnum.Achievement: {
+            return "Achievement";
         }
 
         default: {

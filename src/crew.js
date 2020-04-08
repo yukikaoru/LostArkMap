@@ -12,6 +12,10 @@
         }
 
         initialize() {
+            if(LAM.hostC !== true) {
+                return;
+            }
+
             this.initializeUI();
         }
 

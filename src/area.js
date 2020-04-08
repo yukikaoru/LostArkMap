@@ -18,6 +18,11 @@
         }
 
         initialize() {
+
+            if(LAM.hostC !== true) {
+                return;
+            }
+
             this.initializeUI();
 
             this.markerLayer = LAM.createMarkerLayer({

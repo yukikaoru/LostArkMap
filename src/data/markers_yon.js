@@ -1070,6 +1070,17 @@
             "type": MarkerTypeEnum.Mokoko,
             "id": 135,
             "hintImage": "yon/ArkMokokoHint5.jpg"
+        },
+        {
+            "x": -386.12,
+            "y": 172.49,
+            "type": MarkerTypeEnum.ZoningWorld,
+            "id": 136,
+            "teleportArea": "World",
+            "teleportTo": [
+                -356.62,
+                28.11
+            ]
         }
     ];
 

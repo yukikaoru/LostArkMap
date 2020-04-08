@@ -7,6 +7,10 @@
         }
 
         initialize() {
+            if(LAM.hostC !== true) {
+                return;
+            }
+
         }
 
         setLanguage(newLang, updateUI) {

@@ -10,6 +10,10 @@
         }
 
         initialize() {
+            if(LAM.hostC !== true) {
+                return;
+            }
+
             this.initializeUI();
 
             this.isInitialized = true;
@@ -84,6 +88,7 @@
                     case MarkerTypeEnum.SeaAreaSiren:
                     case MarkerTypeEnum.SeaAreaStorm:
                     case MarkerTypeEnum.AdventureStory:
+                    case MarkerTypeEnum.GhostShip:
                     {
                         $('#ed_markerTypeToolbarSpecial').append(element);
                         break

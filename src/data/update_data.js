@@ -175,9 +175,28 @@
         },
         12: {
             n: "1.11",
+            d: "2020-04-08",
+            t: "Peyton Update",
+            e: [
+                'Added Peyton Maps',
+                'Added Achievement Marker Type',
+                'Added Ghost Ship Markers on World Map',
+                'Fixed Yon and Rohendel World Markers',
+                'Fixed spelling of `Rohendel` World Label',
+                'Fixed spelling of `Peyton` World Label',
+                'Added 14 Achievement Markers',
+                'Added 15 Bosses',
+                'Added 2 Hidden Quests',
+                'Added 22 Hidden Stories',
+                'Added 70 Mokoko Seeds',
+                'Added 8 Secret Passages',
+                'Added 10 Vistas',
+            ]
+        },
+        13: {
+            n: "1.12",
             d: "TBD",
             e: [
-
             ]
         }
     };

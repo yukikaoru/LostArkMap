@@ -239,7 +239,12 @@
             "x": -362.75,
             "y": 498.74,
             "type": MarkerTypeEnum.ZoningWorld,
-            "id": 32
+            "id": 32,
+            "teleportTo": [
+                -272.62,
+                93.43
+            ],
+            "teleportArea": "World"
         },
         {
             "x": -307.56,

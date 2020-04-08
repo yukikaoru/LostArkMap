@@ -20,37 +20,37 @@
 
     area.registerMap("No Name Canyon", {
         type: MapTypeEnum.Continent,
-        bounds: [[-320, 99], [-400, 205]]
+        bounds: [[-308, 208.95], [-411.5, 299.46]]
     });
 
     area.registerMap("Calaza Village", {
         type: MapTypeEnum.City,
-        bounds: [[-211, 108], [-300, 200]]
+        bounds: [[-203.5, 201.45], [-307.5, 305.96]]
     });
 
     area.registerMap("Howling Swamp", {
         type: MapTypeEnum.Continent,
-        bounds: [[-210, 208], [-306, 303]]
+        bounds: [[-302.5, 92.93], [-413.5, 199.45]]
     });
 
     area.registerMap("Shady Cliff", {
         type: MapTypeEnum.Continent,
-        bounds: [[-199, 0], [-310, 100]]
+        bounds: [[-106, 204.95], [-198, 299.46]]
     });
 
     area.registerMap("Red Moon Trail", {
         type: MapTypeEnum.Continent,
-        bounds: [[-210, 314], [-305, 408]]
+        bounds: [[-204, 304.96], [-307.5, 412.97]]
     });
 
     area.registerMap("Old Castle Ruins", {
         type: MapTypeEnum.Dungeon,
-        bounds: [[-101, 206], [-204, 310]]
+        bounds: [[7, 207.95], [-103, 300.46]]
     });
 
     area.registerMap("Cave of Sin", {
         type: MapTypeEnum.Dungeon,
-        bounds: [[-7, 308], [-103, 403]]
+        bounds: [[-100.5, 327.96], [-205.5, 389.97]]
     });
 
 })();

@@ -1394,7 +1394,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 139,
-            "title": "Robende"
+            "title": "Rohendel"
         },
         {
             "x": -352.8750415981761,
@@ -1490,7 +1490,7 @@
             "type": MarkerTypeEnum.Note,
             "style": MarkerStyleEnum.Label,
             "id": 152,
-            "title": "Peirun"
+            "title": "Peyton"
         },
         {
             "x": -244.95,
@@ -1895,6 +1895,56 @@
             "id": 207,
             "title": "South Sea's Eye",
             "hintText": "1 Awakening Card Material<br>4000 Shilling"
+        },
+        {
+            "x": -407,
+            "y": 49.87,
+            "type": MarkerTypeEnum.Note,
+            "style": MarkerStyleEnum.Label,
+            "id": 208,
+            "title": "Yon"
+        },
+        {
+            "x": -134,
+            "y": 174.56,
+            "type": MarkerTypeEnum.GhostShip,
+            "id": 209,
+            "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 1am"
+        },
+        {
+            "x": -238.75,
+            "y": 162.49,
+            "type": MarkerTypeEnum.GhostShip,
+            "id": 212,
+            "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 0am"
+        },
+        {
+            "x": -317,
+            "y": 219.06,
+            "type": MarkerTypeEnum.GhostShip,
+            "id": 213,
+            "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 2am"
+        },
+        {
+            "x": -392.25,
+            "y": 330.93,
+            "type": MarkerTypeEnum.GhostShip,
+            "id": 214,
+            "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 5am"
+        },
+        {
+            "x": -322.12,
+            "y": 403.37,
+            "type": MarkerTypeEnum.GhostShip,
+            "id": 215,
+            "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 4am"
+        },
+        {
+            "x": -128.37,
+            "y": 409.61,
+            "type": MarkerTypeEnum.GhostShip,
+            "id": 216,
+            "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 3am"
         }
     ];
 

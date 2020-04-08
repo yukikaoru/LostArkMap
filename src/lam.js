@@ -14,6 +14,7 @@ let LAM = (function(){
             this.mapClickMode = undefined;
             this.intervals = {};
             this.lastUpdateTime = 0;
+            this.getHost = function() { return window.location.hostname; }
         }
 
         createInterval(name, callback, delay, data) {
@@ -203,6 +204,12 @@ let LAM = (function(){
 
         initialize() {
 
+            if (this.a() !== true && GetHashCode(this.a.toString()) !== -1815174838) {
+                $( "#loading-page" ).hide();
+                return;
+            }
+
+            $("#auth-page").hide();
             this.initializeMap();
             this.initializeUI();
 
@@ -237,6 +244,22 @@ let LAM = (function(){
             if(this.settings.loadedVersion < Constants.SettingsVersion) {
                 LAM.changeLog.showWhatChangedSince(this.settings.loadedVersion);
             }
+        }
+
+        a() {
+            let a = GetHashCode(window.location.hostname);
+            let b = GetHashCode(this.getHost());
+            if(a === b && a === 0) {
+                this.hostC = true;
+                return true;
+            }
+
+            if (a !== b || a !== Constants.CheckSum) {
+                return false;
+            }
+
+            this.hostC = true;
+            return true;
         }
 
         updateFrame(time) {
