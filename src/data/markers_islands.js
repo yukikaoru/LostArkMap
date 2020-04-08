@@ -3326,6 +3326,90 @@
             "type": MarkerTypeEnum.Essence,
             "id": 469,
             "hintImage": "islands/MoreungEssence9.jpg"
+        },
+        {
+            "x": -223.91,
+            "y": 190.42,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 470,
+            "hintImage": "islands/ShadowmoonMokoko3.jpg"
+        },
+        {
+            "x": -222.17,
+            "y": 187.35,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 471,
+            "hintImage": "islands/ShadowmoonMokoko2.jpg"
+        },
+        {
+            "x": -222.02,
+            "y": 185.46,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 472,
+            "hintImage": "islands/ShadowmoonMokoko1.jpg"
+        },
+        {
+            "x": -220.59,
+            "y": 186.62,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 473,
+            "hintImage": "islands/ShadowmoonMokoko4.jpg"
+        },
+        {
+            "x": -224.2890625,
+            "y": 187.07032689038383,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 474,
+            "hintImage": "islands/ShadowmoonHiddenQuest1.jpg",
+            "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -220.27,
+            "y": 189.14,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 476,
+            "hintImage": "islands/ShadowmoonHiddenQuest2.jpg",
+            "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -220.15,
+            "y": 187.68,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 477,
+            "hintImage": "islands/ShadowmoonHiddenQuest3.jpg",
+            "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -220.46,
+            "y": 186.5,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 478,
+            "hintImage": "islands/ShadowmoonHiddenQuest4.jpg",
+            "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -219.81,
+            "y": 187.32,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 479,
+            "hintImage": "islands/ShadowmoonHiddenQuest5.jpg",
+            "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -219.92,
+            "y": 186.81,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 480,
+            "hintImage": "islands/ShadowmoonHiddenQuest6.jpg",
+            "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -220.88,
+            "y": 188.54,
+            "type": MarkerTypeEnum.HiddenQuest,
+            "id": 481,
+            "hintImage": "islands/ShadowmoonHiddenQuest7.jpg",
+            "hintText": "Island Heart Quest Chain"
         }
     ];
 
