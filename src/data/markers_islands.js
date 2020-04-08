@@ -3137,6 +3137,195 @@
             "type": MarkerTypeEnum.Zoning,
             "id": 441,
             "title": "Valpurgis Dungeon"
+        },
+        {
+            "x": -214.23,
+            "y": 442.56,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 442,
+            "hintImage": "islands/MoreungMokoko1.jpg"
+        },
+        {
+            "x": -213.34,
+            "y": 441.42,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 443,
+            "hintImage": "islands/MoreungMokoko2.jpg"
+        },
+        {
+            "x": -212.87,
+            "y": 441.54,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 444,
+            "hintImage": "islands/MoreungMokoko3.jpg"
+        },
+        {
+            "x": -214.53,
+            "y": 439.94,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 445,
+            "hintImage": "islands/MoreungMokoko4.jpg"
+        },
+        {
+            "x": -214.56,
+            "y": 439.2,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 446,
+            "hintImage": "islands/MoreungMokoko5.jpg"
+        },
+        {
+            "x": -214.24,
+            "y": 438.52,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 447,
+            "hintImage": "islands/MoreungMokoko6.jpg"
+        },
+        {
+            "x": -213.72,
+            "y": 437.99,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 448,
+            "hintImage": "islands/MoreungMokoko7.jpg"
+        },
+        {
+            "x": -214.12,
+            "y": 438.6,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 449,
+            "hintImage": "islands/MoreungTreasure9.jpg"
+        },
+        {
+            "x": -214.46,
+            "y": 439.32,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 450,
+            "hintImage": "islands/MoreungTreasure8.jpg"
+        },
+        {
+            "x": -213.28,
+            "y": 439.38,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 451,
+            "hintImage": "islands/MoreungTreasure7.jpg"
+        },
+        {
+            "x": -213.5,
+            "y": 440.23,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 452,
+            "hintImage": "islands/MoreungTreasure6.jpg"
+        },
+        {
+            "x": -213.13,
+            "y": 440.66,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 453,
+            "hintImage": "islands/MoreungTreasure4.jpg"
+        },
+        {
+            "x": -212.81,
+            "y": 441.41,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 454,
+            "hintImage": "islands/MoreungTreasure5.jpg"
+        },
+        {
+            "x": -213.37,
+            "y": 441.3,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 455,
+            "hintImage": "islands/MoreungTreasure3.jpg"
+        },
+        {
+            "x": -214.25,
+            "y": 442.68,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 456,
+            "hintImage": "islands/MoreungTreasure2.jpg"
+        },
+        {
+            "x": -214.8,
+            "y": 442.28,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 457,
+            "hintImage": "islands/MoreungTreasure10.jpg"
+        },
+        {
+            "x": -216.45,
+            "y": 441.75,
+            "type": MarkerTypeEnum.TreasureBox,
+            "id": 458,
+            "hintImage": "islands/MoreungTreasure1.jpg"
+        },
+        {
+            "x": -216.18,
+            "y": 440.84,
+            "type": MarkerTypeEnum.Essence,
+            "id": 459,
+            "hintImage": "islands/MoreungEssence1.jpg"
+        },
+        {
+            "x": -216.59,
+            "y": 441.73,
+            "type": MarkerTypeEnum.Essence,
+            "id": 460,
+            "hintImage": "islands/MoreungEssence2.jpg"
+        },
+        {
+            "x": -214.09,
+            "y": 442.66,
+            "type": MarkerTypeEnum.Essence,
+            "id": 461,
+            "hintImage": "islands/MoreungEssence3.jpg"
+        },
+        {
+            "x": -213.4609375,
+            "y": 441.40624661402734,
+            "type": MarkerTypeEnum.Essence,
+            "id": 462,
+            "hintImage": "islands/MoreungEssence4.jpg"
+        },
+        {
+            "x": -212.71,
+            "y": 441.52,
+            "type": MarkerTypeEnum.Essence,
+            "id": 463,
+            "hintImage": "islands/MoreungEssence6.jpg"
+        },
+        {
+            "x": -213.19,
+            "y": 440.53,
+            "type": MarkerTypeEnum.Essence,
+            "id": 464,
+            "hintImage": "islands/MoreungEssence5.jpg"
+        },
+        {
+            "x": -213.48,
+            "y": 440.34,
+            "type": MarkerTypeEnum.Essence,
+            "id": 465,
+            "hintImage": "islands/MoreungEssence7.jpg"
+        },
+        {
+            "x": -213.203125,
+            "y": 439.343755078959,
+            "type": MarkerTypeEnum.Essence,
+            "id": 466,
+            "hintImage": "islands/MoreungEssence8.jpg"
+        },
+        {
+            "x": -214.234375,
+            "y": 438.6328294298633,
+            "type": MarkerTypeEnum.Essence,
+            "id": 468,
+            "hintImage": "islands/MoreungEssence10.jpg"
+        },
+        {
+            "x": -214.4609375,
+            "y": 439.2109053332597,
+            "type": MarkerTypeEnum.Essence,
+            "id": 469,
+            "hintImage": "islands/MoreungEssence9.jpg"
         }
     ];
 

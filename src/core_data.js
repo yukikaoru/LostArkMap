@@ -61,6 +61,7 @@ const MarkerTypeEnum = Object.freeze({
     "ZoningIsland": "zoningisland.png",
     "ZoningIslandFlux": "zoningislandflux.png",
     "ZoningIslandPVP": "zoningislandpvp.png",
+    "ZoningDungeon": "zoningdungeon.png",
     "GroupQuest": "groupquest.png",
     "OtherStory": "otherstory.png",
     "TreasureMap": "treasuremap.svg",
@@ -87,7 +88,8 @@ const MarkerTypeEnum = Object.freeze({
     "TravelingMerchant": "traveling_merchant.png",
     "AdventureStory": "adventure.png",
     "GhostShip": "ghostship.png",
-    "Achievement": "achievement.png"
+    "Achievement": "achievement.png",
+    "Essence": "essence.png"
 });
 
 const SearchResultTypeEnum = Object.freeze({
@@ -296,6 +298,10 @@ MarkerTypeDefaultTitle = function(markerType) {
             return "Area change (World)";
         }
 
+        case MarkerTypeEnum.ZoningDungeon: {
+            return "Area change (Dungeon)";
+        }
+
         case MarkerTypeEnum.TreasureBox: {
             return "Treasure Box";
         }
@@ -394,6 +400,10 @@ MarkerTypeDefaultTitle = function(markerType) {
 
         case MarkerTypeEnum.Achievement: {
             return "Achievement";
+        }
+
+        case MarkerTypeEnum.Essence: {
+            return "Essence";
         }
 
         default: {

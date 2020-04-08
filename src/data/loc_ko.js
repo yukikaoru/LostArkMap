@@ -1276,7 +1276,12 @@
         "Vertical Cave": "수직 동굴",
         "Activated by killing a Spider": "거미를 처치하면 길이 활성화",
         "After killing all enemies destroy the activated object": "적을 모두 처치 후, 활성화된 오브젝트를 파괴",
-        "Achievement": "업적"
+        "Achievement": "업적",
+        "Mureung Island": "무릉 도원",
+        "Gisbroy": "지스브로이",
+        "Blue Wind Island": "푸른 바람의 섬",
+        "Shadowmoon Market": "그림자달 시장",
+        "Knut's Tomb": "크누트의 무덤"
     };
 
     console.log("Registered Localization: " + LocalizationLanguage.Korean);

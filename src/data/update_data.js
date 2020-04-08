@@ -179,18 +179,22 @@
             t: "Peyton Update",
             e: [
                 'Added Peyton Maps',
-                'Added Achievement Marker Type',
-                'Added Ghost Ship Markers on World Map',
-                'Fixed Yon and Rohendel World Markers',
-                'Fixed spelling of `Rohendel` World Label',
-                'Fixed spelling of `Peyton` World Label',
+                'Added Achievement, Essence, Ghost Ship Marker Type',
+                'Added 6 Ghost Ships',
                 'Added 14 Achievement Markers',
                 'Added 15 Bosses',
                 'Added 2 Hidden Quests',
                 'Added 22 Hidden Stories',
-                'Added 70 Mokoko Seeds',
+                'Added 77 Mokoko Seeds',
                 'Added 8 Secret Passages',
                 'Added 10 Vistas',
+                'Added 10 Treasure Chests',
+                'Added 6 Villages',
+                'Added 1 Adventure Marker',
+                'Fixed Yon and Rohendel World Markers',
+                'Fixed spelling of `Rohendel` World Label',
+                'Fixed spelling of `Peyton` World Label',
+                'Reduced size of Adventure and Village Icons'
             ]
         },
         13: {

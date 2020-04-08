@@ -1476,7 +1476,7 @@
         "meta": {
             "heart": "Competition Quest: 'Red Lantern'<br>Rewards Hallucination Island Loot",
             "ilvl": 250,
-            "entry": "0:20 / 2:20 / 4:20 / 6:20 / 8:20 / 10:20 / 12:20 / 14:20 / 14:20 / 16:20 / 18:20 / 20:20 / 22:20",
+            "entry": "0:20 / 2:20 / 4:20 / 6:20 / 8:20 / 10:20 / 12:20 / 14:20 / 16:20 / 18:20 / 20:20 / 22:20",
             "entryTimes": [
                 1200,
                 8400,
@@ -1485,7 +1485,6 @@
                 30000,
                 37200,
                 44400,
-                51600,
                 51600,
                 58800,
                 66000,
@@ -1750,6 +1749,31 @@
             [
                 -90.64,
                 382.98
+            ]
+        ]
+    });
+
+    area.registerMap("Mureung Island", {
+        "type": MapTypeEnum.Island,
+        "meta": {
+            "heart": "Collect 500 Peaches to buy the Tree",
+            "ilvl": 400,
+            "entry": "0:20 / 6:20 / 12:20 / 18:20",
+            "entryTimes": [
+                1200,
+                22800,
+                44400,
+                66000
+            ]
+        },
+        "bounds": [
+            [
+                -212.03,
+                437.5
+            ],
+            [
+                -218.03,
+                443.62
             ]
         ]
     });

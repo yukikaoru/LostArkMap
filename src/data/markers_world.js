@@ -1878,7 +1878,8 @@
             "y": 202.01,
             "type": MarkerTypeEnum.AdventureStory,
             "id": 205,
-            "title": "Red Sea Turtle"
+            "popupText": "Silver Sea Turtle",
+            "hintText": "Obtain 5 Fragments of the Island"
         },
         {
             "x": -330.25,
@@ -1945,6 +1946,82 @@
             "type": MarkerTypeEnum.GhostShip,
             "id": 216,
             "hintText": "Item Level 515<br>Tuesday & Thursday: 7pm / 11 pm<br>Wednesday & Friday: 1am<br>Saturday: 11am / 6pm<br>Sunday: 3am"
+        },
+        {
+            "x": -369.94,
+            "y": 255.87,
+            "type": MarkerTypeEnum.AdventureStory,
+            "id": 217,
+            "popupText": "Pirate Flag"
+        },
+        {
+            "x": -101.12,
+            "y": 89.36,
+            "type": MarkerTypeEnum.NativeVillage,
+            "id": 218
+        },
+        {
+            "x": -106.87,
+            "y": 142.99,
+            "type": MarkerTypeEnum.NativeVillage,
+            "id": 219
+        },
+        {
+            "x": -117.87,
+            "y": 151.49,
+            "type": MarkerTypeEnum.NativeVillage,
+            "id": 220
+        },
+        {
+            "x": -120.12,
+            "y": 64.85,
+            "type": MarkerTypeEnum.NativeVillage,
+            "id": 221
+        },
+        {
+            "x": -149.12,
+            "y": 90.86,
+            "type": MarkerTypeEnum.NativeVillage,
+            "id": 222
+        },
+        {
+            "x": -168.75,
+            "y": 86.23,
+            "type": MarkerTypeEnum.NativeVillage,
+            "id": 223
+        },
+        {
+            "x": -226.875,
+            "y": 427.62501354389065,
+            "type": MarkerTypeEnum.ZoningIsland,
+            "id": 224,
+            "teleportTo": [
+                -217.53,
+                440.98
+            ],
+            "teleportArea": "Islands"
+        },
+        {
+            "x": -282.37,
+            "y": 321.23,
+            "type": MarkerTypeEnum.ZoningIsland,
+            "id": 225,
+            "teleportTo": [
+                -217.53,
+                440.98
+            ],
+            "teleportArea": "Islands"
+        },
+        {
+            "x": -190.87,
+            "y": 279.22,
+            "type": MarkerTypeEnum.ZoningIsland,
+            "id": 226,
+            "teleportTo": [
+                -217.53,
+                440.98
+            ],
+            "teleportArea": "Islands"
         }
     ];
 
