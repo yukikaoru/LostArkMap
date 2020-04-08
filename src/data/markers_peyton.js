@@ -1284,6 +1284,17 @@
             "id": 162,
             "hintText": "#1-5",
             "hintImage": "peyton/CaveAchievement14.jpg"
+        },
+        {
+            "x": -392.06,
+            "y": 263.43,
+            "type": MarkerTypeEnum.ZoningWorld,
+            "id": 163,
+            "teleportArea": "World",
+            "teleportTo": [
+                -195.25,
+                67.22
+            ]
         }
     ];
 

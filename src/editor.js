@@ -10,10 +10,6 @@
         }
 
         initialize() {
-            if(LAM.hostC !== true) {
-                return;
-            }
-
             this.initializeUI();
 
             this.isInitialized = true;
@@ -77,6 +73,7 @@
                     case MarkerTypeEnum.ZoningIsland:
                     case MarkerTypeEnum.ZoningIslandFlux:
                     case MarkerTypeEnum.ZoningWorld:
+                    case MarkerTypeEnum.ZoningDungeon:
                     case MarkerTypeEnum.TreasureMap:
                     case MarkerTypeEnum.IslandHeart:
                     case MarkerTypeEnum.TargetMark:

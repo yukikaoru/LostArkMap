@@ -2022,6 +2022,50 @@
                 440.98
             ],
             "teleportArea": "Islands"
+        },
+        {
+            "x": -229.37,
+            "y": 192.49,
+            "type": MarkerTypeEnum.ZoningIsland,
+            "id": 227,
+            "teleportTo": [
+                -224.25,
+                185.43
+            ],
+            "teleportArea": "Islands"
+        },
+        {
+            "x": -332.94,
+            "y": 34.22,
+            "type": MarkerTypeEnum.ZoningDungeon,
+            "id": 228,
+            "teleportTo": [
+                -364.66,
+                24.83
+            ],
+            "teleportArea": "Islands"
+        },
+        {
+            "x": -319.31,
+            "y": 65.93,
+            "type": MarkerTypeEnum.ZoningIsland,
+            "id": 228,
+            "teleportTo": [
+                -347.37,
+                57.95
+            ],
+            "teleportArea": "Islands"
+        },
+        {
+            "x": -349,
+            "y": 65.18,
+            "type": MarkerTypeEnum.ZoningIsland,
+            "id": 228,
+            "teleportTo": [
+                -387.97,
+                57.89
+            ],
+            "teleportArea": "Islands"
         }
     ];
 

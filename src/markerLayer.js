@@ -188,6 +188,7 @@
                         case MarkerTypeEnum.ZoningIsland:
                         case MarkerTypeEnum.ZoningIslandFlux:
                         case MarkerTypeEnum.ZoningIslandPVP:
+                        case MarkerTypeEnum.ZoningDungeon:
                         {
                             break;
                         }
@@ -335,6 +336,7 @@
             switch (markerData.type) {
                 case MarkerTypeEnum.ZoningIslandFlux:
                 case MarkerTypeEnum.ZoningIsland:
+                case MarkerTypeEnum.ZoningDungeon:
                 case MarkerTypeEnum.ZoningIslandPVP: {
                     if(markerData.isGenerated === true || markerData.area !== "World" || markerData.teleportTo === undefined) {
                         return;
@@ -417,6 +419,7 @@
                 case MarkerTypeEnum.Zoning:
                 case MarkerTypeEnum.ZoningIslandPVP:
                 case MarkerTypeEnum.ZoningIsland:
+                case MarkerTypeEnum.ZoningDungeon:
                 case MarkerTypeEnum.ZoningIslandFlux:
                 case MarkerTypeEnum.ZoningWorld: {
                     if(markerData.isGenerated || markerData.noReverseLink === true) {

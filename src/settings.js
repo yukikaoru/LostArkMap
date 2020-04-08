@@ -14,10 +14,6 @@
         }
 
         initialize() {
-            if(LAM.hostC !== true) {
-                return;
-            }
-
             this.load();
 
             LAM.createInterval("Auto-save", autoSave, 5000);

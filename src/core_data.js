@@ -89,7 +89,9 @@ const MarkerTypeEnum = Object.freeze({
     "AdventureStory": "adventure.png",
     "GhostShip": "ghostship.png",
     "Achievement": "achievement.png",
-    "Essence": "essence.png"
+    "Essence": "essence.png",
+    "Horse": "horse_n.png",
+    "HorseLarge": "horse_l.png"
 });
 
 const SearchResultTypeEnum = Object.freeze({
@@ -404,6 +406,14 @@ MarkerTypeDefaultTitle = function(markerType) {
 
         case MarkerTypeEnum.Essence: {
             return "Essence";
+        }
+
+        case MarkerTypeEnum.Horse: {
+            return "Horse";
+        }
+
+        case MarkerTypeEnum.HorseLarge: {
+            return "Large Horse";
         }
 
         default: {

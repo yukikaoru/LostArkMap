@@ -13,10 +13,6 @@
         }
 
         initialize() {
-            if(LAM.hostC !== true) {
-                return;
-            }
-
             this.initializeUI();
 
             LAM.createInterval('events', TimerCallback, 500);

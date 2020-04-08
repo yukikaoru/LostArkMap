@@ -42,10 +42,6 @@
         }
 
         initialize() {
-            if(LAM.hostC !== true) {
-                return;
-            }
-
             this.initializeFuse();
             this.initializeUI();
         }
@@ -106,6 +102,7 @@
                         case MarkerTypeEnum.ZoningIsland:
                         case MarkerTypeEnum.ZoningIslandFlux:
                         case MarkerTypeEnum.ZoningIslandPVP:
+                        case MarkerTypeEnum.ZoningDungeon:
                         case MarkerTypeEnum.Internal:
                         {
                             continue;

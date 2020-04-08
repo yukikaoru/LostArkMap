@@ -1778,4 +1778,75 @@
         ]
     });
 
+    area.registerMap("Shadowmoon Market", {
+        "type": MapTypeEnum.Island,
+        "meta": {
+            "heart": "Unknown",
+            "ilvl": 545
+        },
+        "bounds": [
+            [
+                -219.09,
+                184.53
+            ],
+            [
+                -225.34,
+                191.37
+            ]
+        ]
+    });
+
+    area.registerMap("Knut's Tomb", {
+        "type": MapTypeEnum.Island,
+        "meta": {
+            "ilvl": 625
+        },
+        "bounds": [
+            [
+                -362.12,
+                20.91
+            ],
+            [
+                -368.56,
+                27.66
+            ]
+        ]
+    });
+
+    area.registerMap("Blue Wind Island", {
+        "type": MapTypeEnum.Island,
+        "meta": {
+            "heart": "If you find all 31 horses you can receive quests from the 4 Large ones to obtain the heart",
+            "ilvl": 545
+        },
+        "bounds": [
+            [
+                -341.75,
+                54.22
+            ],
+            [
+                -347.94,
+                61.61
+            ]
+        ]
+    });
+
+    area.registerMap("Gisbroy", {
+        "type": MapTypeEnum.Island,
+        "meta": {
+            "heart": "Acquired from Reputation Reward after 20 completions of `Friends of Beer` by Epona",
+            "ilvl": 545
+        },
+        "bounds": [
+            [
+                -382.05,
+                53.87
+            ],
+            [
+                -389.66,
+                61.76
+            ]
+        ]
+    });
+
 })();

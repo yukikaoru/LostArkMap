@@ -3410,6 +3410,333 @@
             "id": 481,
             "hintImage": "islands/ShadowmoonHiddenQuest7.jpg",
             "hintText": "Island Heart Quest Chain"
+        },
+        {
+            "x": -365.83,
+            "y": 22.92,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 482,
+            "hintImage": "islands/KnutsMokoko1.jpg"
+        },
+        {
+            "x": -365.61,
+            "y": 24.17,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 483,
+            "hintImage": "islands/KnutsMokoko2.jpg"
+        },
+        {
+            "x": -365.88,
+            "y": 24.02,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 484
+        },
+        {
+            "x": -365.98,
+            "y": 22.83,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 485
+        },
+        {
+            "x": -363.62,
+            "y": 22.98,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 486,
+            "hintImage": "islands/KnutsMokoko3.jpg"
+        },
+        {
+            "x": -387.58,
+            "y": 58.49,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 487
+        },
+        {
+            "x": -385.8,
+            "y": 54.83,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 488
+        },
+        {
+            "x": -384.21,
+            "y": 55.1,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 489
+        },
+        {
+            "x": -383.69,
+            "y": 55.25,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 490
+        },
+        {
+            "x": -382.9296875,
+            "y": 55.445307421041,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 491
+        },
+        {
+            "x": -382.8671875,
+            "y": 55.515615688575174,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 492
+        },
+        {
+            "x": -387.59,
+            "y": 59.35,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 493
+        },
+        {
+            "x": -387.31,
+            "y": 59.38,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 494
+        },
+        {
+            "x": -386.55,
+            "y": 55.87,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 495
+        },
+        {
+            "x": -347.06,
+            "y": 58.54,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 496
+        },
+        {
+            "x": -346.42,
+            "y": 57.87,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 497
+        },
+        {
+            "x": -346.58,
+            "y": 57.44,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 498
+        },
+        {
+            "x": -344.25,
+            "y": 57.4,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 499
+        },
+        {
+            "x": -343.63,
+            "y": 55.97,
+            "type": MarkerTypeEnum.Mokoko,
+            "id": 500
+        },
+        {
+            "x": -344.41,
+            "y": 57.09,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 501
+        },
+        {
+            "x": -344.34,
+            "y": 54.99,
+            "type": MarkerTypeEnum.SecretPassage,
+            "id": 502
+        },
+        {
+            "x": -347.01,
+            "y": 57.2,
+            "type": MarkerTypeEnum.Horse,
+            "id": 503
+        },
+        {
+            "x": -347.2,
+            "y": 58.26,
+            "type": MarkerTypeEnum.Horse,
+            "id": 504
+        },
+        {
+            "x": -347.06,
+            "y": 59.31,
+            "type": MarkerTypeEnum.Horse,
+            "id": 505
+        },
+        {
+            "x": -346.52,
+            "y": 57.03,
+            "type": MarkerTypeEnum.Horse,
+            "id": 506
+        },
+        {
+            "x": -346.23,
+            "y": 56.26,
+            "type": MarkerTypeEnum.Horse,
+            "id": 507
+        },
+        {
+            "x": -345.98,
+            "y": 57.8,
+            "type": MarkerTypeEnum.Horse,
+            "id": 508
+        },
+        {
+            "x": -346.16,
+            "y": 59.19,
+            "type": MarkerTypeEnum.Horse,
+            "id": 509
+        },
+        {
+            "x": -346.03,
+            "y": 60.17,
+            "type": MarkerTypeEnum.Horse,
+            "id": 510
+        },
+        {
+            "x": -345.45,
+            "y": 60.44,
+            "type": MarkerTypeEnum.Horse,
+            "id": 511
+        },
+        {
+            "x": -345.43,
+            "y": 59.62,
+            "type": MarkerTypeEnum.Horse,
+            "id": 512
+        },
+        {
+            "x": -345.08,
+            "y": 58.48,
+            "type": MarkerTypeEnum.Horse,
+            "id": 513
+        },
+        {
+            "x": -345.14,
+            "y": 56.82,
+            "type": MarkerTypeEnum.Horse,
+            "id": 514
+        },
+        {
+            "x": -345.3,
+            "y": 56.04,
+            "type": MarkerTypeEnum.Horse,
+            "id": 515
+        },
+        {
+            "x": -345.49,
+            "y": 55.9,
+            "type": MarkerTypeEnum.Horse,
+            "id": 516
+        },
+        {
+            "x": -345.09,
+            "y": 55.64,
+            "type": MarkerTypeEnum.Horse,
+            "id": 517
+        },
+        {
+            "x": -345.07,
+            "y": 55.38,
+            "type": MarkerTypeEnum.Horse,
+            "id": 518
+        },
+        {
+            "x": -344.46,
+            "y": 55.97,
+            "type": MarkerTypeEnum.Horse,
+            "id": 519
+        },
+        {
+            "x": -344.55,
+            "y": 56.75,
+            "type": MarkerTypeEnum.Horse,
+            "id": 520
+        },
+        {
+            "x": -344.6,
+            "y": 58.53,
+            "type": MarkerTypeEnum.Horse,
+            "id": 521
+        },
+        {
+            "x": -344.73,
+            "y": 59.22,
+            "type": MarkerTypeEnum.Horse,
+            "id": 522
+        },
+        {
+            "x": -344.7,
+            "y": 59.53,
+            "type": MarkerTypeEnum.Horse,
+            "id": 523
+        },
+        {
+            "x": -344.38,
+            "y": 59.64,
+            "type": MarkerTypeEnum.Horse,
+            "id": 524
+        },
+        {
+            "x": -343.7,
+            "y": 59.57,
+            "type": MarkerTypeEnum.Horse,
+            "id": 525
+        },
+        {
+            "x": -343.93,
+            "y": 58.65,
+            "type": MarkerTypeEnum.Horse,
+            "id": 526
+        },
+        {
+            "x": -343.56,
+            "y": 58.19,
+            "type": MarkerTypeEnum.Horse,
+            "id": 527
+        },
+        {
+            "x": -343.58,
+            "y": 56.83,
+            "type": MarkerTypeEnum.Horse,
+            "id": 528
+        },
+        {
+            "x": -342.76,
+            "y": 57.48,
+            "type": MarkerTypeEnum.Horse,
+            "id": 529
+        },
+        {
+            "x": -342.48,
+            "y": 57.77,
+            "type": MarkerTypeEnum.Horse,
+            "id": 530
+        },
+        {
+            "x": -342.34,
+            "y": 57.64,
+            "type": MarkerTypeEnum.Horse,
+            "id": 531
+        },
+        {
+            "x": -345.3,
+            "y": 57.33,
+            "type": MarkerTypeEnum.HorseLarge,
+            "id": 532
+        },
+        {
+            "x": -346.55,
+            "y": 59.27,
+            "type": MarkerTypeEnum.HorseLarge,
+            "id": 533
+        },
+        {
+            "x": -344.33,
+            "y": 58.44,
+            "type": MarkerTypeEnum.HorseLarge,
+            "id": 534
+        },
+        {
+            "x": -343.05,
+            "y": 58.18,
+            "type": MarkerTypeEnum.HorseLarge,
+            "id": 535
         }
     ];
 
