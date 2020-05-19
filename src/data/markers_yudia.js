@@ -87,7 +87,7 @@
         {
             "x": -464.12,
             "y": 415.32,
-            "popupText": "Together forever #2",
+            "popupText": "Together forever #3",
             "type": MarkerTypeEnum.HiddenStory,
             "hintImage": "yudia/SalandHiddenStoryHint1.jpg",
             "id": 12
